@@ -40,7 +40,7 @@ body > .hug-top{
 }
 
 
-@media (max-device-width: 479px){
+@media (max-width: 479px){
   #HeaderCanvas{
     display: none;
   }
@@ -106,10 +106,6 @@ See: https://css-tricks.com/aspect-ratio-boxes/
         left: 0;
         height: 100%;
     }
-}
-
-a:link {
-  color: black;
 }
 
 .inline-text {

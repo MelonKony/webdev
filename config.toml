@@ -4,6 +4,10 @@ title = "🌺 ZELDA WIKI"
 publishdir = "/Users/joe/Documents/GitHub/wiki/"
 theme = "book"
 
+# (Optional) Set Google Analytics if you use it to track your website.
+# Always put it on the top of the configuration file, otherwise it won't work
+googleAnalytics = "UA-84289291-2"
+
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = true
 
@@ -12,7 +16,7 @@ disablePathToLower = true
 enableGitInfo = false
 
 BookRepo = 'https://github.com/MelonKony/wiki'
-BookEditPath = '/edit/'
+BookEditPath = '/'
 
 # (Optional) Theme is intended for documentation use, therefore it doesn't render taxonomy.
 # You can remove related files with config below
@@ -24,15 +28,25 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   contentDir = 'content'
   weight = 1
 
-[languages.ru]
-  languageName = '🇯🇵 Japanese'
-  contentDir = 'content.jp'
+[languages.fr]
+  languageName = '🇫🇷 Français'
+  contentDir = 'content.fr'
   weight = 2
 
-[languages.zh]
-  languageName = '🇵🇹 Portuguese'
+[languages.es]
+  languageName = '🇪🇸 Español'
+  contentDir = 'content.es'
+  weight = 4
+
+[languages.pt]
+  languageName = '🇵🇹 Português'
   contentDir = 'content.pt'
-  weight = 3
+  weight = 5
+
+[languages.jp]
+  languageName = '🇯🇵 日本語'
+  contentDir = 'content.jp'
+  weight = 6
 
 [params]
   # (Optional, default true) Controls table of contents visibility on right side of pages.

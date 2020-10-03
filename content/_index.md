@@ -23,22 +23,25 @@ Special thanks to Ben R. for technical support.
 **Site News 2020**  
 Many pages on this site are under construction and incomplete. Unless the article is flagged as completed, you should consider unfinished work subject to change.
 {{< /hint >}}
+
+{{< hint danger >}}
+**The Vekllei Translation Project**  
+Contributors to the Vekllei Translation Project will be listed here.
+{{< /hint >}}
 {{< /details >}}
 
 Welcome to Vekllei, a utopian worldbuilding project about all sorts of things.
 
-## Vekllei on the Web
-
-If you're new the project, this is the best place to start. This site is maintained by Hobart Phillips, creator of the Vekllei[^1] and its characters.
-
 ## Getting started
 
-{{< button href="https://reddit.com/r/vekllei" >}}Reddit{{< /button >}}
-{{< button href="https://discord.gg/dCE6vSU" >}}Discord{{< /button >}}
-{{< button href="https://patreon.com/vekllei" >}}Patreon{{< /button >}}
+If you're new the project, this is the best place to start. This site is maintained by Hobart Phillips, creator of the Vekllei and its characters. Visit our [Intro](docs/MillMint/intro.md) to get started. If you're ready to meet some of the characters of Vekllei, visit [Characters](docs/MillMint/characters.md) for a quick intro. You can read about the country of [Vekllei by clicking here](docs/MillMint/vekllei.md).
 
 #### Starred Articles
 - [Tzipora Desmoisnes]({{< relref "/docs/characters/tzipora.md" >}})
 - [Economy]({{< relref "/docs/landscape/economy.md" >}})
 
-[^1]: To say down here.
+## Vekllei on the Web
+
+{{< button href="https://reddit.com/r/vekllei" >}}Reddit{{< /button >}}
+{{< button href="https://discord.gg/dCE6vSU" >}}Discord{{< /button >}}
+{{< button href="https://patreon.com/vekllei" >}}Patreon{{< /button >}}
