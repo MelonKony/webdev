@@ -13,7 +13,7 @@ keywords:
 - architecture
 ---
 
-![apartment.jpg](../../../../../images/apartment.jpg)
+![apartment.jpg](/images/apartment.jpg)
 
 **Baron had inherited the apartment** from his uncle, who passed in the year following his parents. It was in a mixed residential-industrial neighbourhood, adjacent to a canvas factory. Out back was a rivulet, which roared in the long rainstorms of early April.
 

@@ -15,7 +15,7 @@ keywords:
 - society
 ---
 
-![feast.jpg](../../../../../images/feast.jpg)
+![feast.jpg](/images/feast.jpg)
 
 **East of Montre, West of Tjornes, waits a rare sight among Vekllei’s hard igneous slopes** — a crown of gentle sedimentary cliffs packed with ruddy sandstone, which melt glacially into the sea chasing blue-sky bergs.
 

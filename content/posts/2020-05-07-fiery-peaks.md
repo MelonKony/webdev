@@ -13,7 +13,7 @@ keywords:
 - zelda
 ---
 
-![peaks.jpg](../../../../../images/peaks.jpg)
+![peaks.jpg](/images/peaks.jpg)
 
 After three days in Ada, Tzipora set off towards Mt Miya. She made good time, and after three hours had happened upon the shoulders of the bright Volouisnesnkull Glacier. It was about here that she heard a morbid industrial siren, echoing up the valleys from far away.
 

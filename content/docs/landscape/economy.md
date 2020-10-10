@@ -1,5 +1,5 @@
 ---
-title: Economy
+title: Sundress Municipalism
 weight: 1
 ---
 
@@ -8,7 +8,8 @@ weight: 1
 This page is still under construction, and may be incomplete.
 {{< /hint >}}
 
-# Economy
+# The Vekllei Economy
+### *Sundress Municipalism*
 
 ## 1. Participatory Economics in Utopia
 
@@ -41,7 +42,7 @@ The abolition of currency is allowed by two facts:
 
 #### 2. The inefficiencies of a profitless market compensated by the total abolition of waged labour/labour costs.
 
-The function fo Vekllei 
+The function fo Vekllei
 
 {{</columns >}}
 

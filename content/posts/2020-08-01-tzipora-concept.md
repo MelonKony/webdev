@@ -13,7 +13,7 @@ keywords:
     - zelda
 ---
 
-![tzipora.jpg](../../../../../images/tziporacon.jpg)
+![tzipora.jpg](/images/tziporacon.jpg)
 
 ## Unique among girls
 

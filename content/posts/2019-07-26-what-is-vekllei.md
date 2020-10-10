@@ -21,7 +21,7 @@ Welcome to the ‘Petticoat Project’, a collection of stories about a country 
 
 Otherwise, read on for an introduction to this project and what I intend to do with it.
 
-![oldmap.png](../../../../../images/oldmap.png)
+![oldmap.png](/images/oldmap.png)
 
 ## The Epilogue to the Epoch of Rest
 

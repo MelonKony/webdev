@@ -15,7 +15,7 @@ keywords:
 - school
 ---
 
-![winteruniforms.jpg](../../../../../images/winteruniforms.jpg)
+![winteruniforms.jpg](/images/winteruniforms.jpg)
 
 **When I paint Vekllei, I usually depict the warmer months**. Hems are shorter, days are longer, and the destabilisation of the world’s climate has only benefited these arctic people. At the gift end of the Vekllei low pressure system, Scandinavian misery has become Mediterranean pleasure, with warm summers and a mild Autumn and Spring.
 

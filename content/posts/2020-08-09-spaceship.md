@@ -13,7 +13,7 @@ keywords:
     - zelda
 ---
 
-![apricot.jpg](../../../../../images/apricot.jpg)
+![apricot.jpg](/images/apricot.jpg)
 
 ## The Epoch of Rest
 

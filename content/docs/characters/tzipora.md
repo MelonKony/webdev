@@ -3,7 +3,7 @@ title: Tzipora Desmoisnes
 weight: 1
 ---
 {{< hint info >}}
-**Key Article**  
+**🌺 Note from the Editor**  
 This page is about a **main character** in the story of Vekllei.
 {{< /hint >}}
 {{< hint warning >}}
@@ -12,7 +12,7 @@ This page is still under construction, and may be incomplete.
 {{< /hint >}}
 {{< hint danger >}}
 **Starred Article**  
-This article is complete. It was last updated in July 2020.
+This article is complete. It was last updated in October 2020.
 {{< /hint >}}
 
 
@@ -23,22 +23,22 @@ This article is complete. It was last updated in July 2020.
 ### 1.1 Introduction
 
 {{< columns >}}
-**Tzipora Desmoisnes** (also *Zelda lo Ula Desmoisnes*, born May 5 2047) is a Vekllei [Gregori Baby](docs/author/gregori.md) and librarian, and is the [character utopia](docs/author/utopia.md) of the [Petticoat Project](docs/author/petticoat.md). Born to artist and political activist [Mette Sumoisnesn](/docs/landscape/economy.md) and an unknown father, the family moved to Colombia when Tzipora was six months old. Her return to Vekllei as a teen-ager would mark her integration into Vekllei society and her diagnosis as Vekllei's first victim of Gregori-Heitzfeld syndrome.
+**Tzipora Desmoisnes** (also *Zelda lo Ula de Helette Desmoisnes*, born May 5 2047) is a Vekllei [Gregori Baby](docs/landscape/gregori.md) and librarian, and is the [character utopia](/docs/MillMint/Intro/#three-utopias) of the [Petticoat Project](docs/author/petticoat.md). Born to artist and political activist [Mette Sumoisnesn](/docs/landscape/economy.md) and an unknown father, the family moved to Colombia when Tzipora was six months old. Her return to Vekllei as a teen-ager would mark her integration into Vekllei society and her diagnosis as Vekllei's first victim of Gregori-Heitzfeld syndrome.
 
-Tzipora is characterised by her intense disposition and conservative tastes, informed in part by her youth growing up poor in Colombia and the United States. Although she is naturally quiet and independent, she loves dearly her adoptive father [Baron Desmoisnes](docs/characters/baron.md) and family friend [Ayn Rumouisen](docs/characters/ayn.md), and holds affectionate, close relationships with those important to her.
+Tzipora is characterised by her intense disposition and conservative tastes, informed in part by her youth in Colombia and the United States. Although she is naturally self-sustaining and independent, she dearly loves her adoptive father [Baron Desmoisnes](docs/characters/baron.md) and family friend [Ayn Rumouisen](docs/characters/ayn.md), and holds affectionate, close relationships with those important to her.
 
 <--->
 
-![Tzipora with Ayn](https://millmint.studio/images/gregori.jpg)
+![Tzipora with Baron](/images/father.jpg)
 {{< /columns >}}
 
-Tzipora struggles with undiagnosed post-traumatic stress disorder, which interferes with her sleep and manifests as several triggers, including large dogs and lying on her chest. Her nervous behaviour has manifested in various tics, she is most obviously nervous pulling and rubbing of her clothes and nose. She is relatively unknown at a national level in Vekllei, except as an occasional medical curiosity, but is relatively famous internationally as the oldest surviving Gregori Baby.
+Tzipora struggles with shell-shock, which interferes with her sleep and is spurred by several triggers, including large dogs and lying on her chest. Her nervous behaviour manifests in various tics, most obviously pulling and rubbing of her clothes and nose. She is relatively unknown in Vekllei, except as an occasional medical curiosity, but is somewhat renowned internationally as the oldest surviving Gregori Baby.
 
 After the American invasion of Colombia in 2057, Mette paid an education broker several thousands of pesos to arrange Tzipora’s education in California. Although Tzipora would graduate in 2061, she had lost contact with her mother and had lapsed on her education visa. Without an allowance and barred from legitimate work, she moved to Utah the same year in search of income.
 
-After finding work as a motel maid and residence at a women’s shelter, Tzipora was witness to much of the industrial unrest in Utah in the early 2060s. After being threatened and later nearly murdered by strikebreakers for her association with the United Mine Workers, at that time an illegal organisation, she met [[Baron Desmoisnes]], an agent of the Vekllei [Americas Bureau at National Intelligence](docs/landscape/intelligence.md). In 2063, she would flee Utah under his advice and return to Vekllei under emergency asylum.
+After finding work as a maid and residence at a women’s shelter, Tzipora witnesses to much of the industrial unrest in Utah in the early 2060s. After being threatened and nearly murdered by strikebreakers for her tacit association with the United Mine Workers, at that time an illegal organisation, she met [Baron Desmoisnes](docs/characters/baron.md), an agent of the Vekllei [Americas Bureau at National Intelligence](docs/landscape/intelligence.md). In 2063, she would flee Utah under his advice and return to Vekllei as an expatriated citizen.
 
-Since arriving in [[Vekllei]] at the age of 16, Tzipora has received two doctorates from Montre University and currently works as a community librarian in the small Montre village of Montre-Lola.
+Since arriving in [Vekllei](docs/MillMint/vekllei.md) at the age of 16, Tzipora has received two doctorates from Montre University and currently works as a community librarian in the small Montre village of Montre-Lola, where she is well-loved.
 
 ## 2. Early Life
 ### Birth in Ro

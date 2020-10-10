@@ -3,42 +3,62 @@
 // @import "plugins/numbered";
 // @import "plugins/scrollbars";
 
+// hiding scrollbar
+::-webkit-scrollbar {
+    display: none;
+}
+
+//typography
 hr, h1, h2 {
   font-weight: bold;
+}
+
+.markdown h1 {
+  margin-top: 1.25em;
 }
 
 .book-brand img {
   height: 1em;
   vertical-align: top;
 }
-.book-brand, h2 {
-  font-size: 28px;
+.book-brand {
+  font-size: 34px;
   font-weight: bolder;
+  margin-bottom: 10px;
 }
 .book-brand {
   font-family: roboto;
   font-weight: 900;
  }
- .book-brand a:hover {
-   background-image: -webkit-linear-gradient(270deg, #fd2b3d, #ae51aa);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -webkit-animation: hue 1s infinite linear;
- }
+ 
+.book-brand a:hover {
+ background-image: -webkit-linear-gradient(270deg, #fd2b3d, #ae51aa);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+-webkit-animation: hue 1s infinite linear;
+}
 
- @-webkit-keyframes hue {
-   from {
-     -webkit-filter: hue-rotate(0deg);
-   }
-   to {
-     -webkit-filter: hue-rotate(-360deg);
-   }
+@-webkit-keyframes hue {
+ from {
+   -webkit-filter: hue-rotate(0deg);
  }
+ to {
+   -webkit-filter: hue-rotate(-360deg);
+ }
+}
 
 // rounded images
 .markdown img {
   border-radius: 5px;
 }
+
+// link colours
+.markdown a:visited {
+}
+.markdown a:link {
+  color: #f66;
+}
+
 
 // title bold styles
 .markdown h1 {

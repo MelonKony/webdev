@@ -17,7 +17,7 @@ keywords:
 - trains
 ---
 
-![missedtrain.jpg](../../../../../images/missedtrain.jpg)
+![missedtrain.jpg](/images/missedtrain.jpg)
 
 **They both watched as train 416 pulled away from the platform.** And that was that — there would be no school in the morning. That was how it worked in rural Vekllei, a million miles from the automatic trains on endless timetables. Out here, you paced life around the station.
 

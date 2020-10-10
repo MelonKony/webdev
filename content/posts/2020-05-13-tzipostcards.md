@@ -11,7 +11,7 @@ keywords:
 - announcements
 ---
 
-![tzipostcards.jpg](../../../../../images/tzipostcards.jpg)
+![tzipostcards.jpg](/images/tzipostcards.jpg)
 
 Hello everyone. **Just a little update**.
 

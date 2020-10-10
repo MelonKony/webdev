@@ -11,4 +11,4 @@ This page is about a **main character** in the story of Vekllei.
 This page is still under construction, and may be incomplete.
 {{< /hint >}}
 
-# Cobian Queismesnah
+# 🦚 Cobian Queismesnah

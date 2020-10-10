@@ -11,7 +11,7 @@ keywords:
     - infograph
 ---
 
-![dog.jpg](../../../../../images/dog.jpg)
+![dog.jpg](/images/dog.jpg)
 
 ## Station Dogs
 
