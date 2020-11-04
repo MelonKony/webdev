@@ -3,7 +3,31 @@ weight: 1
 title: "2020 Issues"
 ---
 
-# THE ***ATLANTIC*** BULLETIN
-The bulleting was created in May 2020 to supplement content posted to reddit. It features prject updates, news relevant to the project, and contributing essays from friends of the project. It is published monthly via direct email subscription. **If you would like to subscribe to the bulletin, contact Hobart on [Reddit](www.reddit.com/r/vekllei) or [Discord](discord.gg/dCE6vSU).**
+# 🏝 The ***Atlantic*** Bulletin
 
-{{< button relref="docs/MillMint/bulletin/2020/#1.md" >}}May 2020{{< /button >}}
+{{< hint info >}}
+**🌺 Note from the Editor**  
+The bulletin was created in May 2020 to supplement content posted to reddit. It features project updates, news relevant to the project, and contributing essays from friends of the project. It is published monthly via direct email subscription.
+
+**If you would like to subscribe to the bulletin, contact Hobart on [Reddit](www.reddit.com/r/vekllei) or [Discord](discord.gg/dCE6vSU).**
+{{< /hint >}}
+
+Listed below are the issues of The *Atlantic* distributed in 2020. Since the bulletin was founded in May of 2020, only 8 issues will be catalogued here.
+
+---
+
+<br>
+
+{{< button relref="docs/MillMint/bulletin/2020/1.md" >}}May 2020{{< /button >}}
+
+{{< button relref="docs/MillMint/bulletin/2020/2.md" >}}Jun 2020{{< /button >}}
+
+{{< button relref="docs/MillMint/bulletin/2020/3.md" >}}Jul 2020{{< /button >}}
+
+{{< button relref="docs/MillMint/bulletin/2020/4.md" >}}Aug 2020{{< /button >}}
+
+{{< button relref="docs/MillMint/bulletin/2020/5.md" >}}Sep 2020{{< /button >}}
+
+{{< button relref="docs/MillMint/bulletin/2020/6.md" >}}Oct 2020{{< /button >}}
+
+<br>

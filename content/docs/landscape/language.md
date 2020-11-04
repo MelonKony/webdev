@@ -31,9 +31,10 @@ Let's take a look in more detail about how each aspect of the Vekllei language o
 Spoken Vekllei draws from two glossaries, called *Oa* and *Loh*. These glossaries date back to the
 
 #### 2.2.1 Oa
-*Oa* is considered to have 'permenant' traits. It is often characterised abroad as a positive glossary, though this is not true -- it is in fact dedicated to inanimate and unliving organs. It is gendered as masculine, and is associated with Summer and Spring.
+*Oa* is considered to have 'permanent' traits. It is often characterised abroad as a positive glossary, though this is not true -- it is in fact dedicated to inanimate and unliving organs. It is gendered as masculine, and is associated with Summer and Spring.
 #### 2.2.2 Loh
-*Loh* is considered to have 'cyclical' traits. This includes
+*Loh* is considered to have 'cyclical' traits. Loh words are largely derived from Old Vekllei (including Icelandic), and so its glossary is considerably less defined and dependent on older linguistic artefacts. *Loh* words 
+ It is gendered as feminine, and is associated with winter and autumn.
 
 ### 2.2 Topet
 ### 2.3 Rapotenne

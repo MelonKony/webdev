@@ -3,6 +3,10 @@ title: Intro
 weight: 1
 ---
 
+![Intro GIF](/images/intro.gif)
+
+# 🎊 The Epilogue of the *Epoch of Rest*
+
 {{< hint info >}}
 **🌺 Note from the Editor**  
 If you're new to the project, start here. This is a crash course on what this website (and the project at large) is all about.
@@ -11,10 +15,6 @@ If you're new to the project, start here. This is a crash course on what this we
 **Under Construction**  
 This page is still under construction, and may be incomplete.
 {{< /hint >}}
-
-# 🎊 The Epilogue of the *Epoch of Rest*
-
-![Vekllei kids on road trip](/images/roadtrip.jpg)
 
 ## What is this project?
 **Vekllei is supposed to be an 'epoch of rest'**. It's a project that's become very big, with a long storyline and lots of characters, but at its heart this world is about peaceful escapism and whimsical nostalgia.
@@ -42,7 +42,7 @@ Vekllei is **place**, but it's also a **people**, created by [Hobart](docs/autho
 
 So what does 'utopia' mean? It’s latin for “no place”. It's a forgotten history, a missed opportunity -- a perfect place to escape to. It's a dream facing our past.
 
-![Vekllei as Utopia](/images/waterfront.jpg)
+![Vekllei kids on road trip](/images/roadtrip.jpg)
 
 Vekllei is a very good place to live, but **it is not perfect**. Although many utopias are presented as perfect Edens of Earth, Vekllei is *utopie concreté*. It is a *dirty utopia* full of the inconveniences, inefficiencies and heartbreak of reality. The idea of my utopia, then, is to settle the bad things of life in a beautiful framework.
 
@@ -96,6 +96,8 @@ I plan to tell lots of stories in Vekllei in lots of different ways. This wiki i
 I also plan to start work on a comic in late October 2020, and in 2021 I intent to produce a short animated trailer for the project. You can follow me along on these adventures on [my Discord](https://discord.gg/dCE6vSU) or the [Vekllei subreddit](www.reddit.com/r/vekllei).
 
 Thank you for visiting, and I hope you enjoy this adventure in dreaming.
+
+---
 
 ## F.A.Q.
 

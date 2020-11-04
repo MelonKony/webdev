@@ -7,13 +7,14 @@ bookToC: false
 {{% parallax %}}
 
 <h1 style="text-align: center;">
-🌸 Welcome to MillMint, home of Vekllei 🌸
+Welcome to 🌺 MillMint, home of Vekllei
 </h1>
 <h2 style="text-align: center;font-style: italic;">
 The only comprehensive archive of the Petticoat Project on the web, est. 2020
 </h2>
 <br>
 {{< details title="Site News" open=true >}}
+
 {{< hint info >}}
 **🌺 Administration**  
 This wiki was created in October 2020 to provide a comprehensive resource to the world of Vekllei, and as an archive for posts, bulletins, comics, illustrations and miscellaneous content related to Vekllei.
@@ -31,10 +32,14 @@ Many pages on this site are under construction and incomplete. Unless the articl
 {{< hint danger >}}
 **🌼 The Vekllei Translation Project**  
 Français? Español? Português? 日本語? Contributors to the Vekllei Translation Project will be listed here.
+{{< columns >}}
+- Wilpin
+<--->
+
+{{< /columns >}}
+
 {{< /hint >}}
 {{< /details >}}
-
-## Welcome to millmint.net, the home of the Vekllei utopian worldbuilding project.
 
 Vekllei is published as illustrations with stories attached, but soon will feature a comic. **You can access an archive of these posts at the [Archive](posts/_index.md)**.
 
