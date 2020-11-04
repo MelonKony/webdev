@@ -22,13 +22,6 @@ The Home Island has been inhabited for at least four thousand years by Arctic pe
 
 
 ## 2. Etymology
-### Birth in Ro
-#### Mette Sumoisnesn
-Mette became pregnant aged 22 during her revival as an underground sculpture artist. Unsure of whether she was ready to raise a child, she later returned home to her family home for the first time in six years on the advice of her friends. The following Autumn, Tzipora was born.
-
-She was delivered at the Ro Maternity Clinic without a father, since Mette was involved with several partners at the time.
-
-### Childhood in Colombia
 
 ## 3. History
 
@@ -53,25 +46,7 @@ She was delivered at the Ro Maternity Clinic without a father, since Mette was i
 
 ## 4. Geography
 
-### 2062 Homelessness
-
-Tzipora first met Baron Desmoisnes in May, just before her 16th birthday. He ran a bookshop on the outskirts of Cherry, nestled on a business street between the Greenwood and Salt Flats subdivisions.
-
-#### Employment at Sunshine Motel
-
-#### Attempted murder by the Cherry Sheriff's Dept.
-
-#### Fleeing Utah
-
 ## 5. Politics
-
-### Uncertain Futures
-
-#### Culture Shock
-
-#### Life with Baron
-
-### Integration
 
 ## 6. Economy
 

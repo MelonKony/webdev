@@ -1,5 +1,5 @@
 ---
-title: Vekllei Religion
+title: Religion
 weight: 1
 ---
 

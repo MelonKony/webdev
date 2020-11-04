@@ -1,5 +1,5 @@
 ---
-title: Vekllei Armed Forces
+title: Armed Forces
 weight: 1
 ---
 

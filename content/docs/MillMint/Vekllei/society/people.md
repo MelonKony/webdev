@@ -1,5 +1,5 @@
 ---
-title: Vekllei People
+title: People
 weight: 1
 ---
 
