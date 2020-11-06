@@ -15,7 +15,7 @@ disablePathToLower = true
 #  information on 'doc' type pages.
 enableGitInfo = true
 
-BookRepo = 'https://github.com/MelonKony/wikidev'
+BookRepo = 'https://github.com/MelonKony/webdev'
 
 BookEditPath = '/blob/master/content/'
 
