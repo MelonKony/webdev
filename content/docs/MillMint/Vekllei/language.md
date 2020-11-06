@@ -1,6 +1,6 @@
 ---
 title: Language
-weight: 1
+weight: 2
 ---
 
 {{< hint danger >}}
