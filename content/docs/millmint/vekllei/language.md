@@ -24,7 +24,7 @@ This article is complete. It was last updated in November 2020.
 
 ## 2. Language
 
-Let's take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/docs/MillMint/Vekllei/language/#21-spoken-vekllei) and [*Topet*](/docs/MillMint/Vekllei/language/#22-topet) are understood universally. Other languages, often called *sub-languages*, are informed regionally and have varying literacy across the Home Island. For example, [*Upotenne*](/docs/MillMint/Vekllei/language/#25-upotenne) is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world's most complex and hermetic language systems.
+Let's take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/docs/millmint/vekllei/language/#21-spoken-vekllei) and [*Topet*](/docs/millmint/vekllei/language/#22-topet) are understood universally. Other languages, often called *sub-languages*, are informed regionally and have varying literacy across the Home Island. For example, [*Upotenne*](/docs/millmint/vekllei/language/#25-upotenne) is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world's most complex and hermetic language systems.
 
 ### 2.1 Spoken Vekllei
 
@@ -52,7 +52,7 @@ Spoken Vekllei is phonologically homogenous, and has little variation in accent 
 
 ##### Monophthongs
 
-Pure vowels in Vekllei are characterised by their lax, non-rhotic sound.
+Pure vowels in Vekllei are characterised by their lax, non-rhotic sound, and their uses varies across cultivated and common Vekllei dialects.
 
 {{< details title="Pure Vowels" open=true >}}
 |               | Front |      |                | Central |      | Back  |      |
@@ -109,12 +109,25 @@ From foundational monophthongs, gliding or diphthong vowels are often determined
 
 ### 2.2 Topet
 
+**Topet**, sometimes called *Vekllei Form* or *Vekllei hieroglyphs* is the formal writing system in Vekllei. Topet incorporates logographic and neosyllabic/abugida-type components and incorporates some 3,450 unique characters in modern usage. Although proto-glyphs and a primitive runic system had been used in *Islandi*-era Vekllei since at least the 8th Century BC, by the time *Quutetast* influences had arrived with Inuit settlement in the 4th Century AD the parent scripts had at least partially fused into early Topet, called *hieyeric*. In Vekllei, *Topet* is the national language alongisde its sister-form, [*Rapotenne*](/docs/millmint/vekllei/language/#23-rapotenne) and [*Spoken Vekllei*](/docs/millmint/vekllei/language/#21-spoken-vekllei). Topet has no clear lineage from Scandinavian or Inuit languages, and so is rarely understood outside of the territories where it is an official or significant minority language, used by some 25 million people.
 
-Consonant characters (*demioette*) written in Topet may feature redundant adjacent characters called *phonetic complements*, which, in a non-determinative reading, are pronounced the same way, to guide the reader. This lends to a system that encourages adjacent consonants in some aspects, since Vekllei characters are already combined into neosyllabic pairings and it is immediately obvious which characters are to be read. The word for friend, *comoyia*, can thus sometimes be transliterated into c-c-c<sup>o</sup>m-m<sup>o</sup>y<sup>ia</sup>, which can affect the transcendental meanings of a word through the figurative placement of its characters as well as help guide the reader through the use of multiple phonetically identical, though visually distinct, characters.
+#### 2.2.1 Overview
+
+Individual *Topet* characters are both phonograms and semagrams, and so they support multiple readings. Many are basically figurative, and represent conceptually what they depict. Each character conforms to an abugida-type system, in which consonant-vowel pairings are written in joined notation. In *Topet*, the consonant anchors the pairing, which is called *Lohtopet*, and vowel notation is usually raised in superscript, called *Oatopet*. These names are not related to the binary glossary, and are a designation in keeping with the 
+
+#### 2.2.2 Phonetic Reading
+
+Consonant characters (*demioette*) written in Topet may feature redundant adjacent characters called *phonetic complements*, which, in a non-determinative reading, are pronounced the same way, to guide the reader. This lends to a system that encourages adjacent consonants in some aspects, since Vekllei characters are already combined into neosyllabic pairings and it is immediately obvious which characters are to be read. The word for friend, *comoyia*, can thus sometimes be transliterated into c-c-c<sup>o</sup>m-m<sup>o</sup>y<sup>ia</sup>, which can affect the conceptual meanings of a word through the figurative placement of its characters as well as help guide the reader through the use of multiple phonetically identical, though visually distinct, characters.
+
+#### 2.2.3 Semantic Reading
 
 ### 2.3 Rapotenne
 
-**Rapotenne** (*lit. "Name-Talk"*) is the Vekllei system of names, often considered in modernity to function as a distinct, though limited, language. Contemporary *Rapotenne* is informed by pictographic proto-*Topet* runes as well as elements of the extinct *Kala* language and subsequently *Quutetast* Algic components. Because *Kala* is extinct and *Quutetast* is a dead language, largely displaced by modern spoken Vekllei, *Rapotenne* is unique among Vekllei's sublanguages for its direct lineage from proto-linguistic forms of early Vekllei history, some nearly 4,000 years old. Today it is used largely ceremonially, through ritual related to birth and [Blood Names](**LINK**
+**Rapotenne** (*lit. "Name-Talk"*) is the Vekllei system of names, often considered in modernity to function as a distinct, though limited, language. Contemporary *Rapotenne* is informed by pictographic proto-*Topet* runes as well as elements of the extinct *Kala* language and subsequently *Quutetast* Algic components. Because *Kala* is extinct and *Quutetast* is a dead language, largely displaced by modern spoken Vekllei, *Rapotenne* is unique among Vekllei's sublanguages for its direct lineage from proto-linguistic forms of early Vekllei history, some nearly 4,000 years old. Today it is used largely ceremonially, through ritual related to birth and [Blood Names](**LINK**).
+
+#### 2.2.1 Overview
+
+Rapotenne has its origins in superstitious Islandi magical staves, sigils which evolved into battle names and honourifics, called Blood Names.  
 
 
 ### 2.4 Potenne
@@ -125,7 +138,7 @@ Consonant characters (*demioette*) written in Topet may feature redundant adjace
 
 Historic social taboos in Vekllei's dominant religion, Upen, prevented speech between people for a variety of reasons, including for marital, interfamilial, penal and ascetic considerations. *Potenne* first arose to avoid these taboos. During the first substantial immigration of Inuit-Kalaallisut peoples in the 4th century BC, proto-*Potenne* avoidance languages developed pragmatic pidgin forms to allow for trade and communication between settlers and the original Islandi population. This rapid expansion in use saw *Potenne* develop solidified cultural tenants, including phonologically distinct suprasegmental components like *biouspotenne* (*lit. "Face-Talk"*), which distinguishes facial expression from gestures in poetic, transcendental forms, and *kiouyapotenne* (*lit. "Child-Talk"*), which uses facial expressions to teach children individual signs.
 
-By the 11th Century, *Potenne* is documented alongside other critical languages like *Topet*, and had demonstrated its saturation of Vekllei society in several sociological and cultural forms, including [*Upotenne*](/docs/MillMint/Vekllei/language/#25-upotenne), today considered an independent language system within Vekllei's varied linguistic cultures.
+By the 11th Century, *Potenne* is documented alongside other critical languages like *Topet*, and had demonstrated its saturation of Vekllei society in several sociological and cultural forms, including [*Upotenne*](/docs/millmint/vekllei/language/#25-upotenne), today considered an independent language system within Vekllei's varied linguistic cultures.
 
 #### 2.4.2 Phonology
 
