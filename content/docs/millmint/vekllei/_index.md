@@ -23,6 +23,8 @@ The Home Island has been inhabited for at least four thousand years by Arctic pe
 
 ## 2. Etymology
 
+The word *Vekllei* comes from the Islandi-Quutetast fusion dialect called *Topyas*, often simply 'Old Vekllei' in English, which was in common use by the 9th Century.
+
 ## 3. History
 
 ### Settlement and Commonwealth

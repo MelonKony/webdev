@@ -5,6 +5,10 @@
 // @import "plugins/numbered";
 // @import "plugins/scrollbars";
 
+//nav padding
+.book-section-flat {
+	margin-left: 0.5rem;
+}
 //typography
 hr, h1, h2 {
   font-weight: bold;
@@ -50,11 +54,12 @@ hr, h1, h2 {
 }
 
 // link colours
-.markdown a:visited {
+/*.markdown a:visited {
 }
 .markdown a:link {
   color: #f66;
 }
+*/
 
 
 // title bold styles
@@ -74,8 +79,12 @@ hr, h1, h2 {
   font-weight: bold;
 }
 
-// dark mode
+//button bottom margin fix
+.markdown a.book-btn {
+	margin-bottom: 10px;
+}
 
+// dark mode
 .book-search input {
   width: 100%;
 }
@@ -176,16 +185,6 @@ hr, h1, h2 {
     border-color: #19ab27;
   }
 
-  // .js-toggle--focus .js-toggle-thumb {
-  //   // box-shadow: 0px 0px 2px 3px rgb(255, 167, 196);
-  //   box-shadow: 0px 0px 2px 3px #64CEAA;
-  // }
-
-  // .js-toggle:active .js-toggle-thumb {
-  //   box-shadow: 0px 0px 5px 5px #64CEAA;
-  //   // box-shadow: 0px 0px 5px 5px rgb(255, 167, 196);
-  // }
-
   .magic {
       display: flex;
   }
@@ -228,12 +227,18 @@ $theme-dark: (
     }
 }
 
+//bulletin img shortcode
 img[alt=smallbulletin] { width: 400px; }
 
+//fix for light italics
 @font-face {
     font-family: roboto;
     font-style: none;
     font-weight: 300;
     font-display: swap;
     src: local("Roboto Light Italic"), local("Roboto-LightItalic"), url(fonts/roboto-v19-latin-regular.woff2) format("woff2"), url(fonts/roboto-v19-latin-regular.woff) format("woff")
+}
+
+.book-post {
+  margin-bottom: 0px;
 }

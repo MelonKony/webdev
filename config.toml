@@ -1,12 +1,12 @@
 baseURL = "https://millmint.net/"
 languageCode = "en"
 title = "🌺 MillMint"
-publishdir = "/Users/joe/Documents/GitHub/wiki/"
+publishdir = "C:/Users/melon/Documents/GitHub/millmint.net"
 theme = "book"
 
 # (Optional) Set Google Analytics if you use it to track your website.
 # Always put it on the top of the configuration file, otherwise it won't work
-googleAnalytics = "UA-84289291-2"
+googleAnalytics = "G-KC02XB55HF"
 
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = true

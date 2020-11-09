@@ -2,7 +2,7 @@
 title: Village Map of Montre-Lola
 date: 2020-06-29 04:50:47
 tags:
-    - maps
+    - map
     - vekllei
     - society
 categories:

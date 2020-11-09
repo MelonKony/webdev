@@ -8,9 +8,9 @@ tags:
 categories:
     - landscape
 keywords:
-- map
-- military
-- fission
+    - map
+    - military
+    - fission
 ---
 
 ![bulletin](/images/warmap.jpg)

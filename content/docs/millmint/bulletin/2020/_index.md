@@ -3,7 +3,7 @@ weight: 1
 title: "2020 Issues"
 ---
 
-# 🏝 The ***Atlantic*** Bulletin
+# 🌼 The ***Atlantic*** Bulletin
 
 {{< hint info >}}
 **🌺 Note from the Editor**  

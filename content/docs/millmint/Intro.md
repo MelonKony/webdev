@@ -53,7 +53,7 @@ Utopia is a form of *social dreaming*, much like worldbuilding, linked to the va
 
 Note that both form a part of the “utopia” — this is appropriate, since Vekllei is grounded in a social realism that acknowledges the good and bad parts of life. Indeed, they are inseparable — you cannot have the light without the dark. Such is the internal contradiction of any good utopia.
 
-### Utopia as Author
+### 🏜️ Utopia as Author
 The project is the creation of an **Author**, the producer of the whole thing. The creative and personal products are theirs, as unique as a fingerprint. They most likely produce a lot of different societies and characters in trying to tell a story, or flesh out an idea they’ve had — but for the purposes of the idea of an *epoch of rest*, there are two perfect utopias: **landscape** (society and the world), and
 **character** (personality and appearance). In this sense, the author is the genesis of the utopia.
 
