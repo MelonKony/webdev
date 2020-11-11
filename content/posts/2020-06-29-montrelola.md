@@ -3,13 +3,11 @@ title: Village Map of Montre-Lola
 date: 2020-06-29
 tags:
     - map
-    - vekllei
     - society
 categories:
     - landscape
 keywords:
     - maps
-    - vekllei
     - society
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/hhjytf/village_map_of_montrelola/" >}}Archived from the original article here{{< /button >}}

@@ -1,8 +1,8 @@
 {{ define "main" }}
-  <h1 style= "margin-top: 0px;"> 🌸 Post Archive </h1>
+  <h1 style= "margin-top: 0px; margin-bottom: 35x;"> 🌸 Post Archive </h1>
   {{ range sort .Paginator.Pages }}
   <article class="markdown book-post" style= "margin-bottom: 0px;">
-    <h5>
+    <h5 style= "margin-bottom: 0px;">
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </h5>
     {{ partial "docs/post-meta" . }}

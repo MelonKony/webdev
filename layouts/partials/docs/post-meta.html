@@ -1,3 +1,3 @@
 {{ with .Date}}
-  <h5>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5>
+  <h6 style= "margin-top: 0.2rem; margin-bottom: 2rem; color: black;">{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h6>
 {{ end }}
