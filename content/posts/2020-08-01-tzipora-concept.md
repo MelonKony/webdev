@@ -1,6 +1,6 @@
 ---
 title: Meet Tzipora — concept panel for a Vekllei comic
-date: 2020-08-01 06:58:58
+date: 2020-08-01
 tags:
     - concept
     - infograph
@@ -12,6 +12,11 @@ keywords:
     - infograph
     - zelda
 ---
+{{< button href="https://www.reddit.com/r/vekllei/comments/i1fgjd/meet_tzipora_concept_panel_for_a_vekllei_comic/" >}}Archived from the original article here{{< /button >}}
+{{< hint danger >}}
+**🌼 Featured in the *Atlantic***  
+This article appeared in **Issue #3 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/3).
+{{< /hint >}}
 
 ![tzipora.jpg](/images/tziporacon.jpg)
 

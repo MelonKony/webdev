@@ -6,4 +6,4 @@ menu:
 title: Archive
 ---
 
-Welcome to MillMint's Blog.
+# Posts

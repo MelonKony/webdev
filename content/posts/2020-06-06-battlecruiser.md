@@ -1,17 +1,22 @@
 ---
 title: The Oa-Class Battlecruiser
-date: 2020-06-06 02:16:52
+date: 2020-06-06
 tags:
     - military
-    - vekllei
+    - society
     - machines
 categories:
     - landscape
 keywords:
-- military
-- vekllei
-- machines
+    - military
+    - society
+    - machines
 ---
+{{< button href="https://www.reddit.com/r/vekllei/comments/gx7l0c/the_oaclass_battlecruiser/" >}}Archived from the original article here{{< /button >}}
+{{< hint danger >}}
+**🌼 Featured in the *Atlantic***  
+This article appeared in **Issue #2 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/2).
+{{< /hint >}}
 
 ![cruiser.jpg](/images/cruiser.jpg)
 

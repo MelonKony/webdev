@@ -1,6 +1,6 @@
 ---
 title: The Last Train Out of Ada
-date: 2020-05-21 01:45:11
+date: 2020-05-21
 tags:
     - painting
     - nature
@@ -10,12 +10,17 @@ tags:
 categories:
     - character
 keywords:
-- painting
-- nature
-- cobian
-- zelda
-- trains
+    - painting
+    - nature
+    - cobian
+    - zelda
+    - trains
 ---
+{{< button href="https://www.reddit.com/r/vekllei/comments/gndpwo/the_last_train_out_of_ada/" >}}Archived from the original article here{{< /button >}}
+{{< hint danger >}}
+**🌼 Featured in the *Atlantic***  
+This article appeared in **Issue #1 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/1).
+{{< /hint >}}
 
 ![missedtrain.jpg](/images/missedtrain.jpg)
 

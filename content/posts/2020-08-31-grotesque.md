@@ -4,14 +4,17 @@ date: 2020-08-31
 tags:
     - map
     - military
-    - fission
 categories:
     - landscape
 keywords:
     - map
     - military
-    - fission
 ---
+{{< button href="https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
+{{< hint danger >}}
+**🌼 Featured in the *Atlantic***  
+This article appeared in **Issue #4 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/4).
+{{< /hint >}}
 
 ![bulletin](/images/warmap.jpg)
 

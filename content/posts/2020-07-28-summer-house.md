@@ -1,17 +1,20 @@
 ---
 title: Summer House in the Azores
-date: 2020-07-28 00:23:06
+date: 2020-07-28
 tags:
     - painting
-    - watercolour
     - zelda
 categories:
     - landscape
 keywords:
-- painting
-- watercolour
-- zelda
+    - painting
+    - zelda
 ---
+{{< button href="https://www.reddit.com/r/vekllei/comments/hyt68u/summer_house_in_the_azores/" >}}Archived from the original article here{{< /button >}}
+{{< hint danger >}}
+**🌼 Featured in the *Atlantic***  
+This article appeared in **Issue #3 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/3).
+{{< /hint >}}
 
 ![summerhouse.jpg](/images/summerhouse.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: What is Vekllei?
-date: 2019-07-26 00:46:30
+date: 2019-07-26
 tags:
     - meta
     - intro
@@ -10,6 +10,7 @@ keywords:
     - meta
     - intro
 ---
+{{< button href="https://www.reddit.com/r/vekllei/comments/chomw1/what_is_vekllei/" >}}Archived from the original article here{{< /button >}}
 
 Vekllei is a country in my alt-world; a utopian fever dream of googie aesthetics, participatory economics and nostalgia.
 

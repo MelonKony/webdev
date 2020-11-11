@@ -1,6 +1,6 @@
 ---
 title: The Chemical Feast
-date: 2020-05-06 02:55:37
+date: 2020-05-06
 tags:
     - painting
     - nature
@@ -9,11 +9,16 @@ tags:
 categories:
     - landscape
 keywords:
-- painting
-- nature
-- zelda
-- society
+    - painting
+    - nature
+    - zelda
+    - society
 ---
+{{< button href="https://www.reddit.com/r/vekllei/comments/ge1gmw/the_chemical_feast/" >}}Archived from the original article here{{< /button >}}
+{{< hint danger >}}
+**🌼 Featured in the *Atlantic***  
+This article appeared in **Issue #1 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/1).
+{{< /hint >}}
 
 ![feast.jpg](/images/feast.jpg)
 

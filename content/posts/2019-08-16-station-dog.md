@@ -1,6 +1,6 @@
 ---
 title: The People of Vekllei’s Railway (plus Dog)
-date: 2019-08-16 23:11:28
+date: 2019-08-16
 tags:
     - trains
     - infograph
