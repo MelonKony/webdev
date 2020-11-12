@@ -5,7 +5,7 @@ weight: 1
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
-This is me! If you're looking to contact me, write to me [Here](docs/author/contact.md).
+This is me! If you're looking to contact me, write to me [here](mailto:melonkony@icloud.com).
 {{< /hint >}}
 
 # 🍇 About
@@ -18,11 +18,15 @@ Hobart Phillips is an Australian illustrator and writer living and working in Ta
 - Tasmania
 - Showa Japan
 - Italian cars
+- The Series-0 Shinkansen 🚅
+- Emojis, apparently
+- Snags
 
 **❌ Things I Don't Like**:
 - The C.I.A.
 - Bohos
--
+- Gadgetbahns
+- Television
 
 ---
 

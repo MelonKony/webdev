@@ -9,14 +9,20 @@ bookToC: false
 <h1 style="text-align: center; margin-bottom: 10px;">
 Welcome to MillMint</h1>
 <h2 style="text-align: center; margin-top: 0px;">
-<i>Home of Vekllei</i></h2>
+<i>Home of Vekllei</i>
+
+<a style="margin-left: 8px; margin-right: 8px;" href="https://www.reddit.com/r/vekllei"><img src="/redditlogo.png" height="35" width="35" /></a>
+<a style="margin-left: 8px; margin-right: 8px;" href="https://www.discord.gg/dCE6vSU"><img src="/discordlogo.png" height="35" width="35" /></a>
+<a style="margin-left: 8px; margin-right: 8px;" href="https://www.patreon.com/vekllei"><img src="/patreonlogo.png" height="35" width="35" /></a>
+</h2>
+
 
 <br>
 
 {{< details title="Site News" open=true >}}
 {{< hint info >}}
 **🌺 Administration**  
-This wiki was created in October 2020 to provide a comprehensive resource to the world of Vekllei, and as an archive for posts, bulletins, comics, illustrations and miscellaneous content related to Vekllei.
+This wiki was created in October 2020 to provide a comprehensive resource to the world of Vekllei, and as an archive for posts, bulletins, comics, illustrations and miscellaneous content related to Vekllei. <span class='picon'></span>
 
 Forward site administration queries to Hobart on [Reddit](https://www.reddit.com/r/vekllei) or [Discord](https://www.discord.gg/dCE6vSU).
 
@@ -36,6 +42,8 @@ Français? Español? Português? 日本語? Contributors to the Vekllei Translat
 
 {{< details title="Getting Started" open=true >}}
 
+![bulletin](/images/missile.jpg)
+
 >## This Project
 >Vekllei is published as illustrations with stories attached, but soon will feature a comic. **You can access an archive of these posts at the <a href="/posts/">Archive</a>**.
 
@@ -50,4 +58,5 @@ Français? Español? Português? 日本語? Contributors to the Vekllei Translat
 {{< button href="https://www.reddit.com/r/vekllei" >}}Reddit{{< /button >}}
 {{< button href="https://www.discord.gg/dCE6vSU" >}}Discord{{< /button >}}
 {{< button href="https://www.patreon.com/vekllei" >}}Patreon{{< /button >}}
+
 {{< /details >}}

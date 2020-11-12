@@ -1,10 +1,11 @@
 ---
 title: "Life as a Shill for Big Corporate"
 weight: 1
+bookHidden: true
 ---
 {{< hint info >}}
 **🌺 Note from the Editor**  
-This article was **originally published** in **October 2019**.
+This article was **originally published** in **November 2020**.
 {{< /hint >}}
 
 # 💻 A Bite of the Apple: Petticoat Socialism and the Biggest Tech Company in the World
@@ -29,7 +30,7 @@ I've seen people diagnose Jobs as autistic, an insult to both autistic people an
 
 >They also had a basic philosophical difference about whether aesthetic tastes were fundamentally individual, as Redse believed, or universal and could be taught, as Jobs believed. She accused him of being too influenced by the Bauhaus movement. “Steve believed it was our job to teach people aesthetics, to teach people what they should like,” she recalled. “I don’t share that perspective. I believe when we listen deeply, both within ourselves and to each other, we are able to allow what’s innate and true to emerge.”[^1] <sup>p.158</sup>
 
-There are plenty of rude visionaries in Silicon Valley, and so-called "tech culture" is empty and superficial. But few people possess the sort of magical intuition Jobs had, or his deep appreciation for taste and design. Plenty of companies innovate, but Apple strikes me as a principles company. It makes decisions that make no market sense, like cutting the headphone jack, which generated far more negative press than short-term sales in bluetooth headphones. 
+There are plenty of rude visionaries in Silicon Valley, and so-called "tech culture" is empty and superficial. But few people possess the sort of magical intuition Jobs had, or his deep appreciation for taste and design. Plenty of companies innovate, but Apple strikes me as a principles company. It makes decisions that make no market sense, like cutting the headphone jack, which generated far more negative press than short-term sales in bluetooth headphones.
 
 > I think most creative people want to express appreciation for being able to take
 advantage of the work that’s been done by others before us. I didn’t invent the language or mathematics

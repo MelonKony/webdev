@@ -5,18 +5,18 @@ weight: 1
 
 ![Intro GIF](/images/intro.gif)
 
-# 🎊 The Epilogue of the *Epoch of Rest*
-
 {{< hint info >}}
 **🌺 Note from the Editor**  
 If you're new to the project, start here. This is a crash course on what this website (and the project at large) is all about.
 {{< /hint >}}
 {{< hint warning >}}
-**Under Construction**  
+**🚚 Under Construction**  
 This page is still under construction, and may be incomplete.
 {{< /hint >}}
 
-## What is this project?
+# 🎊 The Epilogue of the *Epoch of Rest*
+
+## 1. 📄 What is this project?
 **Vekllei is supposed to be an 'epoch of rest'**. It's a project that's become very big, with a long storyline and lots of characters, but at its heart this world is about peaceful escapism and whimsical nostalgia.
 
 Vekllei is a 'worldbuilding' project, which means it doesn't always look like a traditional storytelling endeavour. It introduces parts of an imaginary place that might not be revealed in a traditional linear story.
@@ -26,15 +26,15 @@ Vekllei is also a 'utopian' project, which means that it's a form of *social dre
 This means that all sorts of themes and influences show up in my work. Vekllei has the [language](docs/landscape/language.md) of French-Chinese spoken with an Australian accent, a [native people](docs/landscape/people.md) of mixed Inuit-Scandinavian descent, and a modern industrial society that's [going backwards](docs/landscape/economy.md).  
 
 {{< details title="Fact Sheet" open=true >}}
-### Project Fact Sheet
+### 1.1 Project Fact Sheet
 1. This place is **iterative** -- canon disappears, people change appearance and the systems of Vekllei twist and turn as I do.
 2. This place is **good-spirited** -- Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be calming and fun.
 3. This place is **constantly expanding** -- I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don't. I'm looking to start a comic and make an animated trailer for the project, so stay tuned for that!
 {{< /details >}}
 
-## Three Utopias
+## 2. 🍍 Three Utopias
 
-Vekllei is **place**, but it's also a **people**, created by [Hobart](docs/author/about.md). In this sense, there are three utopias in this project, along which posts are categorised.
+Vekllei is **place**, but it's also a **people**, created by [Hobart](docs/newsdesk/about.md). In this sense, there are three utopias in this project, along which posts are categorised.
 
 * **Author** -- essays, reflection and discussion
 * **Landscape** -- guides, diagrams and analysis
@@ -53,11 +53,11 @@ Utopia is a form of *social dreaming*, much like worldbuilding, linked to the va
 
 Note that both form a part of the “utopia” — this is appropriate, since Vekllei is grounded in a social realism that acknowledges the good and bad parts of life. Indeed, they are inseparable — you cannot have the light without the dark. Such is the internal contradiction of any good utopia.
 
-### 🏜️ Utopia as Author
+### 2.1 🍈 Utopia as Author
 The project is the creation of an **Author**, the producer of the whole thing. The creative and personal products are theirs, as unique as a fingerprint. They most likely produce a lot of different societies and characters in trying to tell a story, or flesh out an idea they’ve had — but for the purposes of the idea of an *epoch of rest*, there are two perfect utopias: **landscape** (society and the world), and
 **character** (personality and appearance). In this sense, the author is the genesis of the utopia.
 
-### Utopia as Landscape
+### 2.2 🍊 Utopia as Landscape
 **Utopias of landscape** (the *topos*) are the stuff you traditionally associate with the utopian tradition -- these are utopias of place. They include utopian cities, states, economies, machines, and any part of local physicality. When I talk about *landscape*, I use it in one of two ways.
 
 * **Landscape** as it refers to physical space, like cities, woodlands and oceans.
@@ -72,7 +72,7 @@ power or love, but it is attainable, because the economic and
 cultural orchestra of the country is in the imagination of the
 author, and so it is perfect as by definition of utopia.
 
-### Utopia as Character
+### 2.3 🍋 Utopia as Character
 **Utopias of character** are what I call utopian premises of life experience; stuff you can't construct from stone and concrete. Character utopias make up for the limitations of utopian space by recognising and providing for a new utopian dimension -- people, and personality. If the obsessive utopian can create imaginary communities from social dreams, why not people? Character utopias sum up an ideal life experience, personality, body and taste. [Zelda](docs/characters/tzipora.md) is one such character utopia.
 
 >If Vekllei is the arena of external burden, **Tzipora** is a girl on
@@ -87,7 +87,7 @@ true, then every other nervous tic or obsessive-compulsive
 behaviour are storytelling; window-dressing to an aesthetic
 taste.
 
-## Where to from here?
+## 3. Where to from here?
 
 My little 'epoch of rest' is pretty much the only thing I enjoy doing. It's the melting pot of my whole life experience -- from interest and hobbyism to ideology and insecurity. It's the sum of a worldview, a whole person, and to that end I think utopia is a powerful form of self-expression.
 
@@ -99,7 +99,7 @@ Thank you for visiting, and I hope you enjoy this adventure in dreaming.
 
 ---
 
-## F.A.Q.
+## 4. F.A.Q.
 
 Let's run through some frequently asked questions and common misconceptions about the project.
 

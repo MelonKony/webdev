@@ -8,17 +8,23 @@ weight: 2
 Say hi to the characters of the project! This page is an introduction to the characters of this world. See the Characters section for full articles on each person.
 {{< /hint >}}
 {{< hint warning >}}
-**Under Construction**  
+**🚚 Under Construction**  
 This page is still under construction, and may be incomplete.
 {{< /hint >}}
 
-# Cast of Characters
+# 👭🏻 Cast of Characters
 
-## 🍁 Tzipora (Zelda) Desmoisnes
+## 1. 📄 Introduction
 
-*Main article: [Tzipora Desmoisnes](docs/characters/tzipora.md)*
+## 2. Characters
+
+### 2.1 🍁 Tzipora (Zelda) Desmoisnes
+
+![bulletin](/images/tziporacon.jpg)
 
 Tzipora is the main character and [character utopia](docs/MillMint/Intro/#utopia-as-character) of this project.
+
+#### 2.1.1 Personality
 
 There are a lot of things Tzipora does differently to everybody else, and they start to make a lot more sense when you realise Tzipora either does not *realise* she is unusual, or does not *care*.
 
@@ -30,30 +36,30 @@ She is paranoid and conservative, good-natured and austere, with a moral outlook
 
 Tzipora may be intense and inward-facing, but she can also be disarmingly charming and self-deprecating. She has a good sense of humour. There are not many girls that can so easily reconcile the contradictions between the peculiar and the healthy, the eccentric and the friendly, and the violent and the domestic. That’s part of her character — an essence of being that radiates decency, good taste and a respect for the spirit of all things.
 
-### Personality
+#### 2.1.2 Fact Sheet
 
-### Fact Sheet
+### 2.2 🌳 Cobian Queismesnah
 
-## 🌳 Cobian Queismesnah
+#### Personality
 
-### Personality
+#### Fact Sheet
 
-### Fact Sheet
+### 2.3 🌵 Moise Hasapis
 
-## 🌵 Moise Hasapis
+#### Personality
 
-### Personality
+#### Fact Sheet
 
-### Fact Sheet
+### 2.4 🌾 Baron Desmoisnes
 
-## 🌾 Baron Desmoisnes
+#### Personality
 
-### Personality
+#### Fact Sheet
 
-### Fact Sheet
+### 2.5 🍄 Ayn Rumouisen
 
-## 🍄 Ayn Rumouisen
+#### Personality
 
-### Personality
+#### Fact Sheet
 
-### Fact Sheet
+## Notes

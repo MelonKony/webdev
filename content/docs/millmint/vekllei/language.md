@@ -5,10 +5,10 @@ weight: 2
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
-Ever wondered how Vekllei people sound and talk? As it turns out, it's something like Inuktitut blended with French, pronounced by an Australian. 
+Ever wondered how Vekllei people sound and talk? As it turns out, it's something like Inuktitut blended with French, pronounced by an Australian. This article introduces key Vekllei languages.
 {{< /hint >}}
 {{< hint danger >}}
-**Starred Article**  
+**⭐ Starred Article**  
 This article is complete. It was last updated in November 2020.
 {{< /hint >}}
 
@@ -75,14 +75,15 @@ Pure vowels in Vekllei are characterised by their lax, non-rhotic sound, and the
 
 From foundational monophthongs, gliding or diphthong vowels are often determined by glossary. *Oa* typically favours modernised post-*Quutetast* glides for its so-called *Ocean Vowels*, which are generally long and unrounded. *Loh* words are typically older and depicted pictographically, and are pronounced as *Floral Vowels*. The tables below list their pronunciation.
 
-{{< details title="Ocean Vowels" open=true >}}
+{{< details title="Diphthongs" open=true >}}
+{{< tabs "diphthongs" >}}
+{{< tab "Ocean Vowels" >}}
 |               | **Vowel**          |
 |---------------|--------------------|
 | **Closing**   | æɪ, ɑɪ, oɪ, æɔ, əʉ |
 | **Centering** | ɪə                 |
-{{< /details >}}
-
-{{< details title="Floral Vowels" open=true >}}
+{{< /tab >}}
+{{< tab "Floral Vowels" >}}
 | **Vowel** | Onset glide | Onset glide | Onset glide |
 |-----------|-------------|-------------|-------------|
 | **Vowel** | **/j/**     | **/ɥ/**     | **/w/**     |
@@ -100,6 +101,8 @@ From foundational monophthongs, gliding or diphthong vowels are often determined
 | **/œ/**   | /jœ/        | /ɥœ/        | /wœ/        |
 | **/u/**   | /ju/        |             |             |
 | **/y/**   | /jy/        |             |             |
+{{< /tab >}}
+{{< /tabs >}}
 {{< /details >}}
 
 ##### Consonants
@@ -119,7 +122,7 @@ In Vekllei, consonants are arranged in six places of primary articulation.
 
 ### 2.2 📰 Topet
 
-**Topet**, sometimes called *Vekllei Form* or *Vekllei hieroglyphs* is the formal writing system in Vekllei. Topet incorporates logographic and neosyllabic/abugida-type components and has some 3,450 unique characters in modern usage. Although proto-glyphs and a primitive runic system had been used in *Islandi*-era Vekllei since at least the 8th Century BC, by the time *Quutetast* influences had arrived with Inuit settlement in the 4th Century AD the parent scripts had at least partially fused into early Topet, called *hieyeric*. In Vekllei, *Topet* is the national language alongside its sister-form, [*Rapotenne*](/docs/millmint/vekllei/language/#23--rapotenne) and [*Spoken Vekllei*](/docs/millmint/vekllei/language/#21--spoken-vekllei). Topet has no clear lineage from Scandinavian or Inuit languages, and so is rarely understood outside of the territories where it is an official or significant minority language, which represents some 25 million people.
+**Topet**, sometimes called *Vekllei Form* or *Vekllei hieroglyphs* is the formal writing system in Vekllei. Topet incorporates logographic and neosyllabic/abugida-type components and has some 3,450 unique characters in modern usage. Although proto-glyphs and a primitive runic system had been used in *Islandi*-era Vekllei since at least the 8th Century BC, by the time *Quutetast* influences had arrived with Inuit settlement in the 4th Century AD the parent scripts had at least partially fused into early Topet, called *Hieyeric*. In Vekllei, *Topet* is the national language alongside its sister-form, [*Rapotenne*](/docs/millmint/vekllei/language/#23--rapotenne) and [*Spoken Vekllei*](/docs/millmint/vekllei/language/#21--spoken-vekllei). Topet has no clear lineage from Scandinavian or Inuit languages, and so is rarely understood outside of the territories where it is an official or significant minority language, which represents some 25 million people.
 
 #### 2.2.1 Overview
 
@@ -127,13 +130,13 @@ Individual *Topet* characters are both phonograms and semagrams, and so they sup
 
 #### 2.2.2 Phonetic Reading
 
-Consonant characters (*demioette*) written in Topet may feature redundant adjacent characters called *phonetic complements*, which, in a non-determinative reading, are pronounced the same way, to guide the reader. This lends to a system that encourages adjacent consonants in some aspects, since Vekllei characters are already combined into neosyllabic pairings and it is immediately obvious which characters are to be read. The word for friend, *comoyia*, can thus sometimes be transliterated into c-c-c<sup>o</sup>m-m<sup>o</sup>y<sup>ia</sup>, which can affect the conceptual meanings of a word through the figurative placement of its characters as well as help guide the reader through the use of multiple phonetically identical, though visually distinct, characters.
+Consonant characters (*demioette*, as opposed to vowels, or *hieyerette*[^1]) written in Topet may feature redundant adjacent characters called *phonetic complements*, which, in a non-determinative reading, are pronounced the same way, to guide the reader. This lends to a system that encourages adjacent consonants in some aspects, since Vekllei characters are already combined into neosyllabic pairings and it is immediately obvious which characters are to be read. The word for friend, *comoyia*, can thus sometimes be transliterated into c-c-c<sup>o</sup>m-m<sup>o</sup>y<sup>ia</sup>, which can affect the conceptual meanings of a word through the figurative placement of its characters as well as help guide the reader through the use of multiple phonetically identical, though visually distinct, characters.
 
-In the above case, *Comoyia* can be affected by the composition of its phonetic complements, if any are used at all. There is a default reading, which combines both semantic and phonetic readings for meaning and is generally recognised as the dictionary 'spelling' of the word, but this can be manipulated through the addition of semantically different, but identically phonetic characters to shade and change meaning. The word for an untrustworthy friend is also *Comoyia*, but combines the characters for snake with the dictionary spelling, which produces a transliteration similar to c-c<sup>o</sup>m<sup>o</sup>y<sup>ia</sup>. In spoken Vekllei, this distinction is only communicable through the aid of [*Potenne*](/docs/millmint/vekllei/language/#24--potenne), and represents one of its primary uses.
+In the above case, *comoyia* can be affected by the composition of its phonetic complements, if any are used at all. There is a default reading, which combines both semantic and phonetic readings for meaning and is generally recognised as the dictionary 'spelling' of the word, but this can be manipulated through the addition of semantically different, but identically phonetic characters to shade and change meaning. The word for an untrustworthy friend is also *comoyia*, but combines the characters for snake with the dictionary spelling, which produces a transliteration similar to c-c<sup>o</sup>m<sup>o</sup>y<sup>ia</sup>. In spoken Vekllei, this distinction is only communicable through the aid of [*Potenne*](/docs/millmint/vekllei/language/#24--potenne), and represents one of its primary uses.
 
 #### 2.2.3 Semantic Reading
 
-Many *Topet* characters are figurative; they represent their meanings pictographically, like Egyptian *hieroglyphs* or Chinese *Hanzi*. In Vekllei, this is considered an evolved rune-form, and ties into a broader conceptualisation of language as a *transcendental*, rather than *literal* system. Although *Topet*'s early form, *Hieyeric* was explicitly pictographic, modern *Topet* is often abstracted and decoupled from its figurative meaning via the phonetic system.
+Many *Topet* characters are figurative; they represent their meanings pictographically, like Egyptian *Hieroglyphs* or Chinese *Hanzi*. In Vekllei, this is considered an evolved rune-form, and ties into a broader conceptualisation of language as a *transcendental*, rather than *literal* system. Although *Topet*'s early form, *Hieyeric* was explicitly pictographic, modern *Topet* is often abstracted and decoupled from its figurative meaning via the phonetic system.
 
 Despite common use of the phonetic system in modernity, the semantic readings of characters are taught and essential for literacy beyond literal imitation of speech. For the vast majority of *Topet* characters, their logographic meaning determines their pronunciation, and consonant characters especially depend on this meaning to form words. The word for breakfast is *petimourgeneur*, but it cannot be written with random literal phonetic characters; parts of the word depend on the figurative meaning of certain components, and so without its semantic traits the word would be illegible to most people. This represents a wider co-dependency on simultaneous phonetic and semantic readings of words, with the importance of each fluctuating depending on the word in question. Older words tend to be heavily figurative, whereas modern and loan words are often more phonetic. This inconsistency is part of the difficulty in learning *Topet*, and leaves many immigrants fluent in speech but inadequately literate in reading and writing.
 
@@ -141,11 +144,15 @@ Despite common use of the phonetic system in modernity, the semantic readings of
 
 ### 2.3 🔖 Rapotenne
 
-**Rapotenne** (*lit. "Name-Talk"*) is the Vekllei system of names, often considered in modernity to function as a distinct, though limited, language. Contemporary *Rapotenne* is informed by pictographic proto-*Topet* runes as well as elements of the extinct *Kala* language and subsequently *Quutetast* Algic components. Because *Kala* is extinct and *Quutetast* is a dead language, largely displaced by modern spoken Vekllei, *Rapotenne* is unique among Vekllei's sublanguages for its direct lineage from proto-linguistic forms of early Vekllei history, some nearly 4,000 years old. Today it is used largely ceremonially, through ritual related to birth and [Blood Names](**LINK**).
+**Rapotenne** (*lit. "Name-Talk"*) is the Vekllei system of names, often considered in modernity to function as a distinct, though limited, language. Contemporary *Rapotenne* is informed by pictographic proto-*Topet* runes as well as elements of the extinct *Kala* language and subsequently *Quutetast* Algic components. Because *Kala* is extinct and *Quutetast* is a dead language, largely displaced by modern spoken Vekllei, *Rapotenne* is unique among Vekllei's sublanguages for its direct lineage from proto-linguistic forms of early Vekllei history, some nearly 4,000 years old. Today it is used largely ceremonially, through ritual related to birth and Blood Names[^2].
 
 #### 2.3.1 Overview
 
-*Rapotenne* has its origins in superstitious Islandi magical staves, sigils which evolved into battle names and honourifics, called Blood Names. The use of Blood Names varies across Vekllei history, but is still common across ancestral families today. In modern immigration, especially after the Atomic War and British occupation, Blood Names have been commonly adopted by new families as symbolic displacement of older bloodlines, largely for their fashionable association with royalty and heritage. Rapotenne today mostly employs older [Floral Vowels](/docs/millmint/vekllei/language/#diphthongs), which themselves are likely evolutions of proto-*Quutetast* pronunciation associated with *Kala*. Rapotenne characters, also called *Rapotenne*, are
+*Rapotenne* has its origins in superstitious Islandi magical staves, sigils which evolved into battle names and honourifics, called Blood Names. The use of Blood Names varies across Vekllei history, but is still common across ancestral families today. In modern immigration, especially after the Atomic War and British occupation, Blood Names have been commonly adopted by new families as symbolic displacement of older bloodlines, largely for their fashionable association with royalty and heritage. Rapotenne today mostly employs older [Floral Vowels](/docs/millmint/vekllei/language/#diphthongs), which themselves are likely evolutions of proto-*Quutetast* pronunciation associated with *Kala*. Rapotenne characters, also called *Rapotenne*, are closely associated with old runic Islandi sigils, and are purely figurative. Their use in modernity is largely instructional, and is used to determine and act out [*Upotenne*](/docs/millmint/vekllei/language/#25--upotenne) signs, which is functionally adjacent to *Rapotenne*.
+
+#### 2.3.2 Practice
+
+*Rapotenne* consists of 452 characters in common practice, although priests and regional dialects may employ upwards of a 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in *Rapotenne*. The shape and stroke order of characters determines the physicality of [*Upotenne*](/docs/millmint/vekllei/language/#25--upotenne), as their function within ritual is more or less the same. Although simplistic and literally figurative, *Rapotenne* is used extensively in religious script and poetry and remains an important cultural force within Vekllei.
 
 ---
 
@@ -163,18 +170,40 @@ By the 11th Century, *Potenne* is documented alongside other critical languages 
 
 #### 2.4.2 Phonology
 
+It is important to remember that *Potenne* is not simply a reproduction of ordinary speech in physical form; it is a language that assists the spoken word. Many Vekllei words can be simplified by incorporating *Potenne*, which better mimics nonverbal components of *Topet* and helps provide emotion and context to otherwise ambiguous phrases. In other cases, it replaces speech entirely, often in quiet areas or out of respect in public transit. In this sense, *Potenne* retains a handful of the characteristics inherited from its origins as an avoidance language, but remains distinct from both spoken Vekllei and *Topet* in its capacity to link and colour both.
+
 ##### Location
 
-Most *Potenne* is acted out just below the chest, in a casual resting position.
+Most *Potenne* is acted out just below the chest, in a casual resting position. Positional and place-based signs are performed at the right shoulder, and emotion is often acted out at or just below the chin. Regional traits and dialects are common, and *Potenne* is perhaps Vekllei's most provincial and evolving language.
 
 ##### Movement
+
+Upen signs are generally simple, and practiced quickly and casually. The direction of the fore and ring fingers generally indicate subject, and the position of the thumb indicates tone — an outstretched thumb is casual whereas a thumb tucked inwards appears formal. Common words use simple, single-handed signs, but complete sentences and more complex words almost always require the use of both hands.
+
 ##### Orientation
+
+Communication in the your own voice is performed with the hand held horizontally with few exceptions. Quoting speech and reading is most often spoken with the hand held vertically, although this varies between dialects. Various orientations incorporate meaning, including casual affirmation and some emotions.
+
 ##### Handshape
+
+Most signs are communicated with an open palm, although fists, hooked fingers, clenched fingers and relaxation of fingers are also used in various ways. Most common *Potenne* words are characterised by their informal, almost lazy composition, and so 
 
 ---
 
 ### 2.5 👏🏻 Upotenne
 
+**Upotenne** (*lit. "Spirit-Hand-Talk"*) is the nonverbal sign language of religious ritual in Vekllei. Much as *Potenne* combines semantic and verbal forms to enhance communication, *Upen* appropriates the older pictographic [*Rapotenne*](/docs/millmint/vekllei/language/#23--rapotenne) script
+
+#### 2.5.1 Overview
+
 ---
 
 ### 2.6 🏳️ Vekllei Semaphore
+
+#### 2.6.1 Overview
+
+## Notes
+
+[^1]: *Demioette* and *hieyerette* meaning lit. "early lower" and "early higher" respectively.
+
+[^2]: Blood Names are traditional ancestral names carried along a mother's genetic heritage. Traditionally kept secret until burial, this custom has mostly fallen out of practice in modern Vekllei.
