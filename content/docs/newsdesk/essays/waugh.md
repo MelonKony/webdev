@@ -4,7 +4,7 @@ weight: 1
 ---
 {{< hint info >}}
 **🌺 Note from the Editor**  
-This article was **originally published** in **October 2019**.
+This article was **originally published** in **October 2019**. It offers an analysis of Evelyn Waugh's *Handful of Dust* through an anti-utopian prism.
 {{< /hint >}}
 
 # 👒 Landscape in the Age of Frustration: Waugh’s *Handful of Dust* as Anti-Utopia 

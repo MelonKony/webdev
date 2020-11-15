@@ -1,3 +1,7 @@
 {{ with .Date}}
-  <h6 style= "margin-top: 0.2rem; margin-bottom: 2rem; color: black;">{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h6>
+  <h6 style= "margin-top: 0.2rem; margin-bottom: 2rem;color: black;">{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h6>
 {{ end }}
+
+<!-- {{ with .Params.image }}
+  <img style= "object-fit: cover; height: 40px; width: 40px; margin-bottom: 2rem; border-radius: 10px;" src={{ . | relURL }} />
+{{ end }} -->

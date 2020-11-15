@@ -73,7 +73,7 @@ cultural orchestra of the country is in the imagination of the
 author, and so it is perfect as by definition of utopia.
 
 ### 2.3 🍋 Utopia as Character
-**Utopias of character** are what I call utopian premises of life experience; stuff you can't construct from stone and concrete. Character utopias make up for the limitations of utopian space by recognising and providing for a new utopian dimension -- people, and personality. If the obsessive utopian can create imaginary communities from social dreams, why not people? Character utopias sum up an ideal life experience, personality, body and taste. [Zelda](docs/characters/tzipora.md) is one such character utopia.
+**Utopias of character** are what I call utopian premises of life experience; stuff you can't construct from stone and concrete. Character utopias make up for the limitations of utopian space by recognising and providing for a new utopian dimension -- people, and personality. If the obsessive utopian can create imaginary communities from social dreams, why not people? Character utopias sum up an ideal life experience, personality, body and taste. [Zelda](/docs/millmint/characters/#21--tzipora-zelda-desmoisnes) is one such character utopia.
 
 >If Vekllei is the arena of external burden, **Tzipora** is a girl on
 which the internal pressures of self-doubt and conscious flaw

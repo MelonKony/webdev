@@ -16,13 +16,15 @@ This page is still under construction, and may be incomplete.
 
 ## 1. 📄 Introduction
 
+This article is still under construction (as of mid-November) but should be done by the end of the month. Thanks for your understanding. In the meantime, visit some of the other sections of this website.
+
 ## 2. Characters
 
 ### 2.1 🍁 Tzipora (Zelda) Desmoisnes
 
 ![bulletin](/images/tziporacon.jpg)
 
-Tzipora is the main character and [character utopia](docs/MillMint/Intro/#utopia-as-character) of this project.
+**Tzipora de lo Ula  Helette Desmoisnes** is the main character and [character utopia](docs/MillMint/Intro/#utopia-as-character) of this project.
 
 #### 2.1.1 Personality
 
@@ -38,28 +40,56 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 
 #### 2.1.2 Fact Sheet
 
+*Coming soon*.
+
 ### 2.2 🌳 Cobian Queismesnah
+
+**Cobian lo Ro de Viviya de Queismesnah** is Tzipora's best friend and sort-of girlfriend throughout her secondary schooling and young adulthood in Vekllei.
 
 #### Personality
 
+*Coming soon*.
+
 #### Fact Sheet
+
+*Coming soon*.
 
 ### 2.3 🌵 Moise Hasapis
 
+**Moise ra Hasapis** is Tzipora's close friend and companion.
+
 #### Personality
 
+*Coming soon*.
+
 #### Fact Sheet
+
+*Coming soon*.
 
 ### 2.4 🌾 Baron Desmoisnes
 
+**Baron Desmoisnes** is Tzipora's adoptive father.
+
 #### Personality
 
+*Coming soon*.
+
 #### Fact Sheet
+
+*Coming soon*.
 
 ### 2.5 🍄 Ayn Rumouisen
 
+**Ayn Rumouisen** is a longtime friend and colleague of Baron Desmoisnes and close family friend and matriarch of Tzipora.
+
 #### Personality
+
+*Coming soon*.
 
 #### Fact Sheet
 
+*Coming soon*.
+
 ## Notes
+
+*To be established*.
