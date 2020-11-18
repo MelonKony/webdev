@@ -3,20 +3,25 @@ title: Intro
 weight: 1
 ---
 
+<div id="headerbox">
+  <h1 style = "color: #ff2d55; margin-top: 3px;" class="alignleft">The Epilogue of the <i>Epoch of Rest</i></h1>
+  <h1 style = "color: #ff2d55; margin-top: 3px;" class="alignright">🎊</h1>
+</div>
+<div style="clear: both;"></div>
+
+
 ![Intro GIF](/images/intro.gif)
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
 If you're new to the project, start here. This is a crash course on what this website (and the project at large) is all about.
 {{< /hint >}}
-{{< hint warning >}}
-**🚚 Under Construction**  
-This page is still under construction, and may be incomplete.
+{{< hint danger >}}
+**⭐ Starred Article**  
+This article is complete. It was last updated in November 2020.
 {{< /hint >}}
 
-# 🎊 The Epilogue of the *Epoch of Rest*
-
-## 1. 📄 What is this project?
+## 1. What is this project?
 **Vekllei is supposed to be an 'epoch of rest'**. It's a project that's become very big, with a long storyline and lots of characters, but at its heart this world is about peaceful escapism and whimsical nostalgia.
 
 Vekllei is a 'worldbuilding' project, which means it doesn't always look like a traditional storytelling endeavour. It introduces parts of an imaginary place that might not be revealed in a traditional linear story.
@@ -26,13 +31,13 @@ Vekllei is also a 'utopian' project, which means that it's a form of *social dre
 This means that all sorts of themes and influences show up in my work. Vekllei has the [language](docs/landscape/language.md) of French-Chinese spoken with an Australian accent, a [native people](docs/landscape/people.md) of mixed Inuit-Scandinavian descent, and a modern industrial society that's [going backwards](docs/landscape/economy.md).  
 
 {{< details title="Fact Sheet" open=true >}}
-### 1.1 Project Fact Sheet
+### Project Fact Sheet
 1. This place is **iterative** -- canon disappears, people change appearance and the systems of Vekllei twist and turn as I do.
 2. This place is **good-spirited** -- Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be calming and fun.
 3. This place is **constantly expanding** -- I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don't. I'm looking to start a comic and make an animated trailer for the project, so stay tuned for that!
 {{< /details >}}
 
-## 2. 🍍 Three Utopias
+## 2. Three Utopias
 
 Vekllei is **place**, but it's also a **people**, created by [Hobart](docs/newsdesk/about.md). In this sense, there are three utopias in this project, along which posts are categorised.
 

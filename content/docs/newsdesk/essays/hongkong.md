@@ -7,7 +7,9 @@ weight: 1
 This article was **originally published** in **October 2019**. This article was written shortly after my return from Hong Kong, where I got caught up in the pro-democracy protests and is a broad response to Australian coverage of the ongoing events.
 {{< /hint >}}
 
-# 🇭🇰 Not Long in Hong Kong
+<h1 style = "font-size: xxx-large; margin-bottom: -20px">🇭🇰</h1>
+
+# Not Long in Hong Kong
 #### Hobart Phillips
 <hr>
 

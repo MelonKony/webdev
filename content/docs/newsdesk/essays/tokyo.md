@@ -7,7 +7,9 @@ weight: 10
 This article was **originally published** in **December 2018**. Yes, it’s painfully self-concerned and a little painful to read back, but for newcomers to the project you might find some “obvious truths” about Vekllei you have not yet encountered.
 {{< /hint >}}
 
-# 🗼 A Cashless Tokyo
+<h1 style = "font-size: xxx-large; margin-bottom: -20px">🗼</h1>
+
+# A Cashless Tokyo
 #### Hobart Phillips
 <hr>
 

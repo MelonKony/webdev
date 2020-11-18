@@ -8,7 +8,9 @@ weight: 1
 This is me! If you're looking to contact me, write to me [here](mailto:melonkony@icloud.com).
 {{< /hint >}}
 
-# 🍇 About
+<h1 style = "font-size: xxx-large; margin-bottom: -20px">🍇</h1>
+
+# About the Author
 
 Hobart Phillips is an Australian illustrator and writer living and working in Tasmania. He's 22 going on 23 and likes machines, midcentury architecture and Tasmania.
 

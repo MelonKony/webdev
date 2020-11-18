@@ -2,6 +2,13 @@
 title: Language
 weight: 2
 ---
+
+<div id="headerbox">
+  <h1 style = "color: #ff9500; margin-top: 3px;" class="alignleft">Language in Vekllei</h1>
+  <h1 style = "color: #ff9500; margin-top: 3px;" class="alignright">📃</h1>
+</div>
+<div style="clear: both;"></div>
+
 ![bulletin](/images/language.jpg)
 
 {{< hint info >}}
@@ -13,8 +20,7 @@ Ever wondered how Vekllei people sound and talk? As it turns out, it's something
 This article is complete. It was last updated in November 2020.
 {{< /hint >}}
 
-# 📃 Language in Vekllei
-## 1. 📄 Introduction
+## 1. Introduction
 
 **Vekllei language**, abbreviated to just **Vekllei**, has six core sublanguages that are used commonly today. Although they often intersect, these different systems of communication are distinct languages in their own right, used for different purposes in different arenas of communication.
 
@@ -27,7 +33,7 @@ This article is complete. It was last updated in November 2020.
 6. **Vekllei Semaphore** is the codification of colour and shape. Traditionally limited to colour, shape and pattern are now also included in *Vekllei Semaphore*, in which full sentences can be formed.
 {{< /details >}}
 
-## 2. 📑 Language
+## 2. Language
 
 Let's take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/docs/millmint/vekllei/language/#21--spoken-vekllei) and [*Topet*](/docs/millmint/vekllei/language/#22--topet) are understood universally. Other languages, often called *sub-languages*, are informed regionally and have varying literacy across the Home Island. For example, [*Upotenne*](/docs/millmint/vekllei/language/#25--upotenne) is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world's most complex and hermetic language systems.
 

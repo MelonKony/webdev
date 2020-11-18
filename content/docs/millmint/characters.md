@@ -3,6 +3,12 @@ title: Characters
 weight: 2
 ---
 
+<div id="headerbox">
+  <h1 style = "color: #34c759; margin-top: 3px;" class="alignleft">Cast of Characters</h1>
+  <h1 style = "color: #34c759; margin-top: 3px;" class="alignright">👭</h1>
+</div>
+<div style="clear: both;"></div>
+
 {{< hint info >}}
 **🌺 Note from the Editor**  
 Say hi to the characters of the project! This page is an introduction to the characters of this world. See the Characters section for full articles on each person.
@@ -12,9 +18,7 @@ Say hi to the characters of the project! This page is an introduction to the cha
 This page is still under construction, and may be incomplete.
 {{< /hint >}}
 
-# 👭🏻 Cast of Characters
-
-## 1. 📄 Introduction
+## 1. Introduction
 
 This article is still under construction (as of mid-November) but should be done by the end of the month. Thanks for your understanding. In the meantime, visit some of the other sections of this website.
 
@@ -24,9 +28,27 @@ This article is still under construction (as of mid-November) but should be done
 
 ![bulletin](/images/tziporacon.jpg)
 
-**Tzipora de lo Ula  Helette Desmoisnes** is the main character and [character utopia](docs/MillMint/Intro/#utopia-as-character) of this project.
+**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](docs/MillMint/Intro/#utopia-as-character) of this project.
 
-#### 2.1.1 Personality
+#### Fact Sheet
+
+{{< expand "Personal Details" "..." >}}
+|                      | Tzipora lo Ula de Helette Desmoisnes                           |
+|----------------------|----------------------------------------------------------------|
+| **Birthday**         | May 5th 2047 Lava, Royal Borough of Lava, Vekllei              |
+| **Nationality**      | Vekllei, Colombian                                             |
+| **Spouses**          | None                                                           |
+| **Children**         | None                                                           |
+| **Parents**          | Mette Sumoisnesn, unknown father                               |
+| **Education**        | Lola 6th School, Montre National University                    |
+| **Occupation**       | Student, Librarian, Gregori Baby                               |
+| **Military Service** | Floral Assistant, 2nd Garden Corps, Royal Vekllei Armed Forces |
+| **Civilian Awards**  | National Award for Heroism in Local Service (twice)            |
+| **Sigil**            | Mustard Orchid                                                 |
+{{< /expand >}}
+
+
+#### Personality
 
 There are a lot of things Tzipora does differently to everybody else, and they start to make a lot more sense when you realise Tzipora either does not *realise* she is unusual, or does not *care*.
 
@@ -38,37 +60,46 @@ She is paranoid and conservative, good-natured and austere, with a moral outlook
 
 Tzipora may be intense and inward-facing, but she can also be disarmingly charming and self-deprecating. She has a good sense of humour. There are not many girls that can so easily reconcile the contradictions between the peculiar and the healthy, the eccentric and the friendly, and the violent and the domestic. That’s part of her character — an essence of being that radiates decency, good taste and a respect for the spirit of all things.
 
-#### 2.1.2 Fact Sheet
-
-*Coming soon*.
-
 ### 2.2 🌳 Cobian Queismesnah
 
-**Cobian lo Ro de Viviya de Queismesnah** is Tzipora's best friend and sort-of girlfriend throughout her secondary schooling and young adulthood in Vekllei.
-
-#### Personality
-
-*Coming soon*.
+**Cobian lo Ro de Viviya de Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling and young adulthood in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora's mostly male friendship group out of jealousy and a general distaste for boys.
 
 #### Fact Sheet
 
-*Coming soon*.
+{{< expand "Personal Details" "..." >}}
+|                      | Cobian lo Ro de Viviya de Queismesnah                                 |
+|----------------------|-----------------------------------------------------------------------|
+| **Birthday**         | June 15th 2049 Mimiya, Royal Borough of Ro, Vekllei                   |
+| **Nationality**      | Vekllei                                                               |
+| **Spouses**          | Joy Cuoismasdesn                                                      |
+| **Children**         | Mimiya Queismesnah                                                    |
+| **Parents**          | Soya Queismesnah, Louis Vouismasnoh                                   |
+| **Education**        | Lola 6th School, National Academy of Medicine                         |
+| **Occupation**       | Student, Perioperative Nurse                                          |
+| **Military Service** | Horticulture Technician, 2nd Garden Corps, Royal Vekllei Armed Forces |
+| **Civilian Awards**  | A.r.F. Medal for Love to the Sick and Dying                           |
+| **Sigil**            | Golden Bliss Flower                                                   |
+{{< /expand >}}
+
+#### Personality
+
+When Tzipora meets her, Cobian is a figure of sympathy and annoyance. Cobian was deeply insecure and had constructed an elaborate character for herself which she acted out each day at school, convincing no-one and isolating her after friendships shifted in the tumultuous transition between middle and secondary schooling.
 
 ### 2.3 🌵 Moise Hasapis
 
 **Moise ra Hasapis** is Tzipora's close friend and companion.
 
-#### Personality
-
-*Coming soon*.
-
 #### Fact Sheet
+
+#### Personality
 
 *Coming soon*.
 
 ### 2.4 🌾 Baron Desmoisnes
 
 **Baron Desmoisnes** is Tzipora's adoptive father.
+
+#### Fact Sheet
 
 #### Personality
 
@@ -82,11 +113,9 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 
 **Ayn Rumouisen** is a longtime friend and colleague of Baron Desmoisnes and close family friend and matriarch of Tzipora.
 
-#### Personality
-
-*Coming soon*.
-
 #### Fact Sheet
+
+#### Personality
 
 *Coming soon*.
 

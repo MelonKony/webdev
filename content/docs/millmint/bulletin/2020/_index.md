@@ -3,7 +3,11 @@ weight: 1
 title: "2020 Issues"
 ---
 
-# 🌼 The ***Atlantic*** Bulletin
+<div id="headerbox">
+  <h1 style = "margin-top: 3px;" class="alignleft">The <i>Atlantic</i> Bulletin</h1>
+  <h1 style = "margin-top: 3px;" class="alignright">🌼</h1>
+</div>
+<div style="clear: both;"></div>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  

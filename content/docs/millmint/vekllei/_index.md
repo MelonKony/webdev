@@ -3,14 +3,18 @@ title: Vekllei
 weight: 3
 ---
 
+<div id="headerbox">
+  <h1 style = "color: #5ac8fa; margin-top: 3px;" class="alignleft">The Country of Vekllei</h1>
+  <h1 style = "color: #5ac8fa; margin-top: 3px;" class="alignright">🌺</h1>
+</div>
+<div style="clear: both;"></div>
+
 {{< hint warning >}}
 **🚚 Under Construction**  
 This page is still under construction, and may be incomplete.
 {{< /hint >}}
 
-# 🌺 Vekllei
-
-## 1. 📄 Overview
+## 1. Overview
 
 ### 1.1 Introduction
 
