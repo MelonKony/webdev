@@ -9,8 +9,6 @@ weight: 2
 </div>
 <div style="clear: both;"></div>
 
-![bulletin](/images/language.jpg)
-
 {{< hint info >}}
 **🌺 Note from the Editor**  
 Ever wondered how Vekllei people sound and talk? As it turns out, it's something like Inuktitut blended with French, pronounced by an Australian. This article introduces key Vekllei languages.
@@ -19,6 +17,8 @@ Ever wondered how Vekllei people sound and talk? As it turns out, it's something
 **⭐ Starred Article**  
 This article is complete. It was last updated in November 2020.
 {{< /hint >}}
+
+![bulletin](/images/language.jpg)
 
 ## 1. Introduction
 

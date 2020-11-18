@@ -9,9 +9,6 @@ weight: 1
 </div>
 <div style="clear: both;"></div>
 
-
-![Intro GIF](/images/intro.gif)
-
 {{< hint info >}}
 **🌺 Note from the Editor**  
 If you're new to the project, start here. This is a crash course on what this website (and the project at large) is all about.
@@ -20,6 +17,8 @@ If you're new to the project, start here. This is a crash course on what this we
 **⭐ Starred Article**  
 This article is complete. It was last updated in November 2020.
 {{< /hint >}}
+
+![Intro GIF](/images/intro.gif)
 
 ## 1. What is this project?
 **Vekllei is supposed to be an 'epoch of rest'**. It's a project that's become very big, with a long storyline and lots of characters, but at its heart this world is about peaceful escapism and whimsical nostalgia.
