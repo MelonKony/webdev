@@ -4,10 +4,13 @@ weight: 1
 ---
 
 <div id="headerbox">
-  <h1 style = "color: #ff2d55; margin-top: 3px;" class="alignleft">The Epilogue of the <i>Epoch of Rest</i></h1>
-  <h1 style = "color: #ff2d55; margin-top: 3px;" class="alignright">🎊</h1>
+  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">The Epilogue of the <i>Epoch of Rest</i></h1>
+  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">🎊</h1>
 </div>
 <div style="clear: both;"></div>
+
+  <h5 style = "color: #4F69F8; margin-top: 0.5rem; margin-bottom: 0.5rem;"> FEATURE </h5>
+  <h6 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 3rem;">Introduction</h6>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  

@@ -2,15 +2,23 @@
 title: "A Cashless Tokyo"
 weight: 10
 ---
+
+<div id="headerbox">
+  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">A Cashless Tokyo</h1>
+  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">🗼</h1>
+</div>
+<div style="clear: both;"></div>
+
+  <h5 style = "color: #0381A2; margin-top: 0.5rem; margin-bottom: 0.5rem;"> ESSAY </h5>
+  <h6 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 3rem;">Newsdesk</h6>
+
+#### Hobart Phillips
+
 {{< hint info >}}
 **🌺 Note from the Editor**  
 This article was **originally published** in **December 2018**. Yes, it’s painfully self-concerned and a little painful to read back, but for newcomers to the project you might find some “obvious truths” about Vekllei you have not yet encountered.
 {{< /hint >}}
 
-<h1 style = "font-size: xxx-large; margin-bottom: -20px">🗼</h1>
-
-# A Cashless Tokyo
-#### Hobart Phillips
 <hr>
 
 **I did not come to Tokyo to find a reference for the Petticoat Project**, because utopia does not exist there for me. In fact, by nearly every Vekllei metric, Tokyo is positively dystopian — a consumer paradise of the crushing, isolating modernity Vekllei is supposed to escape. And yet, marks of this city (and this country) are prevalent through Vekllei as a constructed country and my aesthetic as a writer and an artist. I can’t bring myself to love all of Japanese society, but I do love the country and its people. This intersection between traditional utopian world-building (along the lines of *News from Nowhere* or even the original *Utopia*) and the emotional, linear fragments of utopian storytelling which realise the cold encyclopaedia of a utopian world were the focus of my expedition to Japan. The premise of Vekllei society is at odds with so much of Japanese society — yet the emotional, aesthetic culture of the country (what I call the ‘character’ of utopianism) has influenced my media creation tremendously.

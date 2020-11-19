@@ -3,14 +3,19 @@ title: "About"
 weight: 1
 ---
 
+<div id="headerbox">
+  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">About the Author</h1>
+  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">🍇</h1>
+</div>
+<div style="clear: both;"></div>
+
+  <h5 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 0.5rem;"> CONTACT </h5>
+  <h6 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 3rem;">Newsdesk</h6>
+
 {{< hint info >}}
 **🌺 Note from the Editor**  
 This is me! If you're looking to contact me, write to me [here](mailto:melonkony@icloud.com).
 {{< /hint >}}
-
-<h1 style = "font-size: xxx-large; margin-bottom: -20px">🍇</h1>
-
-# About the Author
 
 Hobart Phillips is an Australian illustrator and writer living and working in Tasmania. He's 22 going on 23 and likes machines, midcentury architecture and Tasmania.
 

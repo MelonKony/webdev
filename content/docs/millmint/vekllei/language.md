@@ -4,10 +4,13 @@ weight: 2
 ---
 
 <div id="headerbox">
-  <h1 style = "color: #ff9500; margin-top: 3px;" class="alignleft">Language in Vekllei</h1>
-  <h1 style = "color: #ff9500; margin-top: 3px;" class="alignright">📃</h1>
+  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">Language in Vekllei</h1>
+  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">📑</h1>
 </div>
 <div style="clear: both;"></div>
+
+  <h5 style = "color: #DA0F47; margin-top: 0.5rem; margin-bottom: 0.5rem;"> ARTICLE </h5>
+  <h6 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 3rem;">Documents</h6>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  

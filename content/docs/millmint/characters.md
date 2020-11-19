@@ -4,10 +4,13 @@ weight: 2
 ---
 
 <div id="headerbox">
-  <h1 style = "color: #34c759; margin-top: 3px;" class="alignleft">Cast of Characters</h1>
-  <h1 style = "color: #34c759; margin-top: 3px;" class="alignright">👭</h1>
+  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">Cast of Characters</h1>
+  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">🦚</h1>
 </div>
 <div style="clear: both;"></div>
+
+  <h5 style = "color: #4F69F8; margin-top: 0.5rem; margin-bottom: 0.5rem;"> FEATURE </h5>
+  <h6 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 3rem;">Documents</h6>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
@@ -26,9 +29,9 @@ This article is still under construction (as of mid-November) but should be done
 
 ### 2.1 🍁 Tzipora (Zelda) Desmoisnes
 
-![bulletin](/images/tziporacon.jpg)
+![smallbulletin](/images/mastheads/tzipora.jpg)
 
-**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](docs/MillMint/Intro/#utopia-as-character) of this project.
+**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](docs/millmint/intro/#23--utopia-as-character) of this project.
 
 #### Fact Sheet
 
@@ -47,6 +50,8 @@ This article is still under construction (as of mid-November) but should be done
 | **Sigil**            | Mustard Orchid                                                 |
 {{< /expand >}}
 
+#### Appearance
+
 
 #### Personality
 
@@ -62,7 +67,9 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 
 ### 2.2 🌳 Cobian Queismesnah
 
-**Cobian lo Ro de Viviya de Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling and young adulthood in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora's mostly male friendship group out of jealousy and a general distaste for boys.
+![smallbulletin](/images/mastheads/cobian.jpg)
+
+**Cobian lo Ro de Viviya de Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora's mostly male friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
 
 #### Fact Sheet
 
@@ -80,6 +87,8 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 | **Civilian Awards**  | A.r.F. Medal for Love to the Sick and Dying                           |
 | **Sigil**            | Golden Bliss Flower                                                   |
 {{< /expand >}}
+
+#### Appearance
 
 #### Personality
 
