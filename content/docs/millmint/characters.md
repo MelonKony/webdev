@@ -27,11 +27,15 @@ This article is still under construction (as of mid-November) but should be done
 
 ## 2. Characters
 
+Although almost all character in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. The character profiles below only gently touch upon the people that make up this world, but should serve as a stop-gap between nothingness and their full articles that will be produced over the coming months.
+
+---
+
 ### 2.1 🍁 Tzipora (Zelda) Desmoisnes
 
 ![smallbulletin](/images/mastheads/tzipora.jpg)
 
-**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](docs/millmint/intro/#23--utopia-as-character) of this project.
+**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](docs/millmint/intro/#23--utopia-as-character) of this project. Often called Zelda by her friends, she is the protagonist of *Atomic Modern* and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with **Gregori Syndrome**, a genetic disorder that affects her ageing and renders her biologically immortal. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her life and making her happy.
 
 #### Fact Sheet
 
@@ -52,18 +56,19 @@ This article is still under construction (as of mid-November) but should be done
 
 #### Appearance
 
+Tzipora is blue-eyed and black-haired of mixed Inuit-Scandinavian-Eastern-European heritage. She has a round head and a big smile, and a skinny, bony frame attributed in part to a childish metabolism retained through Gregori-Heitzfeld Syndrome, from which she suffers. She parts her short hair in the centre and ornaments it with fountain hairpieces, traditional hair loops and floral assemblies depending on the occasion. She is most remembered for her youthful appearance, since she does not age beyond late prepubescence as a consequence of her genetic condition. Despite this, she retains a serious, cultivated manner and alternates disconcertingly between youthful hyperactivity and careful, deliberate physicality.
+
+She dresses in conservative fashions and has maintained a consistent taste throughout her life. She has a weakness for loose clothing, particularly buttoned shirts, slacks and skirts of various styles. She is most commonly seen in a pleated white shirt, modest skirt, folded socks and penny loafers.
 
 #### Personality
 
-There are a lot of things Tzipora does differently to everybody else, and they start to make a lot more sense when you realise Tzipora either does not *realise* she is unusual, or does not *care*.
-
-She has a lot of endearing characteristics that give great character to her mannerisms and physicality. She has a small overbite that makes her look a little froggy, and ritually pulls on her shirt and wipes her nose in anxious conversation. She is round-headed and cuts her hair herself. She talks in a low, expressive voice. She has been poorly socialised in childhood, and is afraid of casual conversation with people she does not know. She is keenly socially attuned and feels awkwardness painfully.
-
-She wears the same clothes two or three days in a row. The outfits themselves are variations of the same thing, and her tastes don’t change. Everything hangs off her — she likes baggy, airy clothing, and upsizes to accomodate. She doesn’t like fashionable or voguish people, whom she regards as decadent and offensive. To Tzipora, taste is timeless and bound to the soul. In her case, this fact has held true — she has dressed the same as childhood, and very little else has changed about her in that time.
+Tzipora is nonconformist by way of ignorance or obstinance depending on the occasion.
 
 She is paranoid and conservative, good-natured and austere, with a moral outlook bound by her deepest anxieties and obsessions. She is deeply spiritual and material, fascinated with objects and their history. She has many collections of many things she’s found. She’ll likely die a Catholic, but has a confrontational relationship with God and no longer attends mass, as a declaration of humanism. She does not know if this has pissed Him off, but it’s working out so far. Maybe that’s why He made her a homosexual — to get back at her. He must have a good sense of humour, if that’s the case.
 
 Tzipora may be intense and inward-facing, but she can also be disarmingly charming and self-deprecating. She has a good sense of humour. There are not many girls that can so easily reconcile the contradictions between the peculiar and the healthy, the eccentric and the friendly, and the violent and the domestic. That’s part of her character — an essence of being that radiates decency, good taste and a respect for the spirit of all things.
+
+---
 
 ### 2.2 🌳 Cobian Queismesnah
 
@@ -90,44 +95,12 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 
 #### Appearance
 
-#### Personality
+Cobian is green-eyed and black-haired, descendent mostly from Inuit-Scandinavian ethnic groups common in Vekllei. She is more Asiatic in appearance than her friend Zelda, and is tall for her age. She styles her long hair in many different ways, most commonly in a bun or braids. She is healthy but inactive, but tans easily without freckling. Cobian is graceful and well-mannered, and otherwise has little interest in Tzipora's long walks or physical games.
 
-When Tzipora meets her, Cobian is a figure of sympathy and annoyance. Cobian was deeply insecure and had constructed an elaborate character for herself which she acted out each day at school, convincing no-one and isolating her after friendships shifted in the tumultuous transition between middle and secondary schooling.
-
-### 2.3 🌵 Moise Hasapis
-
-**Moise ra Hasapis** is Tzipora's close friend and companion.
-
-#### Fact Sheet
+She dresses in prim, well-maintained clothing courtesy of her despotically hygienic mother, and has a penchant for ironed shirts, pleatless skirts, synthetic hosiery and jewellery she considers befitting a maturing young woman.
 
 #### Personality
 
-*Coming soon*.
+When Tzipora meets her, Cobian is a figure of sympathy and irritation. She was deeply insecure and had constructed an elaborate persona for herself, convincing few at school and isolating her after old friendships fell apart in the tumultuous transition between middle and secondary schooling. Once she became comfortable around her new friend and matured out of some old insecurities, Cobian revealed herself to be easy-going and friendly, a figure of small pretensions and genuine friendship. In her own skin, she makes an excellent conversationalist, charmingly attentive and ready to listen.
 
-### 2.4 🌾 Baron Desmoisnes
-
-**Baron Desmoisnes** is Tzipora's adoptive father.
-
-#### Fact Sheet
-
-#### Personality
-
-*Coming soon*.
-
-#### Fact Sheet
-
-*Coming soon*.
-
-### 2.5 🍄 Ayn Rumouisen
-
-**Ayn Rumouisen** is a longtime friend and colleague of Baron Desmoisnes and close family friend and matriarch of Tzipora.
-
-#### Fact Sheet
-
-#### Personality
-
-*Coming soon*.
-
-## Notes
-
-*To be established*.
+Some people think she's pretentious; she's not pretentious. She likes good food and is highly fashionable in her interests and styles, but Cobian is also deeply empathetic and via her friends finds interest in new things she'd never previously thought about. She makes up most of Tzipora's social life, which leaves plenty of space for Zelda's big personality and obsessions. Zelda has a deeply stablising effect on Cobian, rounding out some of her mother's strict legacy through Zelda's androgynous habits and far-fetched fascinations. But Zelda's big personality does not include much talking or grace, and in these deficiencies Cobian's cultural conservatism shines. Together they make a great pair, their neighbouring personalities aiding their best selves.
