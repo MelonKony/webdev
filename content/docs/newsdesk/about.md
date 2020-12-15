@@ -4,13 +4,12 @@ weight: 1
 ---
 
 <div id="headerbox">
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">About the Author</h1>
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">🍇</h1>
+  <h1 class="alignleft">About the Author</h1>
+  <h1 class="alignright">🍇</h1>
 </div>
-<div style="clear: both;"></div>
 
-  <h5 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 0.5rem;"> CONTACT </h5>
-  <h6 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 3rem;">Newsdesk</h6>
+<h5 span class="pagetag"> CONTACT </h5>
+<h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
@@ -34,13 +33,3 @@ Hobart Phillips is an Australian illustrator and writer living and working in Ta
 - Bohos
 - Gadgetbahns
 - Television
-
----
-
-<br>
-
-{{< button href="https://www.reddit.com/r/vekllei" >}}Reddit{{< /button >}}
-{{< button href="https://www.discord.gg/dCE6vSU" >}}Discord{{< /button >}}
-{{< button href="https://www.patreon.com/vekllei" >}}Patreon{{< /button >}}
-
-<br>

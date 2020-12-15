@@ -3,7 +3,10 @@ weight: 1
 title: "2020"
 ---
 
-# 🌼 Letters From the Editor
+<div id="headerbox">
+  <h1 class="alignleft">Letters From the Editor</h1>
+  <h1 class="alignright">🌼</h1>
+</div>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
@@ -18,6 +21,6 @@ Listed below are copies of the letters distributed to patrons in 2020.
 
 <br>
 
-{{< button relref="docs/newsdesk/letters/2020/nov.md" >}}18/11/2020{{< /button >}}
+{{< button relref="docs/newsdesk/letters/editor/2020/nov.md" >}}Nov{{< /button >}}
 
 <br>

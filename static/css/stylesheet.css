@@ -2,7 +2,22 @@
 
 /* You can add custom styles here. */
 
+/*font fallback*/
+
+.markdown {
+	font-family: 'Inter', Arial, sans-serif;
+}
+
+.book-brand {
+	font-family: 'Inter Extra Bold', Arial, sans-serif;
+}
+
+html {
+	font-family: 'Inter', Arial, sans-serif;
+}
+
 /*navigation padding*/
+
 .book-menu nav {
 	width: 16rem;
 	padding: 2rem!important;
@@ -14,7 +29,7 @@
 	overflow-y: auto;
 }
 
-//typography
+/* typography */
 hr, h1, h2, h3 {
   font-weight: bold;
 }
@@ -53,12 +68,7 @@ hr, h1, h2, h3 {
  }
 }
 
-// rounded images
-.markdown img {
-  border-radius: 5px;
-}
-
-// title bold styles
+/* title bold styles */
 .markdown h1 {
   font-weight: bold;
 }
@@ -75,12 +85,22 @@ hr, h1, h2, h3 {
   font-weight: bold;
 }
 
-//button bottom margin fix
+.fc {
+  float: left;
+  font-family: Inter Extra Bold;
+  font-size: 78px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+/*button bottom margin fix */
 .markdown a.book-btn {
 	margin-bottom: 10px;
 }
 
-// dark mode
+/* dark mode */
 .book-search input {
   width: 100%;
 }
@@ -204,10 +224,14 @@ $theme-dark: (
     icon-filter: brightness(0) invert(1),
 );
 
-//bulletin img shortcode
-img[alt=smallbulletin] { width: 400px; }
+/* small image shortcode */
+img[alt=emoji] { width: 30px; }
 
-//fix for light italics
+img[alt=smallgif] { height: 400px; }
+
+img[alt=smallimg] { width: 400px; } !important
+
+/* fix for light italics */
 @font-face {
     font-family: Inter;
     font-style: none;
@@ -233,4 +257,101 @@ img[alt=smallbulletin] { width: 400px; }
  --color-link: #06c;
  --color-visited-link: #1a0dab;
  --icon-filter: none
+}
+
+.book-menu nav {
+	width: 16.1rem;
+}
+
+/* columns wrap fix */
+.markdown .book-columns>div {
+	margin: 1rem 0;
+	min-width: 310px;
+	padding: 0 1rem;
+}
+
+/* rounded images */
+.markdown img {
+  border-radius: 5px;
+}
+
+/* intro background */
+#intro {
+	background-color: var(--gray-100);
+	border-radius: 5px;
+	padding: 1rem;
+	margin-bottom: 1rem;
+}
+
+/* headerbox */
+#headerbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+#headerbox .alignleft {
+	font-family: Inter Extra Bold; Arial, sans-serif;
+	margin-top: 3px;
+	margin-bottom: 0px;
+}
+
+#headerbox .alignright {
+	float: right;
+	font-size: 55px;
+	margin-top: 3px;
+	margin-bottom: 0px;
+	margin-left: 1rem;
+}
+
+.markdown .pagetag {
+	color: #6e6e73;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+.markdown .featuretag {
+	color: #4F69F8;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+.markdown .articletag {
+	color: #DA0F47;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+.markdown .bulletintag {
+	color: #688000;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+.markdown .essaytag {
+	color: #0381A2;
+	font-weight: Inter Bold;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+.markdown .sitetag {
+	color: #6e6e73;
+	margin-top: 0.5rem;
+	margin-bottom: 1rem;
+}
+
+/* pagination fix */
+ul.pagination {
+display: flex;
+justify-content: center;
+list-style-type: none;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+padding-inline-start: 0px;
+}
+
+ul.pagination .page-item a {
+padding: 0.7rem;
 }

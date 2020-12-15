@@ -4,38 +4,40 @@ weight: 2
 ---
 
 <div id="headerbox">
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">Cast of Characters</h1>
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">🦚</h1>
+  <h1 class="alignleft">Cast of Characters</h1>
+  <h1 class="alignright">🦚</h1>
 </div>
 <div style="clear: both;"></div>
 
-  <h5 style = "color: #4F69F8; margin-top: 0.5rem; margin-bottom: 0.5rem;"> FEATURE </h5>
-  <h6 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 3rem;">Documents</h6>
+<h5 span class="featuretag"> FEATURE </h5>
+<h6 span class="sitetag">Introduction</h6>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
 Say hi to the characters of the project! This page is an introduction to the characters of this world. See the Characters section for full articles on each person.
 {{< /hint >}}
-{{< hint warning >}}
+{{< hint danger >}}
 **🚚 Under Construction**  
 This page is still under construction, and may be incomplete.
 {{< /hint >}}
 
-## 1. Introduction
-
-This article is still under construction (as of mid-November) but should be done by the end of the month. Thanks for your understanding. In the meantime, visit some of the other sections of this website.
+## 1. Overview
+<div id="intro">
+<b>This article</b> is still under construction (as of mid-November) but should be done by the end of the month. Thanks for your understanding. In the meantime, visit some of the other sections of this website.
+</div>
 
 ## 2. Characters
 
-Although almost all character in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. The character profiles below only gently touch upon the people that make up this world, but should serve as a stop-gap between nothingness and their full articles that will be produced over the coming months.
+<span class="fc">A</span>
+**lthough almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. The character profiles below only gently touch upon the people that make up this world, but should serve as a stop-gap between nothingness and their full articles that will be produced over the coming months.
 
 ---
 
 ### 2.1 🍁 Tzipora (Zelda) Desmoisnes
 
-![smallbulletin](/images/mastheads/tzipora.jpg)
+![smallimg](/images/mastheads/tzipora.jpg)
 
-**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](docs/millmint/intro/#23--utopia-as-character) of this project. Often called Zelda by her friends, she is the protagonist of *Atomic Modern* and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with **Gregori Syndrome**, a genetic disorder that affects her ageing and renders her biologically immortal. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her life and making her happy.
+**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/docs/millmint/intro/#23--utopia-as-character) of this project. Often called Zelda by her friends, she is the protagonist of *Atomic Modern* and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with **Gregori Syndrome**, a genetic disorder that affects her ageing and renders her biologically immortal. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her life and making her happy.
 
 #### Fact Sheet
 
@@ -72,7 +74,7 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 
 ### 2.2 🌳 Cobian Queismesnah
 
-![smallbulletin](/images/mastheads/cobian.jpg)
+![smallimg](/images/mastheads/cobian.jpg)
 
 **Cobian lo Ro de Viviya de Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora's mostly male friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
 

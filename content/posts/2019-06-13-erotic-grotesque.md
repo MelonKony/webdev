@@ -2,19 +2,20 @@
 title: Absolute Grotesque
 date: 2019-06-13
 tags:
-    - painting
+    - post
+    - 2019
 categories:
     - archive
 keywords:
-    - painting
+    - post
+    - 2019
+image: /images/eroguro.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/c05k16/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
 {{< hint warning >}}
 **🌸 Archived Post**  
 This article predates the project, **and should be considered non-canon**.
 {{< /hint >}}
-
-![bulletin](/images/eroguro.jpg)
 
 [Previous post here](https://www.reddit.com/r/worldbuilding/comments/busvvn/catching_a_steam_locomotive_to_school/).
 

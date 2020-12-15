@@ -2,13 +2,16 @@
 title: What is Vekllei?
 date: 2019-07-26
 tags:
-    - meta
-    - intro
+    - post
+    - guide
+    - 2019
 categories:
     - author
 keywords:
-    - meta
-    - intro
+    - post
+    - guide
+    - 2019
+image: /images/oldmap.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/chomw1/what_is_vekllei/" >}}Archived from the original article here{{< /button >}}
 
@@ -21,8 +24,6 @@ Welcome to the ‘Petticoat Project’, a collection of stories about a country 
 3. **Landscape:** for articles on Vekllei and her society, incorporating all that goes with it.
 
 Otherwise, read on for an introduction to this project and what I intend to do with it.
-
-![oldmap.png](/images/oldmap.png)
 
 ## The Epilogue to the Epoch of Rest
 

@@ -4,27 +4,31 @@ weight: 1
 ---
 
 <div id="headerbox">
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">The Epilogue of the <i>Epoch of Rest</i></h1>
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">🎊</h1>
+  <h1 class="alignleft">The Epilogue of the <i>Epoch of Rest</i></h1>
+  <h1 class="alignright">🎊</h1>
 </div>
-<div style="clear: both;"></div>
 
-  <h5 style = "color: #4F69F8; margin-top: 0.5rem; margin-bottom: 0.5rem;"> FEATURE </h5>
-  <h6 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 3rem;">Introduction</h6>
+<h5 span class="featuretag"> FEATURE </h5>
+<h6 span class="sitetag">Introduction</h6>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
 If you're new to the project, start here. This is a crash course on what this website (and the project at large) is all about.
 {{< /hint >}}
-{{< hint danger >}}
-**⭐ Starred Article**  
+{{< hint warning >}}
+**📯 Starred Article**  
 This article is complete. It was last updated in November 2020.
 {{< /hint >}}
 
 ![Intro GIF](/images/intro.gif)
 
 ## 1. What is this project?
-**Vekllei is supposed to be an 'epoch of rest'**. It's a project that's become very big, with a long storyline and lots of characters, but at its heart this world is about peaceful escapism and whimsical nostalgia.
+<div id="intro">
+<b>Utopia</b> has a lot of definitions, but in the end it's about what it feels like. It has to be genuine, otherwise it just becomes genre storytelling. So utopia is about what feels right by the metrics of one person; an expression of worldview.
+</div>
+
+<span class="fc">V</span>
+**ekllei is supposed to be an 'epoch of rest'**. It's a project that's become very big, with a long storyline and lots of characters, but at its heart this world is about peaceful escapism and whimsical nostalgia.
 
 Vekllei is a 'worldbuilding' project, which means it doesn't always look like a traditional storytelling endeavour. It introduces parts of an imaginary place that might not be revealed in a traditional linear story.
 

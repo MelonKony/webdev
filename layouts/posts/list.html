@@ -1,10 +1,13 @@
 {{ define "main" }}
-  <h1 style= "margin-top: 0px; margin-bottom: 35x;"> 🌸 Post Archive </h1>
+    <div id="headerbox">
+      <h1 class="alignleft">Post Archive</h1>
+      <h1 class="alignright" style= "margin-bottom: 1rem;">🌸</h1>
+    </div>
   {{ range sort .Paginator.Pages }}
-  <article class="markdown book-post" style= "margin-bottom: 0px;">
-    <h5 style= "margin-bottom: 0px;">
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </h5>
+  <article class="markdown book-post" style= "max-width: 380px; background-color: var(--gray-100); border-radius: 5px; padding: 1rem; margin-bottom: 1rem;">
+    <h2 style= "margin-bottom: 0px;">
+      <a style="color: var(--body-font-color);" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
     {{ partial "docs/post-meta" . }}
   </article>
   {{ end }}

@@ -1,7 +1,7 @@
 baseURL = "https://millmint.net/"
 languageCode = "en"
 title = "MillMint"
-publishdir = "C:/Users/melon/Documents/GitHub/millmint.net"
+publishdir = "/users/hobart/millmint.net"
 theme = "book"
 
 # (Optional) Set Google Analytics if you use it to track your website.
@@ -21,7 +21,7 @@ BookEditPath = '/blob/master/content/'
 
 # (Optional) Theme is intended for documentation use, therefore it doesn't render taxonomy.
 # You can remove related files with config below
-# disableKinds = ['taxonomy', 'taxonomyTerm']
+#disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [languages]
 [languages.en]

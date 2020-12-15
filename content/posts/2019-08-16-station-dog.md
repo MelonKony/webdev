@@ -2,16 +2,15 @@
 title: The People of Vekllei’s Railway (plus Dog)
 date: 2019-08-16
 tags:
-    - trains
-    - infograph
+    - post
+    - 2019
 categories:
     - landscape
 keywords:
-    - trains
-    - infograph
+    - post
+    - 2019
+image: /images/dog.jpg
 ---
-
-![dog.jpg](/images/dog.jpg)
 
 ## Station Dogs
 

@@ -2,21 +2,20 @@
 title: Absolute Grotesque
 date: 2020-08-31
 tags:
-    - map
-    - military
+    - post
+    - 2020
 categories:
     - landscape
 keywords:
-    - map
-    - military
+    - post
+    - 2020    
+image: /images/warmap.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
 {{< hint danger >}}
 **🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #4 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/4).
+This article appeared in **Issue #4 of the *Atlantic* Bulletin**. You can read it [here](/docs/newsdesk/bulletin/2020/4).
 {{< /hint >}}
-
-![bulletin](/images/warmap.jpg)
 
 >On the morning of the second day, I watched a fly crawl across the cheek of the middle-aged woman, probably an office worker, lying next to me. It moved up her cheekbone to her temple, stopping now and then to rub its front legs as though performing a ritual.
 A jagged tear ran down the leg of her dark blue work trousers, but the white calf it revealed was miraculously unscathed. The woman lay still. Probably dead, I assumed. After a while, the fly got on to her eyelid. Suddenly, she reached up and brushed it away, opening the eye. There was still a moist light inside.

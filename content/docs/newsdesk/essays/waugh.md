@@ -1,27 +1,23 @@
 ---
 title: "Landscape in the Age of Frustration"
-weight: 1
+weight: 2
 ---
 
 <div id="headerbox">
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">Landscape in the Age of Frustration: Waugh’s <i>Handful of Dust</i> as Anti-Utopia</h1>
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">👒</h1>
+  <h1 class="alignleft">Landscape in the Age of Frustration: Waugh’s <i>Handful of Dust</i> as Anti-Utopia</h1>
+  <h1 class="alignright">👒</h1>
 </div>
-<div style="clear: both;"></div>
 
-  <h5 style = "color: #0381A2; margin-top: 0.5rem; margin-bottom: 0.5rem;"> ESSAY </h5>
-  <h6 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 3rem;">Newsdesk</h6>
-
-#### Hobart Phillips
+<h5 span class="essaytag"> ESSAY </h5>
+<h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
 This article was **originally published** in **October 2019**. It offers an analysis of Evelyn Waugh's *Handful of Dust* through an anti-utopian prism.
 {{< /hint >}}
 
-<hr>
-
-Waugh's *A Handful of Dust* has remarkable topography. The word can be extrapolated in this case in several ways; for one, the book is occupied by worldly, secular affairs, inextricably bound to a particular cultural landscape and absence of metaphysic. Further, as a satirical novel of deep conservative utopian lament, there is a physical, temporal dimension to its present context and history. Finally, the topography of Waugh's novel can be taken literally, as a landscape of modernity (cities) and counter-modernity (rural life), modernism (civilisation) and anti-modernism (savagery). Because of this, there is a playful relationship with Waugh's anti-utopian world and his utopian instincts — one that warrants closer analysis. This essay will focus on the dichotomous, often schismatic landscapes at play in *A Handful of Dust*, and situate it in a modern utopian framework.
+<span class="fc">W</span>
+**augh's *A Handful of Dust* has remarkable topography**. The word can be extrapolated in this case in several ways; for one, the book is occupied by worldly, secular affairs, inextricably bound to a particular cultural landscape and absence of metaphysic. Further, as a satirical novel of deep conservative utopian lament, there is a physical, temporal dimension to its present context and history. Finally, the topography of Waugh's novel can be taken literally, as a landscape of modernity (cities) and counter-modernity (rural life), modernism (civilisation) and anti-modernism (savagery). Because of this, there is a playful relationship with Waugh's anti-utopian world and his utopian instincts — one that warrants closer analysis. This essay will focus on the dichotomous, often schismatic landscapes at play in *A Handful of Dust*, and situate it in a modern utopian framework.
 
 It is easiest to understand *A Handful of Dust* in a utopian context when the reader first recognises the novel as a worldview, or as Edward Lobb[^9] calls it, a ”picture of an entire society,” citing Waugh's employment of Eliot's *Waste Land* in its title and epigraph <sup>p.130</sup>. This scope is almost invariably unsentimental, especially in satirical works, and this quirk of genre is calcified into something more deliberate when looking at the novel’s literary context, which Peter Firchow recognised as a deliberate rejection of Victorian sentimentalism and moral arbitration as characterised by Dickensian literature[^3] <sup>p.415</sup>. The satirical edge of the novel’s climax is only shallowly buried; Nicholas Joost wrote that “beneath the incongruity, there is a chilling propriety. The relationship between Mr Todd and Tony is as Dickensian in kind and proportion as is that between Miss Havisham and Estella in *Great Expectations*.”[^7] <sup>p.186</sup>
 

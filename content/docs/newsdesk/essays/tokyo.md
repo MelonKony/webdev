@@ -4,24 +4,20 @@ weight: 10
 ---
 
 <div id="headerbox">
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">A Cashless Tokyo</h1>
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">🗼</h1>
+  <h1 class="alignleft">A Cashless Tokyo</h1>
+  <h1 class="alignright">🗼</h1>
 </div>
-<div style="clear: both;"></div>
 
-  <h5 style = "color: #0381A2; margin-top: 0.5rem; margin-bottom: 0.5rem;"> ESSAY </h5>
-  <h6 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 3rem;">Newsdesk</h6>
-
-#### Hobart Phillips
+<h5 span class="essaytag"> ESSAY </h5>
+<h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
 This article was **originally published** in **December 2018**. Yes, it’s painfully self-concerned and a little painful to read back, but for newcomers to the project you might find some “obvious truths” about Vekllei you have not yet encountered.
 {{< /hint >}}
 
-<hr>
-
-**I did not come to Tokyo to find a reference for the Petticoat Project**, because utopia does not exist there for me. In fact, by nearly every Vekllei metric, Tokyo is positively dystopian — a consumer paradise of the crushing, isolating modernity Vekllei is supposed to escape. And yet, marks of this city (and this country) are prevalent through Vekllei as a constructed country and my aesthetic as a writer and an artist. I can’t bring myself to love all of Japanese society, but I do love the country and its people. This intersection between traditional utopian world-building (along the lines of *News from Nowhere* or even the original *Utopia*) and the emotional, linear fragments of utopian storytelling which realise the cold encyclopaedia of a utopian world were the focus of my expedition to Japan. The premise of Vekllei society is at odds with so much of Japanese society — yet the emotional, aesthetic culture of the country (what I call the ‘character’ of utopianism) has influenced my media creation tremendously.
+<span class="fc">I</span>
+**did not come to Tokyo to find a reference for the Petticoat Project**, because utopia does not exist there for me. In fact, by nearly every Vekllei metric, Tokyo is positively dystopian — a consumer paradise of the crushing, isolating modernity Vekllei is supposed to escape. And yet, marks of this city (and this country) are prevalent through Vekllei as a constructed country and my aesthetic as a writer and an artist. I can’t bring myself to love all of Japanese society, but I do love the country and its people. This intersection between traditional utopian world-building (along the lines of *News from Nowhere* or even the original *Utopia*) and the emotional, linear fragments of utopian storytelling which realise the cold encyclopaedia of a utopian world were the focus of my expedition to Japan. The premise of Vekllei society is at odds with so much of Japanese society — yet the emotional, aesthetic culture of the country (what I call the ‘character’ of utopianism) has influenced my media creation tremendously.
 
 As a supplementary preface, I would like to note that it would be terrible of me to dismiss Japan as an oriental wonder of salarymen and neo-Zaibatsu. That approach has more in common with Frank Capra’s wartime propaganda piece *Know Your Enemy: Japan* than it does with real structural criticism. It is all too easy to dismiss the social and economic conditions of the country today as the natural inclination of a Japanese caricature — a homogenous hive-mind of enormously productive and obedient people. This is of course a terrible attack on the proud and long-standing tradition of dissent and progressiveness in the country — which is also home to one of the world’s largest opposition communist parties. It is a country of student mobilisation, protests and intense factionalism between the left and right-wing radicals[^1]. It is important not to conflate the impersonal structures of a society with the orientalist idea of cultural predisposition.
 

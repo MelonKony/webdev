@@ -2,23 +2,20 @@
 title: The 31st Century — Vekllei throughout our Solar System
 date: 2020-08-09
 tags:
-    - future
-    - infograph
-    - zelda
+    - post
+    - 2020
 categories:
     - landscape
 keywords:
-    - future
-    - infograph
-    - zelda
+    - post
+    - 2020
+image: /images/apricot.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/i6528h/the_31st_century_vekllei_throughout_our_solar/" >}}Archived from the original article here{{< /button >}}
 {{< hint danger >}}
 **🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #4 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/4).
+This article appeared in **Issue #4 of the *Atlantic* Bulletin**. You can read it [here](/docs/newsdesk/bulletin/2020/4).
 {{< /hint >}}
-
-![apricot.jpg](/images/apricot.jpg)
 
 ## The Epoch of Rest
 

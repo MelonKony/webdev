@@ -2,25 +2,20 @@
 title: Winter Uniforms in Vekllei
 date: 2020-05-16
 tags:
-    - uniforms
-    - cobian
-    - zelda
-    - school
+    - post
+    - 2020
 categories:
     - landscape
 keywords:
-    - uniforms
-    - cobian
-    - zelda
-    - school
+    - post
+    - 2020
+image: /images/winteruniforms.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gkuij7/winter_uniforms_in_vekllei/" >}}Archived from the original article here{{< /button >}}
 {{< hint danger >}}
 **🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #1 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/1).
+This article appeared in **Issue #1 of the *Atlantic* Bulletin**. You can read it [here](/docs/newsdesk/bulletin/2020/1).
 {{< /hint >}}
-
-![smallbulletin](/images/winteruniforms.jpg)
 
 **When I paint Vekllei, I usually depict the warmer months**. Hems are shorter, days are longer, and the destabilisation of the world’s climate has only benefited these arctic people. At the gift end of the Vekllei low pressure system, Scandinavian misery has become Mediterranean pleasure, with warm summers and a mild Autumn and Spring.
 

@@ -4,10 +4,9 @@ title: "2020 Issues"
 ---
 
 <div id="headerbox">
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">The <i>Atlantic</i> Bulletin</h1>
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">🌼</h1>
+  <h1 class="alignleft">The <i>Atlantic</i> Bulletin</h1>
+  <h1 class="alignright">🌼</h1>
 </div>
-<div style="clear: both;"></div>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
@@ -33,5 +32,7 @@ Listed below are the issues of The *Atlantic* distributed in 2020. Since the bul
 {{< button relref="docs/newsdesk/bulletin/2020/5.md" >}}Sep 2020{{< /button >}}
 
 {{< button relref="docs/newsdesk/bulletin/2020/6.md" >}}Oct 2020{{< /button >}}
+
+{{< button relref="docs/newsdesk/bulletin/2020/7.md" >}}Nov 2020{{< /button >}}
 
 <br>

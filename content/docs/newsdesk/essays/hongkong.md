@@ -1,27 +1,23 @@
 ---
 title: "Not Long in Hong Kong"
-weight: 1
+weight: 2
 ---
 
 <div id="headerbox">
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignleft">Not Long in Hong Kong</h1>
-  <h1 style = "margin-top: 3px; margin-bottom: 0px;" class="alignright">🇭🇰</h1>
+  <h1 class="alignleft">Not Long in Hong Kong</h1>
+  <h1 class="alignright">🇭🇰</h1>
 </div>
-<div style="clear: both;"></div>
 
-  <h5 style = "color: #0381A2; margin-top: 0.5rem; margin-bottom: 0.5rem;"> ESSAY </h5>
-  <h6 style = "color: #6e6e73; margin-top: 0.5rem; margin-bottom: 3rem;">Newsdesk</h6>
-
-#### Hobart Phillips
+<h5 span class="essaytag"> ESSAY </h5>
+<h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint info >}}
 **🌺 Note from the Editor**  
 This article was **originally published** in **October 2019**. This article was written shortly after my return from Hong Kong, where I got caught up in the pro-democracy protests and is a broad response to Australian coverage of the ongoing events.
 {{< /hint >}}
 
-<hr>
-
-**Hong Kong is a loud, bustling jewel of a city.** It is perhaps my favourite city in the world. On sweltering days, what sounds like raindrops smack the pavement as hundreds of air-conditioning units drip liquid into the streets below. In North Point, you might as well be fifty years back in time. Thin double-decker trams ding-ding-ding their way through crowded market streets with smells pungent enough to turn your stomach in the humid air. New tower blocks develop a run-down patina in a matter of years. Everyone is shouting, all of the time.
+<span class="fc">H</span>
+**ong Kong is a loud, bustling jewel of a city.** It is perhaps my favourite city in the world. On sweltering days, what sounds like raindrops smack the pavement as hundreds of air-conditioning units drip liquid into the streets below. In North Point, you might as well be fifty years back in time. Thin double-decker trams ding-ding-ding their way through crowded market streets with smells pungent enough to turn your stomach in the humid air. New tower blocks develop a run-down patina in a matter of years. Everyone is shouting, all of the time.
 
 Enough people have asked me to share my experience in Hong Kong that I’ve decided to get around to doing it. I was reluctant for a few reasons. The first is that I felt I didn’t have anything particularly profound to say (it recalls white tourists returning home from building a cowshed in Vietnam and describing how seeing poverty really, like, made them grateful). The second was that there are enough Western voices telling us how to feel about police brutality and freedom movements, and I don’t see how my anecdotes would contribute to anything but further anxiety and sorrow for Hong Kong. I am not some kind of saviour, or for that matter a journalist. I did not do anything good for Hong Kong. I don’t see how I’ve earned my right to talk about it. So treat this only as a collection of thoughts, influenced and calcified by my time in a wonderful city.
 

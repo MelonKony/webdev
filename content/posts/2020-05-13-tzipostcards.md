@@ -2,17 +2,18 @@
 title: Announcing Tzipo-stcards
 date: 2020-05-13
 tags:
-    - meta
-    - announcements
+    - post
+    - update
+    - 2020
 categories:
     - author
 keywords:
-    - meta
-    - announcements
+    - post
+    - update
+    - 2020
+image: /images/tzipostcards.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gide8n/announcing_tzipostcards/" >}}Archived from the original article here{{< /button >}}
-
-![smallbulletin](/images/tzipostcards.jpg)
 
 Hello everyone. **Just a little update**.
 

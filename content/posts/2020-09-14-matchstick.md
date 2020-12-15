@@ -2,25 +2,20 @@
 title: Matchstick Girl
 date: 2020-09-14
 tags:
-    - story
-    - cityscape
-    - cobian
-    - zelda
+    - post
+    - 2020
 categories:
     - character
 keywords:
-    - story
-    - cityscape
-    - cobian
-    - zelda
+    - post
+    - 2020
+image: /images/matchstick.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/is6pr2/matchstick_girl/" >}}Archived from the original article here{{< /button >}}
 {{< hint danger >}}
 **🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #5 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/5).
+This article appeared in **Issue #5 of the *Atlantic* Bulletin**. You can read it [here](/docs/newsdesk/bulletin/2020/5).
 {{< /hint >}}
-
-![smallbulletin](/images/matchstick.jpg)
 
 *Another paint-sketch — a painting done fast. I’m trying to learn to a) paint and b) paint on an industrial scale.*
 

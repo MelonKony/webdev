@@ -2,23 +2,20 @@
 title: 2031 Apartment Diagram
 date: 2020-05-15
 tags:
-    - infograph
-    - zelda
-    - architecture
+    - post
+    - 2020
 categories:
     - landscape
 keywords:
-    - infograph
-    - zelda
-    - architecture
+    - post
+    - 2020
+image: /images/apartment.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gjpcha/2031_apartment_diagram/" >}}Archived from the original article here{{< /button >}}
 {{< hint danger >}}
 **🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #1 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/1).
+This article appeared in **Issue #1 of the *Atlantic* Bulletin**. You can read it [here](/docs/newsdesk/bulletin/2020/1).
 {{< /hint >}}
-
-![apartment.jpg](/images/apartment.jpg)
 
 **Baron had inherited the apartment** from his uncle, who passed in the year following his parents. It was in a mixed residential-industrial neighbourhood, adjacent to a canvas factory. Out back was a rivulet, which roared in the long rainstorms of early April.
 

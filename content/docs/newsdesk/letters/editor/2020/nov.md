@@ -4,6 +4,14 @@ title: "Letter | November 2020"
 bookHidden: true
 ---
 
+<div id="headerbox">
+  <h1 class="alignleft">Letters From the Editor</h1>
+  <h1 class="alignright">✉️</h1>
+</div>
+
+<h5 span class="pagetag"> EDITOR </h5>
+<h6 span class="sitetag">Letters</h6>
+
 ![bulletin](/images/mastheads/letters.jpg)
 
 # Letters From the Editor — Nov. Update for Patrons

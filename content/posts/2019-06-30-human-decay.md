@@ -3,18 +3,19 @@ title: The Principles of "Human Decay"
 date: 2019-06-30
 tags:
     - sketch
+    - 2019
 categories:
     - archive
 keywords:
     - sketch
+    - 2019
+image: /images/decay.jpg
 ---
 {{< button href="https://www.reddit.com/user/MelonKony/comments/c708ih/the_principles_of_human_decay/" >}}Archived from the original article here{{< /button >}}
 {{< hint warning >}}
 **🌸 Archived Post**  
 This article predates the project, **and should be considered non-canon**.
 {{< /hint >}}
-
-![bulletin](/images/decay.jpg)
 
 Talking about utopia in landscape is easy — [Vekllei is a glittering midcentury paradise that fosters human life as a wonderful dream](https://vekllei.city/economy/).
 

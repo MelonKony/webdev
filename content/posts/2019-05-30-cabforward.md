@@ -2,19 +2,20 @@
 title: Catching a steam locomotive to school
 date: 2019-05-30
 tags:
-    - painting
+    - post
+    - 2019
 categories:
     - archive
 keywords:
-    - painting
+    - post
+    - 2019
+image: /images/cabforward.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/busvvn/catching_a_steam_locomotive_to_school/" >}}Archived from the original article here{{< /button >}}
 {{< hint warning >}}
 **🌸 Archived Post**  
 This article predates the project, **and should be considered non-canon**.
 {{< /hint >}}
-
-![bulletin](/images/cabforward.jpg)
 
 >*Most of the kids pictured here are the cubs of lumberfolk who make a living out of felling hard pines in the mountains in the North of Vekllei. About half have dark hair and rounder faces, as descendants of both inuits and Scandinavians, and others are of mixed ancestry. Families in Vekllei are large and often nonbiological, and a single lad can have a dozen sisters. Ame Louisendopet might be a bitch on occasion, but that’s how it goes. Jo’s little sister, Popet, has decided age ten and a half that she’ll be a locomotive engineer one day.*
 

@@ -2,27 +2,20 @@
 title: The Last Train Out of Ada
 date: 2020-05-21
 tags:
-    - painting
-    - nature
-    - cobian
-    - zelda
-    - trains
+    - post
+    - 2020
 categories:
     - character
 keywords:
-    - painting
-    - nature
-    - cobian
-    - zelda
-    - trains
+    - post
+    - 2020
+image: /images/missedtrain.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gndpwo/the_last_train_out_of_ada/" >}}Archived from the original article here{{< /button >}}
 {{< hint danger >}}
 **🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #1 of the *Atlantic* Bulletin**. You can read it [here](/docs/millmint/bulletin/2020/1).
+This article appeared in **Issue #1 of the *Atlantic* Bulletin**. You can read it [here](/docs/newsdesk/bulletin/2020/1).
 {{< /hint >}}
-
-![missedtrain.jpg](/images/missedtrain.jpg)
 
 **They both watched as train 416 pulled away from the platform.** And that was that — there would be no school in the morning. That was how it worked in rural Vekllei, a million miles from the automatic trains on endless timetables. Out here, you paced life around the station.
 
