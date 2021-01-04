@@ -10,6 +10,7 @@ keywords:
     - post
     - 2019
 image: /images/family.jpg
+
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/auz580/the_forgotten_generation/" >}}Archived from the original article here{{< /button >}}
 {{< hint warning >}}

@@ -1,20 +1,45 @@
 {{ define "main" }}
+<style>
+  @media screen and (max-width: 56rem) {
+    #headerbox{
+     margin-top: 40px;
+    }
+  }
+  h2 {
+    margin: 0px;
+    overflow: hidden;
+    max-width: 300px;
+  }
+</style>
     <div id="headerbox">
-      <h1 class="alignleft">Post Archive</h1>
-      <h1 class="alignright" style= "margin-bottom: 1rem;">🌸</h1>
+      <h1 class="title">Post Archive</h1>
+      <h1 class="emoji" style= "margin-bottom: 1rem;">🌸</h1>
     </div>
+    <div style="display: flex; flex-wrap: wrap;">
   {{ range sort .Paginator.Pages }}
-  <article class="markdown book-post" style= "max-width: 380px; background-color: var(--gray-100); border-radius: 5px; padding: 1rem; margin-bottom: 1rem;">
-    <h2 style= "margin-bottom: 0px;">
+  <article class="markdown book-post" style= "
+
+  min-width: 40%;
+  object-fit:cover;
+  align-items: center;
+  box-sizing: border-box;
+  background-color: var(--gray-100);
+  border-radius: 5px;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
       <a style="color: var(--body-font-color);" href="{{ .RelPermalink }}">{{ .Title }}</a>
     </h2>
     {{ partial "docs/post-meta" . }}
   </article>
   {{ end }}
-
-  {{ template "_internal/pagination.html" . }}
+ </div>
+{{ template "_internal/pagination.html" . }}
 {{ end }}
-
 {{ define "toc" }}
   {{ partial "docs/taxonomy" . }}
 {{ end }}

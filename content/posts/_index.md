@@ -4,6 +4,5 @@ menu:
     name: Post Archive
     weight: 5
 title: Archive
+bookHidden: true
 ---
-
-# Posts

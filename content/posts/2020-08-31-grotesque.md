@@ -14,19 +14,19 @@ image: /images/warmap.jpg
 {{< button href="https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
 {{< hint danger >}}
 **🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #4 of the *Atlantic* Bulletin**. You can read it [here](/docs/newsdesk/bulletin/2020/4).
+This article appeared in **Issue #4 of the *Atlantic* Bulletin**. You can read it [here](//newsdesk/bulletin/2020/4).
 {{< /hint >}}
 
 >On the morning of the second day, I watched a fly crawl across the cheek of the middle-aged woman, probably an office worker, lying next to me. It moved up her cheekbone to her temple, stopping now and then to rub its front legs as though performing a ritual.
 A jagged tear ran down the leg of her dark blue work trousers, but the white calf it revealed was miraculously unscathed. The woman lay still. Probably dead, I assumed. After a while, the fly got on to her eyelid. Suddenly, she reached up and brushed it away, opening the eye. There was still a moist light inside.
 
-**From Insects, by Seirai Yūichi**
+**From *Insects*, by Seirai Yūichi**
 
 >By chance, the glass paperweight had survived. When her in-laws’ house had burnt down in Yokohama, the paperweight was among those things that she’d frantically stuffed into an emergency bag, and now it was her only souvenir of life in her girlhood home.
 
 >From evening on, in the alley, she could hear the strange cries of the neighbourhood girls. Rumour had it that they could make a thousand yen in a single night. Now and then she would find herself holding the forty-sen paperweight she had bought after ten days of indecision when she was these girls’ age, and as she studied the sweet little dog in relief, she would realise with a shock that there was not a single dog left in the whole burnt-out neighbourhood.
 
-**From The Silver Fifty-Sen Pieces, by Kawabata Yasunari**
+**From *The Silver Fifty-Sen Pieces*, by Kawabata Yasunari**
 
 **On the 14th of August 2111**, the Atomic War began in a Chinese submarine in the South Pacific, and ended six hours later. The war marks the single greatest loss of life in human history and would disrupt human life on Earth in previously unimaginable ways — consumer society bottomed out, the world became small, the Earth grew cold, and a new chapter in human history was opened.
 

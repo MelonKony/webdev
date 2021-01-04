@@ -1,10 +1,7 @@
-  {{ with .Date}}
-    <h6 class= "alignleft" style= "margin-top: 0.2rem; color: var--body-font-color;">{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h6>
-  {{ end }}
-
-  {{ range $taxonomy, $_ := .Site.Taxonomies }}
-  {{ end }}
-
+{{ with .Date}}
+  <h5 class= "alignleft" style= "margin-top: -1rem; color: var--body-font-color;"></h5>
+{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}
+{{ end }}
 {{ with .Params.image }}
-  <img style= "object-fit: cover; height:auto; max-height: 60vh; min-height: 400px; overflow: auto; margin-top: 1rem; margin-bottom: 1rem; border-radius: 5px;" src={{ . | relURL }} />
+  <div style="text-align: left;"><img style= "object-fit: cover; height:auto; max-height:58vh; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src={{ . | relURL }} /></div>
 {{ end }}

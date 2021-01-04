@@ -2,6 +2,51 @@
 
 /* You can add custom styles here. */
 
+/* typography root */
+:root {
+	--gray-100: #f8f9fa;
+	--gray-200: #ededed;
+	--body-background: #23272D;
+	--body-font-color: #444;
+	--color-link: #06c;
+	--color-visited-link: #1a0dab;
+	--color-blue: rgb(0,112,245);
+	--color-brown: rgb(152,122,84);
+	--color-gray: rgb(132,132,137);
+	--color-green: rgb(30,195,55);
+	--color-indigo: rgb(84,82,204);
+	--color-orange: rgb(245,139,0);
+	--color-pink: rgb(245,35,75);
+	--color-purple: rgb(159,75,201);
+	--color-red: rgb(245,49,38);
+	--color-teal: rgb(90,200,250);
+	--color-yellow: rgb(245,194,0);
+	--icon-filter: none
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+			--gray-100: rgba(255, 255, 255, 0.1);
+			--gray-200: rgba(255, 255, 255, 0.2);
+			--body-background: #363636;
+			--body-font-color: #e9ecef;
+			--color-link: #84b2ff;
+			--color-visited-link: #b88dff;
+			--color-blue: rgb(20,142,255);
+			--color-brown: rgb(182,152,114);
+			--color-gray: rgb(162,162,167);
+			--color-green: rgb(60,225,85);
+			--color-indigo: rgb(99,97,242);
+			--color-orange: rgb(255,169,20);
+			--color-pink: rgb(255,65,105);
+			--color-purple: rgb(204,101,255);
+			--color-red: rgb(255,79,68);
+			--color-teal: rgb(100,210,255);
+			--color-yellow: rgb(255,224,20);
+			--icon-filter: brightness(0) invert(1)
+    }
+}
+
 /*font fallback*/
 
 .markdown {
@@ -38,6 +83,7 @@ hr, h1, h2, h3 {
   margin-top: 1.25em;
 }
 
+/* book brand */
 .book-brand img {
   height: 1em;
   vertical-align: top;
@@ -71,15 +117,20 @@ hr, h1, h2, h3 {
 /* title bold styles */
 .markdown h1 {
   font-weight: bold;
+	font-size: 34px;
 }
 .markdown h2 {
   font-weight: bold;
+	margin-bottom: 0.5rem;
 }
 .markdown h3 {
   font-weight: bold;
+	font-size: 24px;
+	margin-bottom: 0rem;
 }
 .markdown h4 {
   font-weight: bold;
+	font-size: 18px;
 }
 .markdown h5 {
   font-weight: bold;
@@ -89,10 +140,10 @@ hr, h1, h2, h3 {
   float: left;
   font-family: Inter Extra Bold;
   font-size: 78px;
-  line-height: 60px;
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;
+  line-height: 50px;
+  padding-top: 12px;
+  padding-right: 10px;
+  padding-left: 4px;
 }
 
 /*button bottom margin fix */
@@ -213,7 +264,7 @@ hr, h1, h2, h3 {
 
 $theme-light: (
     gray-100: #f8f9fa,
-    gray-200: #e9ecef,
+    gray-200: #ededed,
     icon-filter: none,
 );
 
@@ -231,6 +282,14 @@ img[alt=smallgif] { height: 400px; }
 
 img[alt=smallimg] { width: 400px; } !important
 
+img[alt=medal] { max-height: 100px; } !important
+
+img {
+	margin: 0rem 0;
+	border-inline-start: .25rem solid var(--gray-200);
+	border-radius: .25rem;
+}
+
 /* fix for light italics */
 @font-face {
     font-family: Inter;
@@ -240,23 +299,51 @@ img[alt=smallimg] { width: 400px; } !important
     src: local("Inter Italic"), local("Inter-Italic"), url(fonts/Inter-Italic.woff2) format("woff2"), url(fonts/Inter-Italic.woff) format("woff")
 }
 
+/* dark theme colors */
+
 [data-theme=dark] {
  --gray-100: rgba(255, 255, 255, 0.1);
  --gray-200: rgba(255, 255, 255, 0.2);
- --body-background: #343a40;
+ --body-background: #23272D;
  --body-font-color: #e9ecef;
  --color-link: #84b2ff;
  --color-visited-link: #b88dff;
+ --color-blue: rgb(20,142,255);
+ --color-brown: rgb(182,152,114);
+ --color-gray: rgb(162,162,167);
+ --color-green: rgb(60,225,85);
+ --color-indigo: rgb(99,97,242);
+ --color-orange: rgb(255,169,20);
+ --color-pink: rgb(255,65,105);
+ --color-purple: rgb(204,101,255);
+ --color-red: rgb(255,79,68);
+ --color-teal: rgb(100,210,255);
+ --color-yellow: rgb(255,224,20);
  --icon-filter: brightness(0) invert(1)
 }
 [data-theme=light] {
  --gray-100: #f8f9fa;
- --gray-200: #e9ecef;
- --body-background: white;
- --body-font-color: #1d1d1f;
+ --gray-200: #ededed;
+ --body-background: #fefefe;
+ --body-font-color: #444;
  --color-link: #06c;
  --color-visited-link: #1a0dab;
+ --color-blue: rgb(0,112,245);
+ --color-brown: rgb(152,122,84);
+ --color-gray: rgb(132,132,137);
+ --color-green: rgb(30,195,55);
+ --color-indigo: rgb(84,82,204);
+ --color-orange: rgb(245,139,0);
+ --color-pink: rgb(245,35,75);
+ --color-purple: rgb(159,75,201);
+ --color-red: rgb(245,49,38);
+ --color-teal: rgb(90,200,250);
+ --color-yellow: rgb(245,194,0);
  --icon-filter: none
+}
+
+.book-search input {
+	background: var(--gray-100);
 }
 
 .book-menu nav {
@@ -266,8 +353,9 @@ img[alt=smallimg] { width: 400px; } !important
 /* columns wrap fix */
 .markdown .book-columns>div {
 	margin: 1rem 0;
-	min-width: 310px;
+	min-width: 250px;
 	padding: 0 1rem;
+	margin-right: 0rem;
 }
 
 /* rounded images */
@@ -280,7 +368,13 @@ img[alt=smallimg] { width: 400px; } !important
 	background-color: var(--gray-100);
 	border-radius: 5px;
 	padding: 1rem;
-	margin-bottom: 1rem;
+	margin-bottom: 0rem;
+	margin-top: 1rem;
+}
+
+/* homepage links */
+#links a:hover {
+	background-color: var(--color-yellow);
 }
 
 /* headerbox */
@@ -289,13 +383,18 @@ img[alt=smallimg] { width: 400px; } !important
     justify-content: space-between;
 }
 
-#headerbox .alignleft {
+#headerbox .title {
 	font-family: Inter Extra Bold; Arial, sans-serif;
-	margin-top: 3px;
+	margin-top: 2px;
 	margin-bottom: 0px;
+	height: 100%;
 }
 
-#headerbox .alignright {
+.title h1 {
+	margin-left: 10px;
+}
+
+#headerbox .emoji {
 	float: right;
 	font-size: 55px;
 	margin-top: 3px;
@@ -303,39 +402,13 @@ img[alt=smallimg] { width: 400px; } !important
 	margin-left: 1rem;
 }
 
-.markdown .pagetag {
-	color: #6e6e73;
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-}
-
-.markdown .featuretag {
-	color: #4F69F8;
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-}
-
-.markdown .articletag {
-	color: #DA0F47;
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-}
-
-.markdown .bulletintag {
-	color: #688000;
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-}
-
-.markdown .essaytag {
-	color: #0381A2;
-	font-weight: Inter Bold;
-	margin-top: 0.5rem;
+.markdown .tag {
+	margin-top: 0.25rem;
 	margin-bottom: 0.5rem;
 }
 
 .markdown .sitetag {
-	color: #6e6e73;
+	color: var(--color-gray);
 	margin-top: 0.5rem;
 	margin-bottom: 1rem;
 }
@@ -354,4 +427,129 @@ padding-inline-start: 0px;
 
 ul.pagination .page-item a {
 padding: 0.7rem;
+}
+
+/* colour squares */
+
+.square {
+  float: right;
+  width: 10px;
+  height: 10px;
+  margin: 5px;
+}
+
+/* colors */
+.blue {
+  color: var(--color-blue);
+}
+
+.brown {
+  color: var(--color-brown);
+}
+
+.gray {
+  color: var(--color-cyan);
+}
+
+.green {
+  color: var(--color-green);
+}
+
+.indigo {
+  color: var(--color-indigo);
+}
+
+.orange {
+  color: var(--color-orange);
+}
+
+.pink {
+  color: var(--color-pink);
+}
+
+.purple {
+  color: var(--color-purple);
+}
+
+.red {
+  color: var(--color-red);
+}
+
+.teal {
+  color: var(--color-teal);
+}
+
+.yellow {
+  color: var(--color-yellow);
+}
+
+/*body resize fix*/
+@media screen and (min-width: 400px) {
+    .book-page, .book-menu nav, .book-toc nav {
+        padding:2rem 1rem
+    }
+}
+
+/* hint colours */
+
+.markdown .book-hint {
+	margin-top: 1rem;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	color: var(--body-font-color);
+	background-color: var(--gray-100);
+}
+
+.markdown .book-hint.panel {
+    border-color: var(--gray-100);
+}
+
+.markdown .book-hint.blue {
+    border-color: var(--color-blue);
+}
+
+.markdown .book-hint.orange {
+    border-color: var(--color-orange);
+}
+
+.markdown .book-hint.yellow {
+    border-color: var(--color-yellow);
+}
+
+.markdown .book-hint.red {
+    border-color: var(--color-red);
+}
+
+/* highlight colours */
+::selection {
+  background: var(--color-yellow); /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: var(--color-yellow); /* Gecko Browsers */
+}
+
+/* sticky header */
+@media screen and (max-width: 56rem) {
+	.book-header {
+		display: block;
+		position: fixed;
+		left: 0;
+		top: 0;
+		width: 100%;
+		padding: 15px;
+		z-index: 1;
+		background-color: var(--body-background);
+	}
+}
+
+@media screen and (max-width: 56rem) {
+	.markdown {
+	 margin-top: 40px;
+	}
+}
+
+/* image captions */
+img + em {
+	font-size: 12px;
 }

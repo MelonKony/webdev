@@ -10,6 +10,7 @@ keywords:
     - post
     - 2018
 image: /images/christmas2018.jpg
+
 ---
 {{< button href="https://www.reddit.com/user/MelonKony/comments/a8tuqe/merry_christmas_everyone_plus_a_little_christmas/" >}}Archived from the original article here{{< /button >}}
 {{< hint warning >}}
