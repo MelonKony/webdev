@@ -2,6 +2,7 @@
 weight: 12
 title: "Letter | December 2020"
 bookHidden: true
+bookSearchExclude: true
 ---
 
 <div id="headerbox">

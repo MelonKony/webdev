@@ -2,7 +2,6 @@
 title: Vekllei
 weight: 3
 ---
-
 <style>
 .markdown a {
 color: var(--color-orange);
@@ -54,13 +53,13 @@ The word "Vekllei" refers to both the country and the island, and is also plural
 
 Vekllei was first known as *Islandi*, or "Land of Ice" in an extinct Indo-European language documented under the same name in early sagas, but is likely at least partially derived from Algic-Aleutian *Quutetast* word for "snow," *Ismo*. Sagas award Faroese settler Ann Sigfúsdottir with the island's discovery and name, though little else is known of her.
 
-The name *Vekllei* ostensible applies foremost to the physical landscape of the county, of which the present city-state inherits its name. In addition, the people of Vekllei, language, and all subsequent pluralisations are also *Vekllei*.
+The name *Vekllei* ostensibly applies foremost to the physical landscape of the county, of which the present city-state inherits its name. In addition, the people of Vekllei, language, and all subsequent pluralisations are also *Vekllei*.
 
 
 ## 3. Geography
 
 {{< hint panel >}}
-**Vekllei** an ancient country of striking geological monument. A landscape of igneous rock and lava flows, Vekllei's dramatic geology is tempered by its healthy abundance of rainforests and flower-tundras, which paint the country in soft mossy hues of green and yellow.
+**Vekllei** is an ancient country of striking geological monument. A landscape of igneous rock and lava flows, Vekllei's dramatic geology is tempered by its healthy abundance of rainforests and flower-tundras, which paint the country in soft mossy hues of green and yellow.
 {{< /hint >}}
 
 {{<columns>}}
@@ -81,11 +80,11 @@ Vekllei is the world's 18th largest island, and has significant biological and c
 ![img](/images/railmap.jpg)
 
 {{< hint panel >}}
-**Politics** in Vekllei are marked by postwar constitutional values of nonpartisan democracy and transparancy of hierarchy. Vekllei people are, as evidenced by voter turnouts, often apolitical in nature. This is because political concern in Vekllei is treated similarly to petty commodity; as a feature of life for curiosity, but fundamentally participatory. In truth, at least with regards to domestic concern, Vekllei's daily affairs are basically autonomous and anarchic, and politics remains the concern only of an educated, invested class of people.
+**Politics** in Vekllei are characterised by postwar constitutional values of nonpartisan democracy and transparency of power. Vekllei people are, as evidenced by voter turnouts, often apolitical in nature. This is because political concern in Vekllei is aestheticised and treated similarly to petty commodity; as a feature of life, but fundamentally participatory. In truth, at least with regards to domestic concern, Vekllei's daily affairs are basically autonomous, and politics remains the concern of an educated, invested class of people.
 {{< /hint >}}
 
 <span class="fc">V</span>
-ekllei is a unitary city-state and nonpartisan parliamentary democracy, divided into crown lakes, boroughs and provincial administrative divisions. It retains the territory of Vekllei as a sovereign of the country, in keeping with *Upen*, but otherwise the prime ministers have equal executive power, with disputes mediated by the Crown Senate. Vekllei retains a parliamentary system as a legacy of British Occupation, but has since developed several indigenous features including its land-sovereign and twin ministership. The Vekllei system also incorporates American political features, including a constitution and bicameral house system.
+ekllei is a unitary city-state and nonpartisan parliamentary democracy, divided into crown lakes, boroughs and provincial administrative divisions. It retains the territory of Vekllei as a sovereign of the country, in keeping with *Upen*, but otherwise the prime ministers have equal executive power, with disputes mediated by the Crown Senate. Vekllei retains a parliamentary system as a legacy of British occupation, but has since developed several indigenous features including its land-sovereign and twin ministership. The Vekllei system also incorporates American political features, including a constitution and bicameral house system.
 
 Vekllei's government is portioned between three branches:
 
@@ -99,7 +98,9 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 
 ### Administrative divisions
 
-Although Vekllei is unitary politically and considers itself a city-state, the Home Islands are divided geographically between 100 boroughs (often called the *borough system*). Each borough is proportional to what is considered the land-sovereign's natural wealth, including history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being Bakur, in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
+[*See also: boroughs of Vekllei*](/millmint/vekllei/boroughs)
+
+Although Vekllei is unitary politically and considers itself a city-state, the Home Islands are divided geographically between 100 boroughs (as part of the *borough system*). Each borough is proportional to the land-sovereign's natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being [Bakur](/millmint/vekllei/boroughs/bakur), in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
 
 Each borough elects a **Senator** and two **House Members**. Overseas **Crown Lakes** territories vote in ministerial elections but do not vote for legislative members, and semiautonomous territories maintain their own parliaments.
 
@@ -234,7 +235,7 @@ Although most people in the country observe *Upen* apolitically, several other r
 
 Education in Vekllei is structured as a *State Requisite Bureau* (rather than department) under the *requoisesiasn amourisocietie scolastie*, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.
 
-All institutions of higher learning, including universities, trade schools and adult education, are structured under the A.r.E.. School uniforms informed by traditional dress are provided and worn from preschool through to university, and faculty staff also often wear them.
+All institutions of higher learning, including universities, trade schools and adult education, are structured under the A.r.E.. [School uniforms](/posts/2020-09-08-uniforms/) informed by [traditional dress](/posts/2020-01-11-dress/) are provided and worn from preschool through to university, and faculty staff also often wear them.
 
 Vekllei's school enrolment is among the highest in the world, though this calculation includes untraditional and labour schools, including agricultural and maritime schooling.
 
@@ -259,7 +260,7 @@ Unlike manufacturing and general industry, public infrastructure in the country 
 ![img](/images/hydro.jpg)
 
 {{</columns>}}
-Most large infrastructure projects, including transport, education, health, military and extraterrestrial interests, are completed in cyclical phases similar to Soviet half-decade plans, including production quotas and hard deadlines for completion. This system of construction has allowed the country to recover quickly from its devastation in the Atomic War and develop into one of the most comprehensive public infrastructure systems in the world. Vekllei is a major transport hub for international flights and Atlantic ocean crossings, served largely by the **Vekllei International Jetport** and the historic **Port of Vekllei** respectively.
+Most large infrastructure projects, including transport, education, health, military and extraterrestrial interests, are completed in cyclical phases similar to Soviet half-decade plans, including production quotas and hard deadlines for completion. This system of construction has allowed the country to recover quickly from its devastation in the Atomic War and develop one of the most comprehensive public infrastructure systems in the world. Vekllei is a major transport hub for international flights and Atlantic ocean crossings, served largely by the **Vekllei International Jetport** and the historic **Port of Vekllei** respectively.
 
 ### Transport
 

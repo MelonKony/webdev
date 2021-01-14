@@ -1,6 +1,7 @@
 ---
 title: "Polyester"
 weight: 1
+bookSearchExclude: true
 ---
 
 <div id="headerbox">

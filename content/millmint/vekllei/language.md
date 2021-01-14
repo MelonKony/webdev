@@ -129,7 +129,7 @@ From foundational monophthongs, gliding or diphthong vowels are often determined
 {{< /tabs >}}
 {{< /details >}}
 
-##### Consonants
+#### Consonants
 
 In Vekllei, consonants are arranged in five places of primary articulation.
 

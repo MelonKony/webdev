@@ -2,6 +2,7 @@
 weight: 11
 title: "Letter | November 2020"
 bookHidden: true
+bookSearchExclude: true
 ---
 
 <div id="headerbox">

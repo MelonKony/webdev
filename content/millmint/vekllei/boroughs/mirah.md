@@ -18,9 +18,15 @@ color: var(--color-indigo);
 <h5 span class="tag indigo"> BOROUGH </h5>
 <h6 span class="sitetag">Guide</h6>
 
+{{< button relref="/millmint/vekllei/boroughs/_index.md" >}}Back to Boroughs{{< /button >}}
+
 ![img](/images/waterfront.jpg)
 
 *Tzipora and Cobian in the town of Gigayeh, in the Mirah Borough*
+
+{{< hint warning >}}
+🌺 This article is about a [**borough**](/millmint/vekllei/boroughs) of [**Vekllei**](/millmint/vekllei/)
+{{< /hint >}}
 
 >Gigayeh had beautiful empty beaches, littered with icebergs that caught the light like jewels, but Tzipora couldn’t swim and the water was freezing. They could have enjoyed café food in the sun, but Cobian’s regimented home life had left her incapable of eating outside of her designated meals, and Tzipora could only drink so much coffee. Instead, most of these afternoons, they found themselves sitting on the ocean promenade, watching a handful of locals go about their business as they counted the minutes.
 

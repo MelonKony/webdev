@@ -1,6 +1,7 @@
 ---
 weight: 1
 title: "2020"
+bookSearchExclude: true
 ---
 
 <div id="headerbox">

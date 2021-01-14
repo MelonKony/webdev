@@ -11,7 +11,7 @@ keywords:
     - post
     - guide
     - 2019
-image: /images/oldmap.jpg
+image: /images/map.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/chomw1/what_is_vekllei/" >}}Archived from the original article here{{< /button >}}
 
