@@ -7,6 +7,9 @@ weight: 2
 .markdown a {
   color: var(--color-red);
 }
+.markdown a.anchor {
+color: var(--color-red);
+}
 </style>
 
 <div id="headerbox">

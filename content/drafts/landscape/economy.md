@@ -1,6 +1,7 @@
 ---
 title: Sundress Municipalism
 weight: 1
+bookSearchExclude: true
 ---
 
 {{< hint warning >}}

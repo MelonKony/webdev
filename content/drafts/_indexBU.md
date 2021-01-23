@@ -3,6 +3,7 @@ title: Home
 type:
 bookToC: false
 bookHidden: true
+bookSearchExclude: true
 ---
 
 {{< columns >}} <!-- begin columns block -->

@@ -8,6 +8,9 @@ bookHidden: true
 a {
 color: var(--color-indigo);
 }
+.markdown a.anchor {
+color: var(--color-indigo);
+}
 </style>
 
 <div id="headerbox">

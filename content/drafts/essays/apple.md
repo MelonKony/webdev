@@ -2,6 +2,7 @@
 title: "Life as a Shill for Big Corporate"
 weight: 1
 bookHidden: true
+bookSearchExclude: true
 ---
 {{< hint info >}}
 **🌺 Note from the Editor**  

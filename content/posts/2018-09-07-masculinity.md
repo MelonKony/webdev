@@ -13,8 +13,8 @@ image: /images/masculinity.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/9du5i5/masculinity_fatherhood_in_vekllei/" >}}Archived from the original article here{{< /button >}}
 {{< hint warning >}}
-**🌸 Archived Post**  
-This article predates the project, **and should be considered non-canon**.
+
+🌺 This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}
 
 Just a few notes on what it means to be a man in Vekllei.

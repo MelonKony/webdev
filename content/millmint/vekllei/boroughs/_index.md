@@ -28,7 +28,7 @@ Over the next 100 days I'll be completing this list, and linking them to images 
 
 ### Capital Region
 
-[Mumen](/millmint/vekllei/boroughs/mumen)
+N/A
 
 ### Ro Region
 

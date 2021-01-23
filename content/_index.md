@@ -2,6 +2,7 @@
 title: Home
 type:
 bookToC: false
+bookMenu: false
 description: Utopian storytelling by Studio MillMint.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
@@ -51,7 +52,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 <---> <!-- magic separator, between columns -->
 
-<div style="height: 10vh; max-width:100%; height:auto;">
+<div class="homepage">
 
 <h1 style="margin-left: auto; margin-right: auto; font-family: Inter Extra Bold; margin-top: 0; margin-bottom: 0; text-align: right; font-size: 55pt; letter-spacing: -2px;"> Studio
 

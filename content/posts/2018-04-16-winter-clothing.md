@@ -13,8 +13,8 @@ image: /images/coldweather.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8cklgn/winter_clothing_and_womanhood_in_vekllei/" >}}Archived from the original article here{{< /button >}}
 {{< hint warning >}}
-**🌸 Archived Post**  
-This article predates the project, **and should be considered non-canon**.
+
+🌺 This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}
 
 Welcome to Vekllei. It is a strange country with a complex culture that is quite distinct (and sometimes outrageous) to Western countries. This will be a long post. I’ve tried to keep it clear.

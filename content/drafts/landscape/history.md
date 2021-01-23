@@ -1,3 +1,9 @@
+---
+title: Vekllei History
+weight: 1
+bookSearchExclude: true
+---
+
 // FOR USE IN VEKLLI ARTICLE AT A LATER DATE //
 
 ## 3. History

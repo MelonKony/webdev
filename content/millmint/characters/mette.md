@@ -7,6 +7,9 @@ bookHidden: true
 .markdown a {
   color: var(--color-teal);
 }
+.markdown a.anchor {
+color: var(--color-teal);
+}
 </style>
 
 <div id="headerbox">
