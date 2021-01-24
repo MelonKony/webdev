@@ -23,12 +23,15 @@
    }
 </script>
 
-<script> <!-- toc fix -->
-  document.querySelectorAll('header #TableOfContents a').forEach(a => {
-      a.addEventListener('click', () => {
-          document.querySelector('#toc-control').checked = false;
+<!-- toc fix -->
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
       });
-  });
+  })
 </script>
 
 <link rel="stylesheet" type="text/css" href="/css/stylesheet.css" />
