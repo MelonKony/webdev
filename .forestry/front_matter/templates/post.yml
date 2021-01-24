@@ -20,3 +20,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- content/posts/test-post-please-ignore.md
