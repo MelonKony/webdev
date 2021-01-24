@@ -1,7 +1,7 @@
 baseURL = "https://millmint.net/"
 languageCode = "en"
 title = "MillMint"
-publishdir = "/public"
+publishdir = "/site"
 theme = "book"
 
 # publishdir = "/users/hobart/millmint.net"
