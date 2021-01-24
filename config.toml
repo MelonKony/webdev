@@ -1,10 +1,8 @@
 baseURL = "https://millmint.net/"
 languageCode = "en"
 title = "MillMint"
-publishdir = "/site"
+publishdir = "/users/hobart/millmint.net"
 theme = "book"
-
-# publishdir = "/users/hobart/millmint.net"
 
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = true
