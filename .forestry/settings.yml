@@ -8,11 +8,6 @@ sections:
   path: content/_index.md
   label: Home
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
   path: content/posts
   label: Posts
   create: all
