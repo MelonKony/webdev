@@ -23,11 +23,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/files
-  label: Files
-  create: all
-  match: "**/*"
-- type: directory
   path: content/drafts
   label: Drafts
   create: all
