@@ -2,27 +2,35 @@
 title: "A Cashless Tokyo"
 weight: 10
 ---
-
 <style>
 .markdown a {
-color: var(--color-green);
+color: var(--color-blue);
+}
+.markdown a.anchor {
+color: var(--color-blue);
+}
+aside nav ul a {
+color: var(--color-blue);
+}
+#headerbox .emoji {
+color: var(--color-blue);
 }
 </style>
 
 <div id="headerbox">
   <h1 class="title">A Cashless Tokyo</h1>
-  <h1 class="emoji">🗼</h1>
+  <h1 class="emoji" id="whirlybat">9</h1>
 </div>
 
-<h5 span class="tag green"> ESSAY </h5>
+<h5 span class="tag blue"> ESSAY </h5>
 <h6 span class="sitetag">Newsdesk</h6>
 
-{{< hint info >}}
+{{< hint blue >}}
 **🌺 Note from the Editor**  
 This article was **originally published** in **December 2018**. Yes, it’s painfully self-concerned and a little difficult to read back, but for newcomers to the project you might find some “obvious truths” about Vekllei you have not yet encountered.
 {{< /hint >}}
 
-![smallimg](/images/sketches/ruraltrains.jpg/)
+![img](/images/sketches/ruraltrains.jpg/)
 
 ### Life in Tokyo
 

@@ -1,23 +1,31 @@
 ---
-title: "Landscape in the Age of Frustration"
+title: "Landscapes of Waugh"
 weight: 2
 ---
-
 <style>
 .markdown a {
-color: var(--color-green);
+color: var(--color-blue);
+}
+.markdown a.anchor {
+color: var(--color-blue);
+}
+aside nav ul a {
+color: var(--color-blue);
+}
+#headerbox .emoji {
+color: var(--color-blue);
 }
 </style>
 
 <div id="headerbox">
   <h1 class="title">Landscape in the Age of Frustration</h1>
-  <h1 class="emoji">👒</h1>
+  <h1 class="emoji" id="whirlybat">></h1>
 </div>
 
-<h5 span class="tag green"> ESSAY </h5>
+<h5 span class="tag blue"> ESSAY </h5>
 <h6 span class="sitetag">Newsdesk</h6>
 
-{{< hint info >}}
+{{< hint blue >}}
 **🌺 Note from the Editor**  
 This article was **originally published** in **October 2019**. It offers an analysis of Evelyn Waugh's *Handful of Dust* through an anti-utopian prism.
 {{< /hint >}}

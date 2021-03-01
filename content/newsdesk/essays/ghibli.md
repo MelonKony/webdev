@@ -2,22 +2,30 @@
 title: "A Universal Nostalgia"
 weight: 2
 ---
-
 <style>
 .markdown a {
-color: var(--color-green);
+color: var(--color-blue);
+}
+.markdown a.anchor {
+color: var(--color-blue);
+}
+aside nav ul a {
+color: var(--color-blue);
+}
+#headerbox .emoji {
+color: var(--color-blue);
 }
 </style>
 
 <div id="headerbox">
   <h1 class="title">A Universal Nostalgia: Spatiality Across Studio Ghibli</h1>
-  <h1 class="emoji">🎍</h1>
+  <h1 class="emoji" id="whirlybat">V</h1>
 </div>
 
-<h5 span class="tag green"> ESSAY </h5>
+<h5 span class="tag blue"> ESSAY </h5>
 <h6 span class="sitetag">Newsdesk</h6>
 
-{{< hint info >}}
+{{< hint blue >}}
 **🌺 Note from the Editor**  
 This thesis was completed in partial fulfillment of Honours in a Bachelor of Media. A significant academic contribution it is not, but it remains a good testament to my love of Ghibli. It was **originally submitted** in **October 2020** and **published** in **December 2020**.
 {{< /hint >}}
@@ -26,25 +34,25 @@ This thesis was completed in partial fulfillment of Honours in a Bachelor of Med
 
 ## Abstract
 
-<div id="intro">
+{{<hint panel>}}
 <span class="fc">T</span>
-his thesis looks to argue for the value of spatiality in several films of the Studio Ghibli franchise in Japan. Literary space, much like the cartography of the real world, helps map meaning and locate the human body in the contemporary, postmodern displacement of old constructions. In this sense, there is a functional analogy in the physical map of a town, in which a reader is able to orient themselves and locate features of note around them. So too do the spaces of film provide functional markers of value, language, behaviour, style and story against space, recalling spatiotemporality as a vessel for each of them.
+**his thesis** looks to argue for the value of spatiality in several films of the Studio Ghibli franchise in Japan. Literary space, much like the cartography of the real world, helps map meaning and locate the human body in the contemporary, postmodern displacement of old constructions. In this sense, there is a functional analogy in the physical map of a town, in which a reader is able to orient themselves and locate features of note around them. So too do the spaces of film provide functional markers of value, language, behaviour, style and story against space, recalling spatiotemporality as a vessel for each of them.
 
-If all films are spatial, then many of Ghibli’s films are often utopian spaces. This is found within and without traditional utopian study — there are exemplary glimpses of pastoral, elegant <i>eutopia</i>[^1] in <i>My Neighbour Totoro</i> (Tonari no Totoro, 1988), replicated in whimsy in other Miyazaki works like <i>Kiki’s Delivery Service</i> (Majo no Takkyūbin, 1989). There are however, more complicated utopias in the Ghibli catalogue that stray from orthodox imagination. Relevant to media inquiry, there are what this thesis recognises as <i>utopias-by-appropriation</i> in which the painterly depictions of urban Tokyo in <i>Whisper of the Heart</i> (Mimi o Sumaseba, 1995) or the beautiful illustrations of agrarian whimsy in <i>Only Yesterday</i> (Omoide Poro Poro, 1991) are decontextualised abroad and suspended in a traditional <i>utopian</i> ‘no-place’, where they are reinterpreted and rebuilt as fantasy. So it is that the real-world apartments of Tama Hills and the fields of Yamagata can become fictitious, spatial utopias.
+If all films are spatial, then many of Ghibli’s films are often utopian spaces. This is found within and without traditional utopian study — there are exemplary glimpses of pastoral, elegant *utopia* in *My Neighbour Totoro* (Tonari no Totoro, 1988), replicated in whimsy in other Miyazaki works like *Kiki’s Delivery Service* (Majo no Takkyūbin, 1989). There are however, more complicated utopias in the Ghibli catalogue that stray from orthodox imagination. Relevant to media inquiry, there are what this thesis recognises as *utopias-by-appropriation* in which the painterly depictions of urban Tokyo in *Whisper of the Heart* (Mimi o Sumaseba, 1995) or the beautiful illustrations of agrarian whimsy in *Only Yesterday* (Omoide Poro Poro, 1991) are decontextualised abroad and suspended in a traditional *utopian* ‘no-place’, where they are reinterpreted and rebuilt as fantasy. So it is that the real-world apartments of Tama Hills and the fields of Yamagata can become fictitious, spatial utopias.
 
 And so, there are two questions of interest here. First, there is the question of employing the ‘spatial turn’ of textual analysis to Ghibli films, and whether this literary framework provides value in animation. Then, there is the question of how utopia-spaces manifest in Ghibli’s catalogue of films, and how the physical heritage and landscape of cinema is misplaced and then emerges anew in fantasy form for foreign (in the scope of this study, Western) audiences, where such works remain popular, thus manufacturing utopias where, perhaps, none exist in Japan.
-</div>
+{{</hint>}}
 
 ## Introduction
 
 >*Space. The continual becoming: invisible fountain from which all rhythms must flow and to which they must pass. Beyond time or infinity.*
 
-— Frank Lloyd Wright[^2]
+— Frank Lloyd Wright[^1]
 
 <span class="fc">T</span>
 he magic of the moving image reveals just how good our brains are at producing something from not much at all. Japanese *anime*, which is characterised by choppy frame rates, large plastic faces and gemstone eyes, somehow manages to produce authentic wonder and delight in audiences world-over. At some point in the production process, from cel drawing to foley work and voice dubbing, drawings come to life. There is perhaps no Japanese animation house in this business more celebrated and discussed in Western media scholarship than Studio Ghibli, which boasts a broad filmography that rattles off hit after hit. For many Westerners, some of whom go on to write about films in media studies, Ghibli was their gateway to anime. Their films are characterised by a deep respect for the life of cinema, and the authenticity of their characters. Other studios produce beautiful animation, and Disney films in particular feature more traditionally cinematic frame rates, but the lifelike, deeply friendly characters and worlds produced by Studio Ghibli are wholly unique experiences in cinema.
 
-The main argument of this thesis is concerned with ‘place’, and how spaces are represented in animated films. There is also a utopian element at play here, which often assists this paper’s ‘spatial turn’ in textual analysis. The employ of these frameworks is not completely unthinkable, if perhaps a little unusual — utopia and spatiality are linked by their mutual concern with time and place. Literary spatiality is in part cartographical, often acting first as a crucible to navigate and understand events and then as a framework to contextualise those events against other phenomena. Rob Shields (1997) found that “spatial relations are constantly overcoded with social significance […] it comes as no surprise to most people that the where and the when of events are as significant as what those events are” (p.187). This reflects nicely the capabilities of utopian studies, which considers utopias to be social narratives bound to space and time. Lyman Sargent (1994), whose work has come to define much of utopia scholarship, wrote as much in his broad taxonomies of utopia, arguing the “general phenomenon” of utopianism is “social dreaming — the dreams and nightmares that concern the ways in which groups of people arrange their lives and which usually envision a radically different society than the one in which the dreamers live” (p. 3). In fact, this dependence on *spatiotemporality* is deeply ingrained in the tradition of utopian studies, from Karl Mannheim’s 1929 *Ideology and Utopia* to Phillip Wegner’s recent (2002, 2010) work on utopian narratives in the 21st century. Perhaps then, it is easiest to identify *spatial* study in this paper as the textual interrogation of space, and *utopian* study as a combined in-text/metatextual concern, especially as it affects the production contexts and creators of these films.
+The main argument of this thesis is concerned with ‘place’, and how spaces are represented in animated films. There is also a utopian[^2] element at play here, which often assists this paper’s ‘spatial turn’ in textual analysis. The employ of these frameworks is not completely unthinkable, if perhaps a little unusual — utopia and spatiality are linked by their mutual concern with time and place. Literary spatiality is in part cartographical, often acting first as a crucible to navigate and understand events and then as a framework to contextualise those events against other phenomena. Rob Shields (1997) found that “spatial relations are constantly overcoded with social significance […] it comes as no surprise to most people that the where and the when of events are as significant as what those events are” (p.187). This reflects nicely the capabilities of utopian studies, which considers utopias to be social narratives bound to space and time. Lyman Sargent (1994), whose work has come to define much of utopia scholarship, wrote as much in his broad taxonomies of utopia, arguing the “general phenomenon” of utopianism is “social dreaming — the dreams and nightmares that concern the ways in which groups of people arrange their lives and which usually envision a radically different society than the one in which the dreamers live” (p. 3). In fact, this dependence on *spatiotemporality* is deeply ingrained in the tradition of utopian studies, from Karl Mannheim’s 1929 *Ideology and Utopia* to Phillip Wegner’s recent (2002, 2010) work on utopian narratives in the 21st century. Perhaps then, it is easiest to identify *spatial* study in this paper as the textual interrogation of space, and *utopian* study as a combined in-text/metatextual concern, especially as it affects the production contexts and creators of these films.
 
 In this context, the abstract appearance of utopian studies and spatiality gives way to much more practical local and textual analyses, and for the purposes of this paper they suit well the dynamic, wonderful and deeply spatial films of Studio Ghibli. The majority of feature films produced by the Japanese animation house provide wholly unique and valuable insights into various arenas of life. This is not an unpopular opinion, and is reflected in the existing scholarship of Ghibli’s catalogue. Amidst a mountain of work can be found explorations of Ghibli’s long history of female protagonists and “blindness to gender” (Iles, 2005); Ghibli as a cultural bridge between Japanese anime and American animation (Hernández-Pérez, 2016); Ghibli as a case study of marketing and audience reception domestically and abroad (Denison, 2007); Ghibli as arguments for pacifism (Akimoto, 2013 & Schipperges, 2018); environmentalism (Le Blanc and Odell, 2019); feminism (Kono, 2017); flight and aerospace (Amzad-Hossain and Fu, 2014); and so on. My concern is primarily for its physical representation of these “worlds,” and particularly as they represent and depict society — entering into the space of “social dreams,” as a utopian premise.
 
@@ -84,7 +92,7 @@ In summary, we can see in this introduction the foundations of a multidisciplina
 
 ## 1. Spatiality and Abstraction
 
-### Landscape in Hayao Miyazaki’s *My Neighbour Totoro*
+### Landscape in Miyazaki’s *My Neighbour Totoro*
 
 <span class="fc">I</span>
 f there is a single film of concern in this thesis that demonstrates a utopian, spatial dialectic within the films of Studio Ghibli, it is here, in 1988’s *My Neighbour Totoro*. The film showcases the dislocation of space common in Miyazaki’s work, and indicates at face value a landscape that transcends Miyazaki’s own lifetime as a sort of cross-generation nostalgia. So there is this contradiction, as is common in Miyazaki’s great stories, between progress and the past. This idea probably does not strike the reader as particularly novel — environmentalism and balance is an obvious theme common throughout the broader Ghibli catalogue — but “progress” and “conservation” here are not situated in the context of the film’s release, nor are they broader gestures at grand ideas about the future and past. Rather, they are symptoms of the tension between ‘old ways,’ characterised by social community, locality and land dependence, and a plastic, uncertain modernity. Miyazaki describes *My Neighbour Totoro* as taking place in 1955, or thereabouts, but acknowledges that “what [the production staff] had in mind was a ‘recent past’ that everyone could relate to” (VIZ, 2005). He reinforces this point by describing his deliberate exclusion of personal nostalgia during the film in his semiautobiographical work *Starting Point* (2009, p. 355). In another interview, Miyazaki remarked:
@@ -393,7 +401,7 @@ Wood, C., 2008. ‘The European Fantasy Space and Identity Construction in Porco
 
 ### Notes
 
-[^1]: As per Lyman Sargent’s triad of utopia — eutopia exemplifying a traditional ‘utopian’ good-place (as per a literal translation). Readers will likely be familiar with dystopia, its opposite, though still operative within the Sargent’s utopian framework.
-[^2]: Quoted from (Frank Lloyd Wright Foundation 2020)
+[^1]: Quoted from (Frank Lloyd Wright Foundation 2020)
+[^2]: As per Lyman Sargent’s triad of utopia — eutopia exemplifying a traditional ‘utopian’ good-place (as per a literal translation). Readers will likely be familiar with dystopia, its opposite, though still operative within the Sargent’s utopian framework.
 [^3]: Although Whisper of the Heart was directed by Yoshifumi Kondō, it was storyboarded and written by Hayao Miyazaki (Miyazaki, 2001).
 [^4]: Coined by H.G. Wells’s The Shape of Things to Come (Wells 2006).

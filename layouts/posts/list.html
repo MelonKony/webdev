@@ -11,21 +11,24 @@
     max-width: 300px;
   }
 </style>
-    <div id="headerbox">
+    <div style="border-box: inherit; margin-bottom: 8px;"id="headerbox">
       <h1 class="title">Posts Archive</h1>
-      <h1 class="emoji">🧶</h1>
+      <h1 class="emoji" id="whirlybat">-pcvector
+</h1>
     </div>
-    <div style="display: flex; flex-wrap: wrap; flex-direction: columns;">
+  <div style="display: flex; flex-wrap: wrap; flex-direction: columns;">
   {{ range sort .Paginator.Pages }}
   <article class="markdown book-post" style= "
 
-  min-width: 45%;
+  min-width: 100%;
   object-fit:cover;
   background-color: var(--gray-100);
   background-size: auto;
   border-radius: 5px;
   padding: 0.5rem;
   margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
 
   ">
     <h2 style= "margin: 0px;">

@@ -2,7 +2,7 @@
 menu:
   after:
     name: Post Archive
-    weight: 5
-title: Archive
+    weight: 1
+title: Posts
 bookHidden: true
 ---

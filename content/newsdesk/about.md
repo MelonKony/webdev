@@ -3,17 +3,31 @@ title: About
 weight: "1"
 description: Studio MillMint is a Hobart-based illustration studio specialising in
   utopian fiction.
-
 ---
+<style>
+.markdown a {
+color: var(--color-green);
+}
+.markdown a.anchor {
+color: var(--color-green);
+}
+aside nav ul a {
+color: var(--color-green);
+}
+#headerbox .emoji {
+color: var(--color-green);
+}
+</style>
+
 <div id="headerbox">
 <h1 class="title">About the Author</h1>
-<h1 class="emoji">🛋</h1>
+<h1 class="emoji" id="whirlybat">v</h1>
 </div>
 
 <h5 span class="tag green"> CONTACT </h5>
 <h6 span class="sitetag">Newsdesk</h6>
 
-{{< hint info >}}
+{{< hint green >}}
 🌺 If you're looking to contact me, **write to me** [**here**](mailto:melonkony@icloud.com).
 {{< /hint >}}
 
@@ -30,10 +44,12 @@ description: Studio MillMint is a Hobart-based illustration studio specialising 
 * Italian cars
 * [The Series-0 Shinkansen 🚅](https://en.wikipedia.org/wiki/0_Series_Shinkansen)
 * [Snags](https://www.woolworths.com.au/shop/productdetails/820196/woolworths-beef-sausage)
+* [Sailor Moon](/images/sailorzelda.jpg)
   <--->
   **❌ Things I Don't Like**:
+* Parsley
 * The C.I.A.
-* Boho people
-* Fellas really into the Second World War
+* Bohos and beatniks
+* Fellas really into WWII
 * Emirates (the airline)
   {{</columns>}}

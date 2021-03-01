@@ -2,22 +2,30 @@
 title: "Not Long in Hong Kong"
 weight: 2
 ---
-
 <style>
 .markdown a {
-color: var(--color-green);
+color: var(--color-blue);
+}
+.markdown a.anchor {
+color: var(--color-blue);
+}
+aside nav ul a {
+color: var(--color-blue);
+}
+#headerbox .emoji {
+color: var(--color-blue);
 }
 </style>
 
 <div id="headerbox">
   <h1 class="title">Not Long in Hong Kong</h1>
-  <h1 class="emoji">🇭🇰</h1>
+  <h1 class="emoji" id="whirlybat">«</h1>
 </div>
 
-<h5 span class="tag green"> ESSAY </h5>
+<h5 span class="tag blue"> ESSAY </h5>
 <h6 span class="sitetag">Newsdesk</h6>
 
-{{< hint info >}}
+{{< hint blue >}}
 **🌺 Note from the Editor**  
 This article was **originally published** in **October 2019**. This article was written shortly after my return from Hong Kong, where I got caught up in the pro-democracy protests and is a broad response to Australian coverage of the ongoing events.
 {{< /hint >}}
@@ -47,6 +55,4 @@ Hong Kong is not the tipping point — Hong Kong is the first of an ongoing shif
 
 Awareness is not enough — we’re only a few taps and two clicks away from live minute-by-minute updates of every tear shed in the ongoing protests. There are thousands of journalists in Hong Kong covering every angle of police brutality. And yet the violence goes on…
 
-This is my announcement that I am, in fact, useless — that for all my Australian pretensions of decency and agency, the situation has changed not one bit. I thus volunteer my honourable withdrawal from the Discourse. All I’ll say is this:
-
-Hong Kong is the first of many. Consider what Hong Kong means to you, and what you can do about it.
+This is my announcement that I am, in fact, useless — that for all my Australian pretensions of decency and agency, the situation has changed not one bit. I thus volunteer my honourable withdrawal from the Discourse.

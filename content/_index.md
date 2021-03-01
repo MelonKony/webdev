@@ -8,6 +8,12 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
+@media screen and (min-width: 800px) {
+	.markdown {
+		background-color: var(--gray-100);
+		border-radius: 5px;
+		}
+	}
 	/* columns wrap fix */
 	.markdown .book-columns>div {
 		margin: 1rem 0;
@@ -44,7 +50,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 {{< columns >}} <!-- begin columns block -->
 
 <div class="logo">
-	<img id="intro" class="desktop" style="text-align: center; margin-left: auto; margin-right: auto; max-height: 700px;" src="/images/mastheads/princess.png">
+	<img id="intro" class="desktop" style="text-align: center; margin-right: auto; max-height: 700px;" src="/images/mastheads/princess.png">
 	<div style="text-align: right;">
 		<img style="right: 0; min-width: 50px; max-height: 125px;" src="/favicon.png" class="mobile" />
 	</div>
@@ -54,11 +60,11 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 <div class="homepage">
 
-<h1 style="margin-left: auto; margin-right: auto; font-family: Inter Extra Bold; margin-top: 0; margin-bottom: 0; text-align: right; font-size: 55pt; letter-spacing: -2px;"> Studio
+<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; margin-bottom: 0; text-align: right; font-size: 55pt; letter-spacing: -2px;"> Studio
 
-<h1 style="margin-left: auto; margin-right: auto; font-family: Inter Extra Bold; margin-top: 0; text-align: right; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"> MillMint </h1></h1>
+<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: right; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"> MillMint </h1></h1>
 
-<h2 style="color: #444; font-family: Inter Extra Bold; text-align: right; margin-top: -12px; font-size: 18pt;"><span style="background-color: var(--color-yellow);">
+<h2 style="color: #444; font-weight: 800; text-align: right; margin-top: -12px; font-size: 18pt;"><span style="background-color: var(--gray-200);">
 スタジオミルミント
 </span></h2>
 
@@ -69,9 +75,9 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 </h2>
 
 <div id="links" style="text-align: right; margin-top: 50px;">
-	<h4><a style="color:var(--body-font-color);" href="/millmint/intro">Intro</h4>
-	<h4><a style="color:var(--body-font-color);" href="/newsdesk/about">About</h4>
-	<h4><a style="color:var(--body-font-color);" href="/posts">Posts Archive</h4>
+	<h4><a style="color:var(--gray-200) padding:10px; border-radius:5px;" href="/utopia/intro">Intro</h4>
+	<h4><a style="color:var(--gray-200) padding:10px; border-radius:5px;" href="/newsdesk/about">About</h4>
+	<h4><a style="color:var(--gray-200) padding:10px; border-radius:5px;" href="/posts">Posts Archive</h4>
 </div>
 </div>
 

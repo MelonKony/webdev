@@ -14,7 +14,7 @@ image: /images/montrelola.jpg
 {{< button href="https://www.reddit.com/r/vekllei/comments/hhjytf/village_map_of_montrelola/" >}}Archived from the original article here{{< /button >}}
 {{< hint danger >}}
 **🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #2 of the *Atlantic* Bulletin**. You can read it [here](//newsdesk/bulletin/2020/2).
+This article appeared in **Issue #2 of the *Atlantic* Bulletin**. You can read it [here](/newsdesk/bulletin/2020/2).
 {{< /hint >}}
 
 **The village of Montre-Lola** is home to about 400 people in its entirety, a stone’s throw from the Aisyo borough. Each morning, however, the population swells as 300 children from tiny villages in both Aisyo and Montre take a fast tram to the Montre-Lola Area School No. 2, a district school raising all ages of local youth.

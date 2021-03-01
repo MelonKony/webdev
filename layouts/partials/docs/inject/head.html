@@ -23,6 +23,17 @@
    }
 </script>
 
+<style>
+  #menu-control:checked~main .book-menu-overlay {
+    display: block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+</style>
+
 <!-- toc fix -->
 <script>
   window.addEventListener('load', function() {
