@@ -8,77 +8,126 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
-@media screen and (min-width: 800px) {
-	.markdown {
-		background-color: var(--gray-100);
-		border-radius: 5px;
-		}
+	body {
+		width: 100%;
+		height: 100%;
 	}
+	@media screen and (min-width: 800px) {
 	/* columns wrap fix */
-	.markdown .book-columns>div {
-		margin: 1rem 0;
-		min-width: 250px;
-		padding: 0 1rem;
-		margin-right: 0rem;
+		.markdown .book-columns>div {
+			min-width: 450px;
+		}
 	}
 
-	/* hide mobile version by default */
-	.logo .mobile {
-	  display: none;
+	@media (max-width: 1250px) {
+	  .desktop {
+		display: none;
+	  }
 	}
-	/* when screen is less than 600px wide
-	   show mobile version and hide desktop */
-	@media screen and (max-width: 56rem) {
-	  .logo .mobile {
-	    display: none;
-	  }
-	  .logo .desktop {
-	    display: none;
-	  }
-		.markdown .book-columns>div {
-	    margin: 0;
+	/* flags */
+	.row {
+		  display: flex;
+		  margin-left: auto;
+		  margin-right: auto;
 		}
-		.book-header strong {
+		
+	.column {
+	  flex: 33.33%;
+	  padding: 5px;
+	}
+	@media (max-width: 1250px) {
+		  .row {
 			display: none;
+		  }
 		}
-		.book-header {
-			font-size: 25pt;
+	/* dots */
+	.dot-orange {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
 		}
-	}
+	.dot-pink {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
 </style>
 
 {{< columns >}} <!-- begin columns block -->
-
-<div class="logo">
-	<img id="intro" class="desktop" style="text-align: center; margin-right: auto; max-height: 700px;" src="/images/mastheads/princess.png">
-	<div style="text-align: right;">
-		<img style="right: 0; min-width: 50px; max-height: 125px;" src="/favicon.png" class="mobile" />
-	</div>
-</div>
+<img class="desktop" style="padding: 20px; text-align: center; margin-right: auto; background-color: var(--gray-100)" src="/images/mastheads/princess.png">
 
 <---> <!-- magic separator, between columns -->
-
-<div class="homepage">
-
-<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; margin-bottom: 0; text-align: right; font-size: 55pt; letter-spacing: -2px;"> Studio
-
-<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: right; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"> MillMint </h1></h1>
-
-<h2 style="color: #444; font-weight: 800; text-align: right; margin-top: -12px; font-size: 18pt;"><span style="background-color: var(--gray-200);">
-スタジオミルミント
-</span></h2>
-
-<h2 style="text-align: right; margin-top: 2rem; font-size: 18pt;">
-<a style="margin-left: 8px; margin-right: 8px;" href="https://www.reddit.com/r/vekllei"><img src="/redditlogo.png" height="35" width="35" /></a>
-<a style="margin-left: 8px; margin-right: 8px;" href="https://www.discord.gg/dCE6vSU"><img src="/discordlogo.png" style="vertical-align: text-bottom;" height="40"/></a>
-<a style="margin-left: 8px; margin-right: 8px;" href="https://www.patreon.com/vekllei"><img src="/patreonlogo.png" height="35" width="35" /></a>
-</h2>
-
-<div id="links" style="text-align: right; margin-top: 50px;">
-	<h4><a style="color:var(--gray-200) padding:10px; border-radius:5px;" href="/utopia/intro">Intro</h4>
-	<h4><a style="color:var(--gray-200) padding:10px; border-radius:5px;" href="/newsdesk/about">About</h4>
-	<h4><a style="color:var(--gray-200) padding:10px; border-radius:5px;" href="/posts">Posts Archive</h4>
+<div class="homepage" style="margin-top: 30%; margin-bottom: 30%;">
+<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; margin-bottom: 0; text-align: center; font-size: 55pt; letter-spacing: -2px;">Studio</h1>
+<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: center; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"> MillMint</h1>
+<h1 style="font-weight: 800; text-align: center; font-weight: bolder; font-size: 18pt;">スタジオミルミント</h2>
+<div style="display:table; margin:0 auto; padding: 10px;">
+<span class="dot-pink"></span>
+<span class="dot-orange"></span>
+<span class="dot-yellow"></span>
+<span class="dot-green"></span>
+<span class="dot-blue"></span>
 </div>
-</div>
-
 {{< /columns >}}
+<div class="row">
+  <div class="column">
+  <img src="/images/mastheads/flags/aismious.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/antarctic.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/azores.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/demon.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/kala.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/kalina.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/mira.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/moon.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/vekllei-domestic.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%">
+  </div>
+</div>

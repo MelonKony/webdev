@@ -1,6 +1,10 @@
 ---
 title: "Not Long in Hong Kong"
 weight: 2
+
+description: An essay on the 2020 Hong Kong Protests by Hobart Phillips, a utopian illustrator and storyteller.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
 .markdown a {

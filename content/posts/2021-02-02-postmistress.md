@@ -13,10 +13,8 @@ image: "/images/postmistress.jpg"
 
 ---
 {{<hint red>}}
-🌺 **This article** was part of Vekllei's *Mail Week* in February 2021
+🌺 **This article** was part of Vekllei's ***Mail Week*** in February 2021
 {{</hint>}}
-
->I wasn’t really planning on spending a week working my way through Vekllei’s postal service, but then again — why not? In the coming days we’ll see stamps, mail trains and all manner of transport systems. Maybe we’ll cap it with a look at the Royal Mail HQ. Then next week we’ll look at something else.
 
 **Here we have arranged the highest-ranking and lowest-ranking members** of the Royal Vekllei Mail (Mail A.r.). On the left is an Office Postgirl, a precursory position tasked with distributing letters in the sprawling bureau complexes abundant in the centralised postwar period. This particular employee is Aleja Hernández, who has decided she’d rather deliver mail than spend another year studying for high school exit exams. Mail runs in her blood — her father, a Dominican, is stationed abroad in service of the Royal Mail’s Cuba Office with her mother, a native of the country. They’ll be abroad until the Spring, and by the time they get back they expect Aleja to have found full-time work with the Mail. She wears a baggy smock to keep ink and dirt off her uniform. Here, she represents a common intern of the organisation, tasked with menial and uninteresting work for a few weeks as she’s trained to be a proper Postwoman.
 

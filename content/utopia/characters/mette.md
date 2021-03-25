@@ -2,6 +2,7 @@
 title: Mette Sumoisnesn
 weight: 1
 bookHidden: true
+bookSearchExclude: true
 ---
 <style>
 .markdown a {

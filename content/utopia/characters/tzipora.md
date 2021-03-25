@@ -2,6 +2,7 @@
 title: Tzipora Desmoisnes
 weight: 1
 bookHidden: true
+bookSearchExclude: true
 ---
 <style>
 .markdown a {

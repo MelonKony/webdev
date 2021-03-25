@@ -1,19 +1,23 @@
 ---
 title: Characters
 weight: 2
+
+description: The people of Vekllei, a utopia created by Hobart Phillips.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
 .markdown a {
-color: var(--color-purple);
+color: var(--color-pink);
 }
 .markdown a.anchor {
-color: var(--color-purple);
+color: var(--color-pink);
 }
 aside nav ul a {
-color: var(--color-purple);
+color: var(--color-pink);
 }
 #headerbox .emoji {
-color: var(--color-purple);
+color: var(--color-pink);
 }
 </style>
 
@@ -23,12 +27,12 @@ color: var(--color-purple);
 </div>
 <div style="clear: both;"></div>
 
-<h5 span class="tag purple"> FEATURE </h5>
+<h5 span class="tag pink"> UTOPIA </h5>
 <h6 span class="sitetag">Introduction</h6>
 
 ![img](/images/roadtrip.jpg)
 
-{{< hint purple >}}
+{{< hint pink >}}
 🔔 This article is about [**Hobart's characters**](/utopia/intro/#utopia-as-character), who live in [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 

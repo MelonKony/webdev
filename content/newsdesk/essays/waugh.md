@@ -1,6 +1,10 @@
 ---
 title: "Landscapes of Waugh"
 weight: 2
+
+description: An essay on landscape in Evelyn Waugh's novel "Handful of Dust" by Hobart Phillips, a utopian illustrator and storyteller.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
 .markdown a {

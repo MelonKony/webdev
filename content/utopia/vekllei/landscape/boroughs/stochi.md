@@ -1,36 +1,48 @@
 ---
-title: Lita
+title: Stochi
 weight: 1
 bookHidden: true
----
+bookSearchExclude: true
 
+description: The borough of Stochi is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+---
 <style>
-a {
-color: var(--color-indigo);
+.markdown a {
+color: var(--color-green);
 }
 .markdown a.anchor {
-color: var(--color-indigo);
+color: var(--color-green);
+}
+aside nav ul a {
+color: var(--color-green);
+}
+#headerbox .emoji {
+color: var(--color-green);
+}
+.markdown a.book-btn {
+  color: var(--color-green);
+  border: 1px solid var(--color-green);
+  float: right;
 }
 </style>
 
 <div id="headerbox">
-  <h1 class="title">The Borough of Lita</h1>
-  <h1 class="emoji" id="whirlybat">:</h1>
+  <h1 class="title">The Borough of Stochi</h1>
+  <h1 class="emoji" id="whirlybat">-millmint</h1>
 </div>
 
-<h5 span class="tag indigo"> BOROUGH </h5>
-<h6 span class="sitetag">Guide</h6>
-
-{{< button relref="/utopia/vekllei/boroughs/_index.md" >}}Back to Boroughs{{< /button >}}
+<h5 span class="tag green"> LANDSCAPE </h5>
+<h6 span class="sitetag">Borough</h6>
 
 ![smallimg](/images/rocket.jpg)
 
-*Tzipora and Ayn watch a rocket launch at the [Lita Cosmodrome](/posts/2021-01-5-rocket/)*
-
-{{< hint warning >}}
+{{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
+<br>
+{{< hint green >}}
 🔔 This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
-
 >The Royal Borough of Lita was not far from Copette ( map of Vekllei here), one of the Five Crown Boroughs of Vekllei, but this was Vekllei’s glacial interior and it felt a million miles from anywhere. Its geography was ancient and violent, strikingly barren and brutally volcanic. Why visit Europa? It was alien enough here.
 
 -- [A New Year](/posts/2021-01-5-rocket/)
@@ -46,7 +58,13 @@ Lita is relatively isolated from the coasts by its dramatic mountain rangers and
 
 Lita's flat, glacial basins make good launch sites for rockets. The borough is located in the Lava lava fields and glacial highlands, and its high elevation and spectacular mountain ranges make a dramatic backdrop for its regular rocket launches.
 
+<br>
+{{<columns>}}
 ## Towns
-- Lita
-- Poroporo
-- Dismaisiyou
+- Mirah
+- Gigayeh
+- Frendli
+<--->
+## Posts
+- [The Vekllei Crown](/posts/2020-06-24-crown/)
+{{</columns>}}

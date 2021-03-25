@@ -1,6 +1,10 @@
 ---
 title: Intro
 weight: 1
+
+description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
 <style>
@@ -19,11 +23,11 @@ color: var(--color-pink);
 </style>
 
 <div id="headerbox">
-  <h1 class="title">The Epoch of Rest</i></h1>
+  <h1 class="title">Welcome to the Epoch of Rest</i></h1>
   <h1 class="emoji" id="whirlybat">S</h1>
 </div>
 
-<h5 span class="tag pink"> GUIDE </h5>
+<h5 span class="tag pink"> UTOPIA </h5>
 <h6 span class="sitetag">Introduction</h6>
 
 ![Intro GIF](/images/intro.gif)
@@ -47,7 +51,7 @@ Vekllei is a 'worldbuilding' project, which means it doesn't always look like a 
 
 Vekllei is also a 'utopian' project, which means that it's a form of *social dreaming*. It's a fantasy built out of the stresses and problems of the present, and so even if Vekllei people might not *talk* like you or *look* like you, there's a chance some part of this world may feel like you do.
 
-This means that all sorts of themes and influences show up in my work. Vekllei has the [language](/landscape/language.md) of French-Chinese spoken with an Australian accent, a native people of mixed Inuit-Scandinavian descent, and a modern industrial society that's [going backwards](/landscape/economy.md).  
+This means that all sorts of themes and influences show up in my work. Vekllei has the [language](/utopia/vekllei/language) of French-Chinese spoken with an Australian accent, a native people of mixed Inuit-Scandinavian descent, and a modern industrial society that's going backwards.  
 
 {{< details title="Project Fact Sheet" open=true >}}
 1. This place is **iterative** -- canon disappears, people change appearance and the systems of Vekllei twist and turn as I do.
@@ -57,7 +61,7 @@ This means that all sorts of themes and influences show up in my work. Vekllei h
 
 ## 2. Three Utopias
 
-Vekllei is **place**, but it's also a **people**, created by [Hobart](/newsdesk/about.md). In this sense, there are three utopias in this project, along which posts are categorised.
+Vekllei is **place**, but it's also a **people**, created by [Hobart](/newsdesk/about). In this sense, there are three utopias in this project, along which posts are categorised.
 
 * **Author** -- essays, reflection and discussion
 * **Landscape** -- guides, diagrams and analysis

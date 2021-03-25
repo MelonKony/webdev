@@ -1,6 +1,10 @@
 ---
 title: "A Universal Nostalgia"
 weight: 2
+
+description: An essay on spatiality in the films of Studio Ghibli by Hobart Phillips, a utopian illustrator and storyteller.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
 .markdown a {
@@ -27,7 +31,7 @@ color: var(--color-blue);
 
 {{< hint blue >}}
 **🌺 Note from the Editor**  
-This thesis was completed in partial fulfillment of Honours in a Bachelor of Media. A significant academic contribution it is not, but it remains a good testament to my love of Ghibli. It was **originally submitted** in **October 2020** and **published** in **December 2020**.
+This thesis was completed in partial fulfillment of Honours in a Bachelor of Media. It remains a good testament to my love of Ghibli. It was **originally submitted** in **October 2020** and **published** in **December 2020**.
 {{< /hint >}}
 
 ![smallimg](/images/mastheads/tzizuku.png)

@@ -2,6 +2,7 @@
 title: Ayn Rumouisen
 weight: 1
 bookHidden: true
+bookSearchExclude: true
 ---
 <style>
 .markdown a {

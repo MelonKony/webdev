@@ -1,33 +1,37 @@
 ---
 title: Vekllei
 weight: 3
+
+description: Vekllei is a utopia created by Hobart Phillips.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
 .markdown a {
-color: var(--color-red);
+color: var(--color-pink);
 }
 .markdown a.anchor {
-color: var(--color-red);
+color: var(--color-pink);
 }
 aside nav ul a {
-color: var(--color-red);
+color: var(--color-pink);
 }
 #headerbox .emoji {
-color: var(--color-red);
+color: var(--color-pink);
 }
 </style>
 
 <div id="headerbox">
-  <h1 class="title">The Country of Vekllei</h1>
+  <h1 class="title">The Utopia of Vekllei</h1>
   <h1 class="emoji" id="whirlybat">-millmint</h1>
 </div>
 
-<h5 span class="tag red"> FEATURE </h5>
+<h5 span class="tag pink"> UTOPIA </h5>
 <h6 span class="sitetag">Introduction</h6>
 
 ![img](/images/missile.jpg)
 
-{{< hint red >}}
+{{< hint pink >}}
 🔔 This article is about [**Hobart's utopia**](/utopia/intro)
 {{< /hint >}}
 
@@ -40,7 +44,7 @@ color: var(--color-red);
 <span class="fc">V</span>
 **ekllei** (also ***The Vekllei Commonwealth***, ***Islandi***, ***Iceland***) is a sovereign island country situated in the northern Atlantic, between Greenland and the Faroe Islands. Besides the 100 boroughs of the conterminous Vekllei city-state (referred to as the **Home Island** or **Crown Metropole**), Vekllei includes two autonomous territories, six crown territories and various possessions including over a hundred satellite islands and islets. It is the 14th most densely-populated country in the world, with a population of 24.4 millions mostly situated around the Capital Region in the south-west of the Home Island. Its capital and largest city is Vekllei in the Capital Region, which is home to two-thirds of the total population. The interior plateau of the Home Island consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.
 
-The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist (Greenland). Evidence of European settlement in Vekllei can be established from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast. Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/vekllei/religion) and [Vekllei logographs](/utopia/vekllei/language/#3-topet). During the following millennia Vekllei develop into a major Atlantic economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
+The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist (Greenland). Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast. Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/vekllei/religion) and [Vekllei logographs](/utopia/vekllei/language/#3-topet). During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
 
 ![img](/images/map.jpg)
 
@@ -52,7 +56,7 @@ Since independence in 2015, Vekllei's Floral Period has transformed the country,
 
 **Vekllei**, officially the ***Vekllei Commonwealth***, is a society blossoming with contradictions and anachronisms, which reflect and fold into each other to produce new forms of living. The country advocates *laissez-faire* market participation and soviet-style central planning simultaneously; it is the site of a healthy new democracy utterly divorced by public apathy, and a place of midcentury science-worship and automation used to bolster backwardness and agrarian living. This idea carries on and on, cascading throughout all levels of society. This is a nation bound constitutionally to secularism and religious freedoms, described in a document only legible through indigenous spiritualism. This is a culture intent on abolishing commodity-forms through the worship of products. To foreigners, **Vekllei** is a wonderland of contradictions that in conventional imagination would collapse in on each other, yet Vekllei has flourished in postwar independence, quickly rising up amongst the most developed and livable countries in the world.
 
-Such a country deserves observation, then. This document and its subarticles are dedicated to the country of Vekllei and the *facts* of its utopian dimensions, and hope to illustrate a definitive and contemporary understanding of Vekllei's *Epoch of Rest* (what they call their 'floral period'). This is an illustration of how the beating systems in Vekllei look, the abstract data laid bare. Vekllei has an absurd multidimensionality about it, since it is a country in which all things are singularly perfect in their purity and good-heartedness while applying this qualifier to multiple ideas at the same time. In some ways, Vekllei thrives *because of* rather than *in spite of* these contradictions. This document is a good place to start.
+Such a country deserves observation, then. This document and its subarticles are dedicated to the country of Vekllei and the facts of its utopian dimensions, and hope to illustrate a definitive and contemporary understanding of Vekllei's *Epoch of Rest* (what they call their 'floral period'). This is an illustration of how the beating systems in Vekllei look, the abstract data laid bare. Vekllei has an absurd multidimensionality about it, since it is a country in which all things are singularly perfect in their purity and good-heartedness while applying this qualifier to multiple ideas at the same time. In some ways, Vekllei thrives *because of* rather than *in spite of* these contradictions. This document is a good place to start.
 
 ## 2. Etymology
 
@@ -74,7 +78,7 @@ The name *Vekllei* ostensibly applies foremost to the physical landscape of the 
 
 {{<columns>}}
 <span class="fc">V</span>
-**ekllei** sits atop the constructive boundary of the Mid-Atlantic ridge, bridging the North American and the Eurasian tectonic plates. The country is also situated between the North Atlantic and Arctic oceans, although the entirety of the Home Island is situated beneath the arctic circle. Despite this, the extreme latitude of inhabited areas means daylight is highly seasonal in the country, with dark winters and summer solstices that provide 23 consecutive hours of daylight. This dramatic seasonal environment has ongoing political, economic and cultural relevance in the country today, and contributes to the dependence on hothouses and greenhouses for agriculture throughout the year.
+**ekllei** sits atop the constructive boundary of the Mid-Atlantic ridge, bridging the North American and the Eurasian tectonic plates. The country is also found between the North Atlantic and Arctic oceans, although the entirety of the Home Island is situated beneath the arctic circle. Despite this, the extreme latitude of inhabited areas means daylight is highly seasonal in the country, with dark winters and summer solstices that provide 23 consecutive hours of daylight. This dramatic seasonal environment has ongoing political, economic and cultural relevance in the country today, and contributes to the dependence on hothouses and greenhouses for agriculture throughout the year.
 <--->
 ![img](/images/peaks.jpg)
 
@@ -108,7 +112,11 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 
 ### Administrative divisions
 
-[*See also: boroughs of Vekllei*](/utopia/vekllei/boroughs)
+![img](/images/territories.jpg)
+
+{{< hint green >}}
+🌺 See also: *[Boroughs of Vekllei](/utopia/vekllei/landscape/boroughs)*
+{{< /hint >}}
 
 Although Vekllei is unitary politically and considers itself a city-state, the Home Islands are divided geographically between 100 boroughs (as part of the *borough system*). Each borough is proportional to the land-sovereign's natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being [Bakur](/utopia/vekllei/boroughs/bakur), in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
 
@@ -117,13 +125,17 @@ Each borough elects a **Senator** and two **House Members**. Overseas **Crown La
 1. **Crown Lakes**, or *Kronaislagaisdelfia*, are governmental territories of human concern, analogous to public land or federal territory overseas.
 2. **Crown Land**, or *Kronaismioudelfia*, are nongovernmental territories of natural reservation. Although similar in some ways to nature reserves or national parks, their legal status in Vekllei is somewhat more complex; although *de facto* part of the country, the government does not recognise human sovereignty over these regions, a feature inherited from [Upen](/utopia/vekllei/religion).
 3. **Boroughs**, or *Baras*, are administrative regions in Vekllei named for their largest population centres. They form the basic subdivision of Vekllei territory and also constitute voting regions in the electoral system.
-4. **Provinces**, or *Piousvincinia*, are the territories in Vekllei's possession outside of the Home Islands. Most notably these include *Kala* (Greenland), the *Aismious Islands* (Faroe Islands), and the *Azores*. As inhabited provinces, both *Kala* and the *Azores* are considered semiautonomous territories, under purview of the *Kala People's Assembly* and the *Azores Holiday Government* respectively. The *Aismious* province and various other territories are considered *Crown Lakes*. Vekllei also retains over a hundred satellite islands and islets, most as *Crown Lands*.
+4. **Provinces**, or *Piousvincinia*, are the territories in Vekllei's possession outside of the Home Islands. Most notably these include *Kala* (Greenland), the *Aismious Islands* (Faroe Islands), the *Kalina Isles* and the *Azores*. As inhabited provinces, both *Kala* and the *Azores* are considered semiautonomous territories, under purview of the *Kala People's Assembly* and the *Azores Holiday Government* respectively. The *Aismious* province and various other territories are considered *Crown Lakes*. Vekllei also retains over a hundred satellite islands and islets, most as *Crown Lands*.
 
-In total, Vekllei's various possessions and administrative systems can be argued for as a form of federalism, though in practice more closely resembles a canton system or disparate republic.
+{{< hint green >}}
+🌺 See also: *[Territories of Vekllei](/utopia/vekllei/landscape/territories)*
+{{< /hint >}}
+
+In total, Vekllei's various possessions, provinces and administrative systems can be argued for as a form of federalism, though in practice more closely resembles a canton system or disparate republic.
 
 ### Floral Society
 
-**Floral Society** is the informal Vekllei phrase for the postwar Vekllei state, distinguishing it from the prewar junta and monarchy. The new period is characterised by democratisation and widespread personal freedoms, but has also recalled traditional cultural history into contemporary Vekllei life. Since the war, Vekllei has been marked by rapid change, and Floral Society's
+**Floral Society** is the informal Vekllei phrase for the postwar Vekllei state, distinguishing it from the prewar junta and monarchy. The new period is characterised by democratisation and widespread personal freedoms, but has also recalled traditional cultural history into contemporary Vekllei life. Since the war, Vekllei has been marked by rapid change, and Floral Society's growing cultural legacy, which continues to distance it from the prewar period.
 
 {{<columns>}}
 #### Petticoat constitution
@@ -245,7 +257,7 @@ Vekllei is spoken by around 25 million people, and a further 800,000 people arou
 
 *Upen* is the nondenominational animism of Vekllei, and is practiced nearly universally throughout the country in various forms and traditions. As much a secular cultural tradition as an organised religion, *Upen* coexists alongside abrahamic and miscellaneous faiths in the country, integrating most immigrant populations in Vekllei into its scripture on landscape and *sumoismiaya*, or the "spirit of things."
 
-While Vekllei has no state religion, *Upen*'s is thoroughly integrated with Vekllei culture and policy, and informs life and practice in this country as an agonistic feature of culture. Vekllei's Floral Constitution prohibits governmental regulation of religion or prohibition of faith. Despite this, *Upen* is taught in state schools and practiced frequently, reinforcing its relevance across younger generations in a broader resurgence of traditional folklore in the postwar era.
+While Vekllei has no state religion, *Upen* is thoroughly integrated with Vekllei culture and policy, and informs life and practice in this country as an agonistic feature of culture. Vekllei's Floral Constitution prohibits governmental regulation of religion or prohibition of faith. Despite this, *Upen* is taught in state schools and practiced frequently, reinforcing its relevance across younger generations in a broader resurgence of traditional folklore in the postwar era.
 
 Although most people in the country observe *Upen* apolitically, several other religious cultures hold sway in the country, including Catholicism (11%) Judaism (9%), Buddhism (4%), Islam (2%), Hinduism (1.3%) and Sikhism (0.7%). Despite this, Vekllei has some of the lowest rates of religious adherence in the world, estimated at a mere 6%, signifying *Upen*'s cultural influence on personal practice and informal ritual.
 
@@ -302,7 +314,7 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 
 ![img](/images/mailtrain.jpg)
 
-{{< hint red >}}
+{{< hint orange >}}
 🌺 Main article: *[Post in Vekllei](/utopia/vekllei/society/post/)*
 {{< /hint >}}
 

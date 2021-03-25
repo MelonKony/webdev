@@ -2,6 +2,7 @@
 title: Baron Desmoisnes
 weight: 2
 bookHidden: true
+bookSearchExclude: true
 ---
 <style>
 .markdown a {
