@@ -38,32 +38,32 @@ Over the next 100 days I'll be completing this list, and linking them to images 
 
 A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below.
 
-### Afouismeh Region
+## Afouismeh Region
 
 [Eyri](/utopia/vekllei/landscape/boroughs/eyri)
 
 [Mirah](/utopia/vekllei/landscape/boroughs/mirah)
 
-### Capital Region
+## Capital Region
 
 [Mumen](/utopia/vekllei/landscape/boroughs/mumen)
 
-### Ro Region
+## Ro Region
 
 [Bakur](/utopia/vekllei/landscape/boroughs/bakur)
 
 [Ou](/utopia/vekllei/landscape/boroughs/ou)
 
-### Lava Region
+## Lava Region
 
 [Lita](/utopia/vekllei/landscape/boroughs/lita)
 
-[Yana](/utopia/vekllei/landscape/boroughs/yana/)
+[Yana](/utopia/vekllei/landscape/boroughs/yana)
 
-### Lumiousniya Region
+## Lumiousniya Region
 
 N/A
 
-### Vika Region
+## Vika Region
 
 [Holsyim](/utopia/vekllei/landscape/boroughs/holsyim)

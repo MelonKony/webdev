@@ -48,7 +48,7 @@ color: var(--color-green);
 -- [Like Father, Like Daughter](/posts/2019-11-09-beach/)
 
 <span class="fc">T</span>
-**he borough of Mumen** is a borough on the South-West Coast of Vekllei, located in the Capital Region south of Pharos and west of Little Vekllei. It is named after Mumen, the city neighbourhood to which it belongs. It is home to one of Vekllei's primary immigrant processing centres, and now hosts a thriving immigrant community populated mostly by Southern Europeans. It is best known for its touristy seaside and bright white beaches, which take advantage of Southwest Vekllei's warm gulf climate.
+**he borough of Mumen** is an administrative region on the southwest coast of Vekllei, located in the Capital Region south of Pharos and west of Little Vekllei. It is named after Mumen, the city neighbourhood to which it belongs. It is home to one of Vekllei's primary immigrant processing centres, and now hosts a thriving immigrant community populated mostly by Southern Europeans. It is best known for its touristy seaside and bright white beaches, which take advantage of Southwest Vekllei's warm gulf climate.
 
 ## History
 

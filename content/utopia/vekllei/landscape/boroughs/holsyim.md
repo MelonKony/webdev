@@ -48,7 +48,7 @@ color: var(--color-green);
 -- [Bea and the Mosses](/posts/2020-12-08-bea/)
 
 <span class="fc">T</span>
-**he borough of Holsyim** is a borough in the East of Vekllei, located north-east of Seisyo and south-west of Fyell. It is named after Holsyim, its largest population centre. The town of Holsyim borders the *Holsyim lo [Kronaismioudelfia](/posts/2020-12-05-gods/)* (Holsyim Crown Land), an isolated natural and spiritual preserve home to some of Vekllei's oldest temperate rainforests. It is also a popular resort town, and receives many domestic tourists each year.
+**he borough of Holsyim** is an administrative region in the east of Vekllei, located north-east of Seisyo and south-west of Fyell. It is named after Holsyim, its largest population centre. The town of Holsyim borders the *Holsyim lo [Kronaismioudelfia](/posts/2020-12-05-gods/)* (Holsyim Crown Land), an isolated natural and spiritual preserve home to some of Vekllei's oldest temperate rainforests. It is also a popular resort town, and receives many domestic tourists each year.
 
 ## History
 

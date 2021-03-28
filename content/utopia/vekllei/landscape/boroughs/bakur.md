@@ -46,7 +46,7 @@ color: var(--color-green);
 -- *Memories of the Sea*, Tohs Viskaismesn, 1952
 
 <span class="fc">T</span>
-**he borough of Bakur** is a borough on the far North-West Coast of Vekllei, located in the Afouismeh Region north of Tanger and south of [Eyri](/utopia/vekllei/boroughs/eyri/). It is named after Bakur, an ancient fishing town with history that predates unified settlement in Vekllei. It has the smallest population of any borough in Vekllei, at only 7,500 permanent residents, which fluctuates seasonally. It is most famous for being home to the site of Vekllei's Deep-Sea Cartography Mission, an initiative of the Ocean Office of the Vekllei Government. This also means Bakur has the highest population of scientific personnel per capita of any borough in Vekllei.
+**he borough of Bakur** is an administrative region on the far northwest coast of Vekllei, located in the Afouismeh Region north of Tanger and south of [Eyri](/utopia/vekllei/boroughs/eyri/). It is named after Bakur, an ancient fishing town with history that predates unified settlement in Vekllei. It has the smallest population of any borough in Vekllei, at only 7,500 permanent residents, which fluctuates seasonally. It is most famous for being home to the site of Vekllei's Deep-Sea Cartography Mission, an initiative of the Ocean Office of the Vekllei Government. This also means Bakur has the highest population of scientific personnel per capita of any borough in Vekllei.
 
 ## History
 
