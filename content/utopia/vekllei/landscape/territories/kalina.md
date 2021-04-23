@@ -30,7 +30,7 @@ color: var(--color-green);
 ![img](/images/marinerailway.jpg)
 
 {{< hint green >}}
-🔔 This article is about an [**overseas territory**](/utopia/vekllei/#administrative-divisions) of [**Vekllei**](/utopia/vekllei) 
+߷ This article is about an [**overseas territory**](/utopia/vekllei/#administrative-divisions) of [**Vekllei**](/utopia/vekllei) 
 {{< /hint >}}
 
 ## 1. Overview
@@ -113,7 +113,7 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 ![img](/images/territories.jpg)
 
 {{< hint green >}}
-🌺 See also: *[Boroughs of Vekllei](/utopia/vekllei/landscape/boroughs)*
+❖ See also: *[Boroughs of Vekllei](/utopia/vekllei/landscape/boroughs)*
 {{< /hint >}}
 
 Although Vekllei is unitary politically and considers itself a city-state, the Home Islands are divided geographically between 100 boroughs (as part of the *borough system*). Each borough is proportional to the land-sovereign's natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being [Bakur](/utopia/vekllei/boroughs/bakur), in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
@@ -236,7 +236,7 @@ Vekllei maintains a stable fertility rate of about 1.8 children per woman, indic
 ### Language
 
 {{< hint red >}}
-🌺 Main article: *[Language in Vekllei](/utopia/vekllei/language/)*
+❖ Main article: *[Language in Vekllei](/utopia/vekllei/language/)*
 {{< /hint >}}
 
 Modern Vekllei language (referred to simply as ***Vekllei***) is the national language of the country and spoken universally within the Home Islands and Vekllei's various Atlantic possessions. It is notable for its varied sublanguages, which include a signed language called [*Upotenne*](/utopia/vekllei/language/#6-upotenne) and various extant utility scripts.
@@ -246,7 +246,7 @@ Vekllei is spoken by around 25 million people, and a further 800,000 people arou
 ### Religion
 
 {{< hint red >}}
-🌺 Main article: *[Religion in Vekllei](/utopia/vekllei/religion/)*
+❖ Main article: *[Religion in Vekllei](/utopia/vekllei/religion/)*
 {{< /hint >}}
 
 *Upen* is the nondenominational animism of Vekllei, and is practiced nearly universally throughout the country in various forms and traditions. As much a secular cultural tradition as an organised religion, *Upen* coexists alongside abrahamic and miscellaneous faiths in the country, integrating most immigrant populations in Vekllei into its scripture on landscape and *sumoismiaya*, or the "spirit of things."
@@ -309,7 +309,7 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 ![img](/images/mailtrain.jpg)
 
 {{< hint orange >}}
-🌺 Main article: *[Post in Vekllei](/utopia/vekllei/society/post/)*
+❖ Main article: *[Post in Vekllei](/utopia/vekllei/society/mail/)*
 {{< /hint >}}
 
 The **Royal Mail of Vekllei** is the postal service of the country, and counts among its oldest surviving institutions. Founded in 1422, its origins as a military communications organ manifest today in its contemporary designation as a military state requisite, rather than civilian postal carrier. Despite this, the Royal Mail remains thoroughly civilian in its oversight and practice, and delivers around 50 million mail pieces a day in peak periods, including courier work abroad.

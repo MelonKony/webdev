@@ -13,7 +13,7 @@ image: "/images/territories.jpg"
 
 ---
 {{<hint red>}}
-🌺 **This article** was part of Vekllei's ***Ocean Month*** in March 2021
+❖ **This article** was part of Vekllei's ***Ocean Month*** in March 2021
 {{</hint>}}
 
 *Welcome again to Ocean Month. If you have questions, just ask.*

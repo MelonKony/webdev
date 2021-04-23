@@ -30,9 +30,12 @@ color: var(--color-red);
 <h6 span class="sitetag">Article</h6>
 
 ![img](/images/manufacturie.jpg)
+{{< hint caption >}}
+Part of the [Royal Mail's](/utopia/vekllei/society/mail/) sprawling printing complex. | *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
+{{</hint>}}
 
 {{< hint red >}}
-🔔 This article is about [**Vekllei**](/utopia/vekllei)
+߷ This article is about [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
 ## 1. Overview
@@ -60,9 +63,12 @@ color: var(--color-red);
 ### Introduction
 
 ![img](/images/language.jpg)
+{{< hint caption >}}
+An infographic showcasing the Vekllei language, including [Potenne](/utopia/vekllei/culture/language/#5-potenne) use. | *[How to Speak Vekllei](/posts/2020-11-14-language/)*
+{{</hint>}}
 
 {{< hint red >}}
-🌺 Read more: *[How to Speak Vekllei](/posts/2020-11-14-language/)*
+❖ Read more: *[How to Speak Vekllei](/posts/2020-11-14-language/)*
 {{< /hint >}}
 
 **Let's take a look** in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/utopia/vekllei/language/#2-spoken-vekllei) and [*Topet*](/utopia/vekllei/language/#3-topet) are understood universally. Other languages, often called *sub-languages*, are informed regionally and have varying literacy across the Home Island. For example, [*Upotenne*](/utopia/vekllei/language/#6-upotenne) is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world's most complex and hermetic language systems.
@@ -198,7 +204,7 @@ Contemporary *Rapotenne* is informed by pictographic proto-*Topet* runes as well
 
 ## 5. Potenne
 {{< hint red >}}
-🌺 **Try Potenne yourself!** Hold out your thumb and forefinger on one hand, and tuck the other fingers against your palm. You've just said "good to see you again."
+❖ **Try Potenne yourself!** Hold out your thumb and forefinger on one hand, and tuck the other fingers against your palm. You've just said "good to see you again."
 {{</hint>}}
 
 {{< hint panel >}}

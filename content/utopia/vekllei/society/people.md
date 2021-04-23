@@ -2,9 +2,10 @@
 title: People
 weight: 1
 bookHidden: true
+bookSearchExclude: true
 ---
 
-{{< hint danger >}}
+{{< hint red >}}
 **Starred Article**  
 This article is complete. It was last updated in July 2020.
 {{< /hint >}}

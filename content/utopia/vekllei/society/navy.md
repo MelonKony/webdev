@@ -2,6 +2,7 @@
 title: Navy
 weight: 2
 bookHidden: true
+bookSearchExclude: true
 ---
 
 <style>
@@ -30,7 +31,7 @@ color: var(--color-red);
 ![img](/images/mailtrain.jpg)
 
 {{< hint red >}}
-🔔 This article is about [**Vekllei**](/utopia/vekllei) society
+߷ This article is about [**Vekllei**](/utopia/vekllei) society
 {{< /hint >}}
 
 ## 1. Overview
@@ -49,7 +50,7 @@ Vekllei is also home to the U.N. Universal Postal Union, the body responsible fo
 ![img](/images/fairie.jpg)
 
 {{< hint red >}}
-🌺 Read more: *[Post is for People](/posts/2021-02-22-pond/)*
+❖ Read more: *[Post is for People](/posts/2021-02-22-pond/)*
 {{< /hint >}}
 
 The Mail is old enough to have its own hieroglyph in [*Topet*](/utopia/vekllei/language/#3-topet), which has resulted in the somewhat misleading transliteration of its name. In Vekllei, it is simply called the 'Mail', since its written name includes both its royal and national meanings intrinsically. Abroad, this is usually translated as the Royal Mail of Vekllei, but this is in fact more of a description of the organisation than its proper name.
@@ -61,7 +62,7 @@ Like most Royal Bureaus, the Mail is headquartered in Vekllei's capital across a
 ### History
 
 {{< hint red >}}
-🌺 Read more: *[The Men and Women of the Royal Mail in Vekllei](/posts/2021-02-01-mail/)*
+❖ Read more: *[The Men and Women of the Royal Mail in Vekllei](/posts/2021-02-01-mail/)*
 {{< /hint >}}
 
 {{<columns>}}
@@ -76,7 +77,7 @@ The Mail was reestablished in 2015, during Vekllei independence. It was afforded
 ### Structure
 
 {{< hint red >}}
-🌺 Read more: *[The Postmistress of Vekllei](/posts/2021-02-02-postmistress/)*
+❖ Read more: *[The Postmistress of Vekllei](/posts/2021-02-02-postmistress/)*
 {{< /hint >}}
 
 The Mail is organised horizontally as an independent branch of the Royal Vekllei Armed Forces, and so, unlike other State Requisites, reports directly to the Prime Ministers of the Vekllei Government, as representatives of the Landscape Sovereign. As is common with most large-scale industry in Vekllei, the Mail is vertically integrated, and the majority of its contract work is consolidated directly into the bureau structure.
@@ -118,7 +119,7 @@ The Mail has two offices of administration: the General Office and the Office of
 ![img](/images/stamps.jpg)
 
 {{< hint red >}}
-🌺 Read more: *[Philately Foolery](/posts/2021-02-16-stamps/)*
+❖ Read more: *[Philately Foolery](/posts/2021-02-16-stamps/)*
 {{< /hint >}}
 
 {{< hint panel >}}
@@ -133,7 +134,7 @@ Since the Mail's Office of Telecommunications is also responsible for all teleph
 ### Daily Service
 
 {{< hint red >}}
-🌺 Read more: *[Racing the Post Office to the Station](/posts/2021-02-05-mailtrain/)*
+❖ Read more: *[Racing the Post Office to the Station](/posts/2021-02-05-mailtrain/)*
 {{< /hint >}}
 
 The Mail aims to provide next-day delivery during weekdays in zero-code (that is to say, *Home Island*) regions. Overnight delivery is also generally available between *Home Islands*, *Aismious* Islands, *Kala* and the *Azores* during weekdays. Most Lunar territories are available on Mondays and Fridays, and other territories are available according to the Mail's region table.
@@ -161,7 +162,7 @@ The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financi
 ![img](/images/manufacturie.jpg)
 
 {{< hint red >}}
-🌺 Read more: *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
+❖ Read more: *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
 {{< /hint >}}
 
 {{< hint panel >}}
@@ -189,7 +190,7 @@ There are 16,220 post boxes in Vekllei, which are iconic for their red and gold 
 ### Fleet
 
 {{< hint red >}}
-🌺 Read more: *[The Fairie](/posts/2021-02-03-fairie/)*
+❖ Read more: *[The Fairie](/posts/2021-02-03-fairie/)*
 {{< /hint >}}
 
 The Mail retains a large and diverse fleet of vehicles in regular operations, which, due to their diversity and and expense, have become iconic around the world. From bicycles to space planes, the Mail's fleet of vehicles rivals in diversity postal services three times its size, largely benefitted by Vekllei's obfuscated budgeting system and cultural importance afforded to the organisation.

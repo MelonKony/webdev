@@ -40,10 +40,10 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-🔔 This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
->These are not particularly adventurous expeditions — most of her work is performed along old trails and paths, but Bea finds the sublime amidst the mundane and has contributed enormously to the ecological understanding of local flora in the borough of Holsyim, where she was born.
+>*These are not particularly adventurous expeditions — most of her work is performed along old trails and paths, but Bea finds the sublime amidst the mundane and has contributed enormously to the ecological understanding of local flora in the borough of Holsyim, where she was born.*
 
 -- [Bea and the Mosses](/posts/2020-12-08-bea/)
 

@@ -1,7 +1,8 @@
 ---
 title: Characters
 weight: 2
-
+bookHidden: true
+bookSearchExclude: true
 description: The people of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
@@ -33,10 +34,10 @@ color: var(--color-pink);
 ![img](/images/roadtrip.jpg)
 
 {{< hint pink >}}
-🔔 This article is about [**Hobart's characters**](/utopia/intro/#utopia-as-character), who live in [**Vekllei**](/utopia/vekllei)
+߷ This article is about [**Hobart's characters**](/utopia/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
-## 1. Overview
+## Overview
 
 {{< hint panel >}}
 **This article** is still under construction (as of mid-January) but should be done soon. Thanks for your understanding. For now, Tzipora and Cobian are complete.
@@ -45,11 +46,11 @@ color: var(--color-pink);
 <span class="fc">A</span>
 **lthough almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. The character profiles below only gently touch upon the people that make up this world, but should serve as a stop-gap between nothingness and their full articles that will be produced over the coming months.
 
-## 2. Tzipora (Zelda) Desmoisnes
+## Characters
 
-![smallimg](/images/mastheads/tzipora.jpg)
+### Tzipora (Zelda) Desmoisnes
 
-{{< details title="Fact Sheet" open=true >}}
+{{< details title="Fact Sheet" open=false >}}
 |                      | Tzipora lo Ula de Helette Desmoisnes                           |
 |----------------------|----------------------------------------------------------------|
 | **Birthday**         | May 5th 2047, Lava, Royal Borough of Lava, Vekllei             |
@@ -80,11 +81,9 @@ She is paranoid and conservative, good-natured and austere, with a moral outlook
 
 Tzipora may be intense and inward-facing, but she can also be disarmingly charming and self-deprecating. She has a good sense of humour. There are not many girls that can so easily reconcile the contradictions between the peculiar and the healthy, the eccentric and the friendly, and the violent and the domestic. That’s part of her character — an essence of being that radiates decency, good taste and a respect for the spirit of all things.
 
-## 3. Cobian Queismesnah
+### Cobian Queismesnah
 
-![smallimg](/images/mastheads/cobian.jpg)
-
-{{< details title="Fact Sheet" open=true >}}
+{{< details title="Fact Sheet" open=false >}}
 |                      | Cobian lo Ro de Viviya de Queismesnah                                 |
 |----------------------|-----------------------------------------------------------------------|
 | **Birthday**         | June 15th 2049, Mimiya, Royal Borough of Ro, Vekllei                  |

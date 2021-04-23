@@ -14,7 +14,7 @@ image: /images/bloodname.jpg
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8r03tc/blood_names/" >}}Archived from the original article here{{< /button >}}
 {{< hint warning >}}
 
-🌺 This article predates the project, and **should be considered non-canon**.
+❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}
 
 Each person in Vekllei has three names  —  a **given name** (Tzipora), a **surname** (Desmoines), and an alternative given name as part of *rapotenne* (potenne is ‘handtalk’, upotenne is ‘spirit-talk’, and so it follows that rapotenne is the language system of names). This alternative name is a ‘key’ to the full blood name of an individual, which are given in secret by the mother traditionally, but can be gifted by any mother-figure.

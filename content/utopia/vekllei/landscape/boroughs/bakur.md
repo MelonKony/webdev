@@ -38,10 +38,10 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-🔔 This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
->By the sea, sea, sea, you'll find a boy, boy, boy, and his heart, heart, heart, lies with his boat, boat, boat.
+>*By the sea, sea, sea, you'll find a boy, boy, boy, and his heart, heart, heart, lies with his boat, boat, boat.*
 
 -- *Memories of the Sea*, Tohs Viskaismesn, 1952
 

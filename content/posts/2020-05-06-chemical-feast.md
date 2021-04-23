@@ -12,9 +12,9 @@ keywords:
 image: /images/feast.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/ge1gmw/the_chemical_feast/" >}}Archived from the original article here{{< /button >}}
-{{< hint danger >}}
-**🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #1 of the *Atlantic* Bulletin**. You can read it [here](/newsdesk/bulletin/2020/1).
+{{< hint red >}}
+
+❖ **This article** was featured in [**Issue #1**](/newsdesk/bulletin/2020/1) of the *Atlantic Bulletin*
 {{< /hint >}}
 
 **East of Montre, West of Tjornes, waits a rare sight among Vekllei’s hard igneous slopes** — a crown of gentle sedimentary cliffs packed with ruddy sandstone, which melt glacially into the sea chasing blue-sky bergs.

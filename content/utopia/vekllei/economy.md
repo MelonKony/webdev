@@ -2,6 +2,7 @@
 title: Economy
 weight: 2
 bookHidden: true
+bookSearchExclude: true
 ---
 <style>
 .markdown a {
@@ -23,7 +24,7 @@ color: var(--color-red);
 ![img](/images/momentsinlove.jpg)
 
 {{< hint warning >}}
-🔔 This article is about [**Vekllei**](/utopia/vekllei)
+߷ This article is about [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
 ## 1. Overview

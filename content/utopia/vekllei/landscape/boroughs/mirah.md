@@ -40,10 +40,10 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-🔔 This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
->Gigayeh had beautiful empty beaches, littered with icebergs that caught the light like jewels, but Tzipora couldn’t swim and the water was freezing. They could have enjoyed café food in the sun, but Cobian’s regimented home life had left her incapable of eating outside of her designated meals, and Tzipora could only drink so much coffee. Instead, most of these afternoons, they found themselves sitting on the ocean promenade, watching a handful of locals go about their business as they counted the minutes.
+>*Gigayeh had beautiful empty beaches, littered with icebergs that caught the light like jewels, but Tzipora couldn’t swim and the water was freezing. They could have enjoyed café food in the sun, but Cobian’s regimented home life had left her incapable of eating outside of her designated meals, and Tzipora could only drink so much coffee. Instead, most of these afternoons, they found themselves sitting on the ocean promenade, watching a handful of locals go about their business as they counted the minutes.*
 
 -- [Atlantic Boredom](/posts/2020-10-07-boredom/)
 

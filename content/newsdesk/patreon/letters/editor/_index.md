@@ -10,7 +10,7 @@ bookSearchExclude: true
 </div>
 
 {{< hint info >}}
-**🌺 Note from the Editor**  
+**❖ Note from the Editor**  
 I occasionally publish letters to followers and patrons of the project to keep them informed on what's going on.
 **If you would like to support this project on Patreon, [click here](https://www.patreon.com/vekllei).**
 {{< /hint >}}

@@ -29,7 +29,7 @@ color: var(--color-green);
 ![img](/images/railmap.jpg)
 
 {{< hint green >}}
-🔔 This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**boroughs**](/utopia/vekllei/#administrative-divisions)
+߷ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**boroughs**](/utopia/vekllei/#administrative-divisions)
 {{< /hint >}}
 
 {{< hint panel >}}
@@ -47,6 +47,8 @@ A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual adm
 ## Capital Region
 
 [Mumen](/utopia/vekllei/landscape/boroughs/mumen)
+
+[Voya Voya](/utopia/vekllei/landscape/boroughs/voya-voya)
 
 ## Ro Region
 

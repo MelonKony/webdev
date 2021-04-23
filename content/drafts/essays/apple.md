@@ -5,7 +5,7 @@ bookHidden: true
 bookSearchExclude: true
 ---
 {{< hint info >}}
-**🌺 Note from the Editor**  
+**❖ Note from the Editor**  
 This article was **originally published** in **November 2020**.
 {{< /hint >}}
 

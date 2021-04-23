@@ -13,7 +13,7 @@ image: "/images/manufacturie.jpg"
 
 ---
 {{<hint red>}}
-🌺 **This article** was part of Vekllei's ***Mail Week*** in February 2021
+❖ **This article** was part of Vekllei's ***Mail Week*** in February 2021
 {{</hint>}}
 
 **The Stamp Manufacturie of the Royal Mail Press**, located on 5th Avenue, churns millions of stamps a year out of its massive drum presses. Stamps are used on mail instead of postcodes, and as payment for the international and courier work the Royal Mail does abroad. Since Vekllei does not use money domestically, Vekllei people do not pay for postage and stamps are used in the automatic sorting system to determine the destination for any Vekllei territory, including its arctic, peripheral and antarctic possessions.

@@ -24,7 +24,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 		display: none;
 	  }
 	}
-	/* flags */
+	/* coins */
 	.row {
 		  display: flex;
 		  margin-left: auto;

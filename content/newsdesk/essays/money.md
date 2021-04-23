@@ -27,7 +27,7 @@ color: var(--color-blue);
 <h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint blue >}}
-**🌺 Note from the Editor**  
+**❖ Note from the Editor**  
 This essay was written for [Patrons](www.patreon.com/vekllei) in February 2021.
 {{< /hint >}}
 

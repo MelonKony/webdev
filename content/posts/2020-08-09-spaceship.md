@@ -12,9 +12,9 @@ keywords:
 image: /images/apricot.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/i6528h/the_31st_century_vekllei_throughout_our_solar/" >}}Archived from the original article here{{< /button >}}
-{{< hint danger >}}
-**🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #4 of the *Atlantic* Bulletin**. You can read it [here](/newsdesk/bulletin/2020/4).
+{{< hint red >}}
+
+❖ **This article** was featured in [**Issue #4**](/newsdesk/bulletin/2020/4) of the *Atlantic Bulletin*
 {{< /hint >}}
 
 ## The Epoch of Rest

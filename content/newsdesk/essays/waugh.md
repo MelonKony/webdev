@@ -30,7 +30,7 @@ color: var(--color-blue);
 <h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint blue >}}
-**🌺 Note from the Editor**  
+**❖ Note from the Editor**  
 This article was **originally published** in **October 2019**. It offers an analysis of Evelyn Waugh's *Handful of Dust* through an anti-utopian prism.
 {{< /hint >}}
 

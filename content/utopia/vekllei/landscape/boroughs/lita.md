@@ -3,7 +3,7 @@ title: Lita
 weight: 1
 bookHidden: true
 
-description: The borough of Lita is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
+description: The borough of Lo is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
@@ -40,10 +40,10 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-🔔 This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
->The Royal Borough of Lita was not far from Copette, one of the Five Crown Boroughs of Vekllei, but this was Vekllei’s glacial interior and it felt a million miles from anywhere. Its geography was ancient and violent, strikingly barren and brutally volcanic. Why visit Europa? It was alien enough here.
+>*The Royal Borough of Lita was not far from Copette, one of the Five Crown Boroughs of Vekllei, but this was Vekllei’s glacial interior and it felt a million miles from anywhere. Its geography was ancient and violent, strikingly barren and brutally volcanic. Why visit Europa? It was alien enough here.*
 
 -- [A New Year](/posts/2021-01-5-rocket/)
 

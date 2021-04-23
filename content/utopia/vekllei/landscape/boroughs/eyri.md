@@ -40,10 +40,10 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-🔔 This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
->In Eyri, the bones of an ancient beast warp and groan in the sun, red skin glinting in the whitecap churn of the shallows, oxidising, broken, ripped open by the sea.
+>*In Eyri, the bones of an ancient beast warp and groan in the sun, red skin glinting in the whitecap churn of the shallows, oxidising, broken, ripped open by the sea.*
 
 -- [Killing a Sea Serpent](/posts/2021-03-17-serpent/)
 

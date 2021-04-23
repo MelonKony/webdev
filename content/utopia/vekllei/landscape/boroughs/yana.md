@@ -2,7 +2,6 @@
 title: Yana
 weight: 1
 bookHidden: true
-bookSearchExclude: true
 
 description: The borough of Yana is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
@@ -41,10 +40,10 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-🔔 This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
->She never claimed to be like the boys at Yana, because she wasn’t. But she knew what it was like to enter domesticity and never feel at home in it. She was lucky; she had Baron. She wondered about those boys who married before they left. She wondered where those brides were now.
+>*She never claimed to be like the boys at Yana, because she wasn’t. But she knew what it was like to enter domesticity and never feel at home in it. She was lucky; she had Baron. She wondered about those boys who married before they left. She wondered where those brides were now.*
 
 -- [Ghosts of Taiwan in the Yana Lakehouse](/posts/2020-04-05-lakehouse/)
 

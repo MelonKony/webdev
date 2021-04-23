@@ -12,9 +12,9 @@ keywords:
 image: /images/atheism.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/j8pisi/mittens_and_metaphysic_product_atheism_and/" >}}Archived from the original article here{{< /button >}}
-{{< hint danger >}}
-**🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #6 of the *Atlantic* Bulletin**. You can read it [here](/newsdesk/bulletin/2020/6).
+{{< hint red >}}
+
+❖ **This article** was featured in [**Issue #6**](/newsdesk/bulletin/2020/6) of the *Atlantic Bulletin*
 {{< /hint >}}
 
 >Pictured above: various fashions worn by Vekllei women, showcasing heavy cold-weather dresses, simple styling, strong geometric shapes and colours, loose fits, and modest hemlines.

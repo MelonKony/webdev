@@ -12,9 +12,9 @@ keywords:
 image: /images/warmap.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
-{{< hint danger >}}
-**🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #4 of the *Atlantic* Bulletin**. You can read it [here](/newsdesk/bulletin/2020/4).
+{{< hint red >}}
+
+❖ **This article** was featured in [**Issue #4**](/newsdesk/bulletin/2020/4) of the *Atlantic Bulletin*
 {{< /hint >}}
 
 >On the morning of the second day, I watched a fly crawl across the cheek of the middle-aged woman, probably an office worker, lying next to me. It moved up her cheekbone to her temple, stopping now and then to rub its front legs as though performing a ritual.

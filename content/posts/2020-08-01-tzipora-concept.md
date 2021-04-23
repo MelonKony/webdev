@@ -14,9 +14,9 @@ keywords:
 image: /images/tziporacon.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/i1fgjd/meet_tzipora_concept_panel_for_a_vekllei_comic/" >}}Archived from the original article here{{< /button >}}
-{{< hint danger >}}
-**🌼 Featured in the *Atlantic***  
-This article appeared in **Issue #3 of the *Atlantic* Bulletin**. You can read it [here](/newsdesk/bulletin/2020/3).
+{{< hint red >}}
+
+❖ **This article** was featured in [**Issue #3**](/newsdesk/bulletin/2020/3) of the *Atlantic Bulletin*
 {{< /hint >}}
 
 ## Unique among girls

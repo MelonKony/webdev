@@ -40,10 +40,10 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-🔔 This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
-> The main beach in Mumen, the nicest of the seaside districts, is constructed out of sand imported from the dunes of Africa. Where the rest of the country has black sand, a symptom of its volcanic turbulence, Mumen has nice yellow sand.
+>*The main beach in Mumen, the nicest of the seaside districts, is constructed out of sand imported from the dunes of Africa. Where the rest of the country has black sand, a symptom of its volcanic turbulence, Mumen has nice yellow sand.*
 
 -- [Like Father, Like Daughter](/posts/2019-11-09-beach/)
 

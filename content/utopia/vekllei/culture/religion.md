@@ -31,14 +31,17 @@ color: var(--color-red);
 <h6 span class="sitetag">Article</h6>
 
 ![img](/images/death.jpg)
+{{< hint caption >}}
+Two Puffin Scouts rest in a flower-tundra, a place of great spiritual significance in Vekllei. | *[Memory and Death in the Flower Tundra](/posts/2020-09-19-death/)*
+{{</hint>}}
 
 {{< hint red >}}
-🔔 This article is about [**Vekllei**](/utopia/vekllei)
+߷ This article is about [Vekllei](/utopia/vekllei)
 {{< /hint >}}
 
 ## 1. Overview
 {{< hint panel >}}
-**Upen** is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, *Upen* is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.
+***Upen*** *is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, *Upen* is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.*
 {{< /hint >}}
 
 <span class="fc">U</span>
@@ -63,7 +66,7 @@ As atheistic and animistic, *Upen* shelters landscape from becoming ‘simply na
 
 ## 2. Etymology
 
-Upen as a word has its origins lost to time, but its linguistic characteristics can be found throughout modern Vekllei language. *U* (pronounced 'oo') is a prefix applied to matters of consciousness considered sacred or special, as replicated in the spirit-language of [*Upotenne*](/utopia/vekllei/language/#6-upotenne). *Upen* likely has origins in a proto-*Islandi* language called *Kala*, which later was absorbed into *Topyas*, the predecessor to [Vekllei](/utopia/vekllei/language).
+Upen as a word has its origins lost to time, but its linguistic characteristics can be found throughout modern Vekllei language. *U* (pronounced 'oo') is a prefix applied to matters of consciousness considered sacred or special, as replicated in the spirit-language of [*Upotenne*](/utopia/vekllei/language/#6-upotenne). *Upen* likely has origins in a proto-*Islandi* language called *Kala*, which later was absorbed into *Topyas*, the predecessor to [Vekllei](/utopia/vekllei/culture/language).
 
 In modern usage, *Upen* refers to both the faith and metaphysic of Vekllei's local animism, as well as a general indicator for Vekllei faith, myth and traditional folklore.
 

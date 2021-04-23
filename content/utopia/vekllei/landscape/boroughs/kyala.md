@@ -41,10 +41,10 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-🔔 This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
->Many townsfolk in Ou are employed in operation of the dam, either through the Thunder or Hydroburos. It is also the site of a small Vekllei National University laboratory which examines the dam environment and trains its staff.
+>*Many townsfolk in Ou are employed in operation of the dam, either through the Thunder or Hydroburos. It is also the site of a small Vekllei National University laboratory which examines the dam environment and trains its staff.*
 
 -- [The Ou Hydroburo Office](/posts/2020-04-21-hydro/)
 

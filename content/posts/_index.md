@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: Post Archive
+    name: Posts
     weight: 1
 title: Posts
 bookHidden: true
