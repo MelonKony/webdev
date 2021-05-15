@@ -41,7 +41,6 @@ color: var(--color-indigo);
 * _Thunderbirds_ (1965 series)
 * Studio Ghibli ([obviously](/newsdesk/essays/ghibli))
 * [Jam Sandwich police livery](https://en.wikipedia.org/wiki/Jam_sandwich_(police_car))
-* Tasmania
 * Shōwa period Japan
 * Italian cars
 * [The Series-0 Shinkansen 🚅](https://en.wikipedia.org/wiki/0_Series_Shinkansen)

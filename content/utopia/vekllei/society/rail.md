@@ -1,9 +1,9 @@
 ---
 title: Railways
 weight: 2
-bookSearchExclude: true
-
 description: The rail network of Vekllei, a utopia created by Hobart Phillips.
+bookHidden: true
+bookSearchExclude: true
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
@@ -30,11 +30,14 @@ color: var(--color-orange);
 <h5 span class="tag orange"> SOCIETY </h5>
 <h6 span class="sitetag">Article</h6>
 
+![img](/images/shrine-minded.jpg)
+{{< hint caption >}}
+A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
+{{</hint>}}
+
+
 {{< hint orange >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
-{{< /hint >}}
-{{< hint orange >}}
-❖ This article is **awaiting illustrations**
 {{< /hint >}}
 
 ## Overview
@@ -44,7 +47,7 @@ color: var(--color-orange);
 {{< /hint >}}
 
 <span class="fc">T</span>
-**he National Rail of Vekllei** is a catch-all term for bureau-backed, state-owned rail operators of Vekllei. In casual use, it refers to the Vekllei National Railway A.r.R. and its sister companies, like Vekllei Metro, which are structured within the service-oriented Railways Bureau. More precisely, Vekllei National Rail encompasses several different bureaus that operate, design, maintain and communicate rail service in the country, which itself is further included under the Transport Requisite of the Vekllei Government.
+**he National Rail of Vekllei (VNR)** is a catch-all term for bureau-backed, state-owned rail operators of Vekllei. In casual use, it refers to the Vekllei National Railway A.r.R. and its sister companies, like Vekllei Metro, which are structured within the service-oriented Railways Bureau. More precisely, Vekllei National Rail encompasses several different bureaus that operate, design, maintain and communicate rail service in the country, which itself is further included under the Transport Requisite of the Vekllei Government.
 
 Like most critical organisations of Vekllei, the structure and directorship of Vekllei National Rail is complex, but can be simplified by understanding that all rail transport in the country is ultimately the responsibility of an organisation called Vekllei National Rail, and it is towards this organ that this article is addressed. Today, the National Rail operates nearly 20,000km of track, indicating the density of the rail service it provides, and services nearly 20 million people each day through its network.
 
@@ -56,17 +59,17 @@ Like most critical organisations of Vekllei, the structure and directorship of V
 A map of the rail network and boroughs of Vekllei, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | *[100 Boroughs](/posts/2020-06-14-map/)*
 {{</hint>}}
 
-Since nationalisation of the private Vekllei rail companies in 1925, the structure and reach of Vekllei National Rail has changed several times. Operated as a for-profit enterprise, with the understanding it will always run at a loss, the National Rail's history of expansion is reflected in the variety of trains and track gauges it maintains.
+Since nationalisation of the private Vekllei rail companies in 1925, the structure and reach of Vekllei National Rail has changed several times. Operated as a for-profit enterprise at a historical loss, the National Rail's history of service is reflected in the variety of trains and track gauges it maintains.
 
-Vekllei is highly unusual in the density of its rail, a feature of the collision of postwar city planning and the Home Island's history as an industrial port city-state. Very few Vekllei people own automobiles, and rail planning considers 
+Vekllei is unique in the density of its rail, a feature of deliberate postwar city planning and the Home Island's history as an industrial port city-state. Very few Vekllei people own automobiles, and trains remain by far the most common method of travel in the country. Because of this, the rail network in metropolitan areas is extraordinarily dense, and is designed to offer access to nearly every residence in urban areas. This fact also explains the presence of dedicated rail lines to small towns and villages that would otherwise not justify their maintenance. As visible on the map above, the passenger rail network in Vekllei is unsurpassed in its density, which contributes to the dependence Vekllei people have on their trains.
 
-
+Similarly, almost all freight is run along rails of varying gauges. These range from conventional freight trains at standard gauge, to municipal delivery trains at metre guage, and even narrow gauges for moving freight and equipment within large factory complexes. Most major stores and grocers are arranged along freight lines with dedicated sidings, or have their own narrow-gauge tracks dedicated to their use.
 
 Unusually, Vekllei National Rail is legally absolved of all non-rail transport, and possesses no busses or ferries for public use, which are operated and maintained by dedicated adjacent bureaus.
 
 ### History
 
-Although Vekllei has used wagonways since the 17th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the Pharos Rail Company. 
+Although Vekllei has used wagonways since the 18th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the Pharos Rail Company. 
 
 The history of rail in Vekllei can be summarised in three key eras of development.
 
@@ -74,15 +77,29 @@ The history of rail in Vekllei can be summarised in three key eras of developmen
 >* **Late Junta/Prewar nationalisation**, from nationalisation in 1925.
 >* **Postwar refounding and development**, since independence in 2015.
 
+Since the foundation of VNR after nationalisation, rail in Vekllei has seen the scale of its passenger rail networks quadruple in size. It is internationally regarded for its safety and reliability.
+
 #### Early Development
+
+The first railways in Vekllei developed alongside its ports, as Vekllei's position as an intermediary free port between Europe and the Americas rapidly developed Vekllei's industrial base. Although the earliest internal rail wagons were pulled by horses, primitive steam locomotives had modernised most ports by the early 19th Century.
+
+The first passenger rail line opened in 1855 between Pharos and the present-day borough of Little Vekllei to alleviate the expense of moving goods from the Pharos Port to established settlement further inland. The original line was only a few kilometres long, but was extended in 1858 and again in 1872. By this time, several other lines had been established under private rail companies, including passenger services between Vekllei Proper and Little Vekllei, as well as the beginnings of the Montre-Vekllei Railroad.
+
+By the beginning of the 20th Century, Vekllei had a half-dozen major railroad companies, and dozens other limited/local services provided by private operators or their municipality. This saw a massive increase in both the movement of freight and ridership, and helped entrench Vekllei's position as a stopover port city for transatlantic freight and passage.
 
 #### Nationalisation
 
+The early 20th Century was marked by an exponential increase in ridership, which saw a proliferation of new railroads across the Home Islands. Metropolitan and suburban lines during this period were characterised by overcrowding, poor reliability and irregular service. These factors, in addition to the growing economic power of rail barons in the country, saw the Atlantic Junta (known as the Crown) move to nationalise all metropolitan and intercity passenger rail service in 1925 as the Vekllei National Rail Company (VNC). The centralisation of 
+
+In the late 1980s, VNC started work on the standardisation of track gauge in the country, which encompassed a variety of plans  
+
 #### Postwar Development
+
+National Rail Company assets that had been operated by the occupation Vekllei Provisional Government were transferred to the Vekllei Interim Government in 2015 and reestablished as Vekllei National Rail (VNR) in 2018. 
 
 ### Structure
 
-Vekllei National Rail is part of the Transport Requisite of the Vekllei Government (A.r.R., or *requoisesiasn amourisocietie resmesnghet*) as several individual state requisite bureaus, which in turn amalgamate different transport companies. Although its structure in Vekllei might be analogous to a government ministry abroad, it functions in practice more like a state-owned enterprise with many subsidiaries. It is not a state-run corporation, and maintains seperate accounting.
+Vekllei National Rail is an organ of the Transport Requisite of the Vekllei Government (A.r.R., or *requoisesiasn amourisocietie resmesnghet*) as several individual state requisite bureaus, which in turn are charged with different transport companies. Although its structure in Vekllei might be analogous to a government ministry abroad, it functions in practice more like a state-owned enterprise with private subsidiaries. It is not a state-run corporation, and maintains seperate accounting.
 
 Vekllei National Rail is administered through three State Requisites: the Vekllei National Rail itself including all regular operations and rail service, the National Rail Insurance Scheme which finances construction through Government White Bonds, and the Rail Safety Commission.
 
@@ -114,31 +131,26 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
       * Friends of Rail Office
     * Public Relations Office
     * Industrial Relations Office
+  * **Vekllei National Rail Municipal Land Company S.A.**
   * **Vekllei National Rail Construction House**
   * **Railway Laboratories of Vekllei**
     * Senrouive House Office
     * Company House Office
-* **National Rail Insurance Scheme**
+* **National Rail Insurance Scheme A.r.R.**
   * **Passenger Accounting**
   * **Rail Democracy Office**
 * **Rail Safety Commission**
   * **Track Safety Vekllei**
   * **Passenger Safety Vekllei**
-    * Stations Investigation Office
+    * Platform Investigation Office
     * Carriage Investigation Office
     * Incident Investigation Office
   {{< /details >}}
 
 ## Service
 
-
-
-{{< hint orange >}}
-❖ Read more: *[The Vekllei Crown](/posts/2020-06-24-crown/)*
-{{< /hint >}}
-
 {{< hint panel >}}
-**The Royal Mail** maintains a constitutionally-bound monopoly on all postage in the country, leaving it the sole provider of universal postage service in Vekllei. Like most State Requisites (A.r.), however, it has substantial international trade and foreign dealings that provide for its common description as a state-owned for-profit enterprise, or public corporation.
+***Since most Vekllei people*** *catch a train each day, VNR*
 {{< /hint >}}
 
 <span class="fc">U</span>
@@ -168,10 +180,6 @@ The Mail is best known overseas as the **World Post**, which offers services for
 
 The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financial Services Bureau**. Although inaccessible within the country, savings can be withdrawn conditionally upon emigration, and the Mail offers easy access and financial counselling for Vekllei people. Through the Financial Services Bureau, the Mail also offers financial management to immigrant populations with wealth transfer (the phrase for banking of savings and prior income) and Overseas Accounting, commonly used to send money to family abroad.
 
-### Telecommunications
-
-**Cosma** (a portmanteau of *communicasia matismion*) is Vekllei's state communications company, responsible for all residential and public telephones in the country. This includes videophones, public phone booths, and residential networks. Cosma also maintains telecommunications infrastructure networks internationally through **Cosma Overseas**, primarily the Vekllei-Europe undersea cables and their sister sets between Vekllei and North America. Much of the network dates back over a hundred years, since a shortage of modern personal telephones in Vekllei requires Cosma to maintain a wide variety of voltage and cable standards. Commercial, industrial and government telecommunications is managed by a seperate internal department called the **Industrial Telecommunications Office**.
-
 ## Operations
 
 ![img](/images/manufacturie.jpg)
@@ -191,7 +199,7 @@ As is typical for critical bureaus in Vekllei, the Mail alleviates the stress of
 
 ### Staff
 {{<columns>}}
-![img](/images/mail.jpg)
+![img](/images/vnr.jpg)
 <--->
 ![img](/images/postmistress.jpg)
 {{</columns>}}

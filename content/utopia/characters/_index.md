@@ -1,8 +1,6 @@
 ---
 title: Characters
 weight: 2
-bookHidden: true
-bookSearchExclude: true
 description: The people of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
@@ -31,47 +29,30 @@ color: var(--color-pink);
 <h5 span class="tag pink"> UTOPIA </h5>
 <h6 span class="sitetag">Introduction</h6>
 
-![img](/images/roadtrip.jpg)
-
 {{< hint pink >}}
 ߷ This article is about [**Hobart's characters**](/utopia/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
 ## Overview
 
-{{< hint panel >}}
-**This article** is still under construction (as of mid-January) but should be done soon. Thanks for your understanding. For now, Tzipora and Cobian are complete.
-{{< /hint >}}
-
 <span class="fc">A</span>
-**lthough almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. The character profiles below only gently touch upon the people that make up this world, but should serve as a stop-gap between nothingness and their full articles that will be produced over the coming months.
+**lthough almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. This is useful, because if you're following along with this project, you're in some small way an immigrant yourself. It's through the eyes of these people that you see Vekllei, and their lives contribute to the utopian dimensions of this project as utopias-of-living. 
+
+I'm still working on the little illustrations for each of the main characters, so please check back now and then for a more comprehensive list.
 
 ## Characters
 
 ### Tzipora (Zelda) Desmoisnes
 
-{{< details title="Fact Sheet" open=false >}}
-|                      | Tzipora lo Ula de Helette Desmoisnes                           |
-|----------------------|----------------------------------------------------------------|
-| **Birthday**         | May 5th 2047, Lava, Royal Borough of Lava, Vekllei             |
-| **Nationality**      | Vekllei, Colombian                                             |
-| **Spouses**          | None                                                           |
-| **Children**         | None                                                           |
-| **Parents**          | Mette Sumoisnesn, unknown father                               |
-| **Education**        | Lola 6th School, Montre National University                    |
-| **Occupation**       | Student, Librarian, Gregori Baby                               |
-| **Military Service** | Floral Assistant, 2nd Garden Corps, Royal Vekllei Armed Forces |
-| **Civilian Awards**  | National Award for Heroism in Local Service (twice)            |
-| **Sigil**            | Mustard Orchid                                                 |
-{{< /details >}}
+![smallimg](/images/mastheads/characters/zelda.png)
 
-**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/utopia/intro/#utopia-as-character) of this project. Often called Zelda by her friends, she is the protagonist of *Atomic Modern* and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2020-08-12-ageless/), a genetic disorder that affects her ageing and renders her biologically immortal. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her life and making her happy.
+**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/utopia/intro/#three-utopias) of this project. Often called Zelda by her friends, she is the protagonist of this project and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2020-08-12-ageless/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her paranoid personality and making her happy.
 
 #### Appearance
 
-Tzipora is blue-eyed and black-haired of mixed Inuit-Scandinavian and Eastern-European heritage. She has a round head and a big smile, and a skinny frame attributed in part to a childish metabolism retained through Gregori-Heitzfeld Syndrome, from which she suffers. She parts her short hair in the centre and ornaments it with fountain hairpieces, traditional hair loops and floral assemblies depending on the occasion. She is most remembered for her youthful appearance, since she does not age beyond late prepubescence as a consequence of her genetic condition. Despite this, she retains a serious, cultivated manner and alternates disconcertingly between youthful hyperactivity and careful, deliberate physicality.
+Tzipora is blue-eyed and black-haired of mixed Inuit-Scandinavian and Eastern-European heritage. She has a round head and a big smile, and is skinny and naturally athletic. She parts her short hair in the centre and ornaments it with fountain hairpieces, traditional hair loops and floral assemblies depending on the occasion. She is most remembered for her youthful appearance, since she does not age beyond late prepubescence as a consequence of her genetic condition. Despite this, she retains a serious, cultivated manner and alternates disarmingly between intense hyperactivity and careful, deliberate physicality.
 
-She dresses in conservative fashions and has maintained a consistent taste throughout her life. She has a weakness for loose clothing, particularly buttoned shirts, slacks and skirts of various styles. She is most commonly seen in a pleated white shirt, modest skirt, folded socks and penny loafers.
+She dresses in conservative fashions and has maintained a consistent taste throughout her life. She has a preference for loose-fitting clothing, particularly buttoned shirts, slacks and skirts of various styles. She is most commonly seen in a pleated white shirt, modest skirt, folded socks and penny loafers or sandals.
 
 #### Personality
 
@@ -83,26 +64,13 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 
 ### Cobian Queismesnah
 
-{{< details title="Fact Sheet" open=false >}}
-|                      | Cobian lo Ro de Viviya de Queismesnah                                 |
-|----------------------|-----------------------------------------------------------------------|
-| **Birthday**         | June 15th 2049, Mimiya, Royal Borough of Ro, Vekllei                  |
-| **Nationality**      | Vekllei                                                               |
-| **Spouses**          | Joy Cuoismasdesn                                                      |
-| **Children**         | Mimiya Queismesnah                                                    |
-| **Parents**          | Soya Queismesnah, Louis Vouismasnoh                                   |
-| **Education**        | Lola 6th School, National Academy of Medicine                         |
-| **Occupation**       | Student, Perioperative Nurse                                          |
-| **Military Service** | Horticulture Technician, 2nd Garden Corps, Royal Vekllei Armed Forces |
-| **Civilian Awards**  | A.r.F. Medal for Love to the Sick and Dying                           |
-| **Sigil**            | Golden Bliss Flower                                                   |
-{{< /details >}}
+![smallimg](/images/mastheads/characters/cobian.png)
 
 **Cobian lo Ro de Viviya de Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora's mostly male friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
 
 #### Appearance
 
-Cobian is green-eyed and black-haired, descendent mostly from Inuit-Scandinavian ethnic groups common in Vekllei. She is more Asiatic in appearance than her friend Zelda, and is tall for her age. She styles her long hair in many different ways, most commonly in a bun or braids. She is healthy but inactive, and tans easily without freckling. Cobian is naturally graceful and well-mannered, traits Tzipora is deeply envious of.
+Cobian is green-eyed and black-haired, descended mostly from Inuit-Scandinavian ethnic groups common in Vekllei. She is more Asiatic in appearance than her friend Zelda, and is tall for her age. She styles her long hair in many different ways, most commonly in a bun or braids. She is healthy but inactive, and tans easily without freckling. Cobian is naturally graceful and well-mannered, traits Tzipora is deeply envious of.
 
 She dresses in prim, well-maintained clothing courtesy of her despotically hygienic mother, and has a penchant for ironed shirts, pleatless skirts, synthetic hosiery and jewellery she considers befitting a maturing young woman.
 

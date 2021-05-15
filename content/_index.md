@@ -40,48 +40,15 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 			display: none;
 		  }
 		}
-	/* dots */
-	.dot-orange {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-orange);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-pink {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-pink);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-yellow {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-yellow);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-green {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-green);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-blue{
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-blue);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
+	
 	.book-footer{
+		display: none;
+	}
+	/* hide header */
+	strong {
+		display: none;
+	}
+	button {
 		display: none;
 	}
 </style>
@@ -102,35 +69,4 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 <span class="dot-blue"></span>
 </div>
 {{< /columns >}}
-<div class="row">
-  <div class="column">
-  <img src="/images/mastheads/flags/aismious.png" alt="flag" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/mastheads/flags/antarctic.png" alt="flag" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/mastheads/flags/azores.png" alt="flag" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/mastheads/flags/demon.png" alt="flag" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/mastheads/flags/kala.png" alt="flag" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/mastheads/flags/kalina.png" alt="flag" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/mastheads/flags/mira.png" alt="flag" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/mastheads/flags/moon.png" alt="flag" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/mastheads/flags/vekllei-domestic.png" alt="flag" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%">
-  </div>
 </div>

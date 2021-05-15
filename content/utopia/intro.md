@@ -27,6 +27,23 @@ color: var(--color-red);
   margin-right: auto;
   width: 50%;
 }
+
+/* coins */
+.row {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+@media (max-width: 1250px) {
+    .row {
+    display: none;
+    }
+  }
 </style>
 
 <div id="headerbox">
@@ -88,6 +105,30 @@ I think of Vekllei as three parts. Each part is utopian, in the sense that it's 
 {{</columns>}}
 
 ## Futher Reading
+
+<div class="row">
+<div class="column">
+<img src="/images/mastheads/flags/aismious.png" alt="flag" style="width:100%">
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/azores.png" alt="flag" style="width:100%">
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/demon.png" alt="flag" style="width:100%">
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/kala.png" alt="flag" style="width:100%">
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/kalina.png" alt="flag" style="width:100%">
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/mira.png" alt="flag" style="width:100%">
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%">
+</div>
+</div>
 
 If you're curious what sort of things go into a place like Vekllei, these are some of my favourite books. I've been asked about them before, so I've included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you're interested, [contact me](/newsdesk/about). I'll update this list periodically as more occur to me.
 
