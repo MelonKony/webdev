@@ -36,6 +36,5 @@ Tzipora pulled on her nose and sniffed, like she did whenever she was nervous, a
 
 “I don’t want you to stop for me, I want you to stop for yourself. I’m just glad you’re okay,” Cobian said, and took her hand.
 
----
 <br>
 {{< button href="https://www.reddit.com/r/vekllei/comments/mu1v5t/living_diplomacy/" >}}Archived from the original article here{{< /button >}}

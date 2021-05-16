@@ -89,9 +89,11 @@ By the beginning of the 20th Century, Vekllei had a half-dozen major railroad co
 
 #### Nationalisation
 
-The early 20th Century was marked by an exponential increase in ridership, which saw a proliferation of new railroads across the Home Islands. Metropolitan and suburban lines during this period were characterised by overcrowding, poor reliability and irregular service. These factors, in addition to the growing economic power of rail barons in the country, saw the Atlantic Junta (known as the Crown) move to nationalise all metropolitan and intercity passenger rail service in 1925 as the Vekllei National Rail Company (VNC). The centralisation of 
+The early 20th Century was marked by an exponential increase in ridership, which saw a proliferation of new railroads across the Home Islands. Metropolitan and suburban lines during this period were characterised by overcrowding, poor reliability and irregular service. These factors, in addition to the growing economic power of rail barons in the country, saw the Atlantic Junta (known as the Crown) move to nationalise all metropolitan and intercity passenger rail service in 1925 as the Vekllei National Rail Company (VNC). 
 
-In the late 1980s, VNC started work on the standardisation of track gauge in the country, which encompassed a variety of plans  
+The centralisation of Vekllei rail accompanied standardisation of its commuter track gauge, which improved travel times across the country. The VNC period was characterised by reliable investment and a commitment to modernisation of rail in the country. By the late 20th Century, the Vekllei Metropolitan Underground was widely regarded as one of the most beautiful subway systems in the world.
+
+In the late 1980s, VNC started work on what would eventually become the Vekllei-Montre bullet train. The programme overran its cost estimates and was delayed several times, and was not completed until 2004, shortly before the Atomic War.
 
 #### Postwar Development
 
