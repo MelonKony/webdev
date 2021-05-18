@@ -20,7 +20,7 @@ In her final year of secondary school, Tzipora had developed a fascination with 
 
 Cobian keenly remembered watching two days’ worth of essay fly out of Tzipora’s arms and scatter towards the beach in Cult, and thinking that it served her right, just a little bit. It seemed to Cobian that the winds were telling Tzipora to pack up and go home.
 
-—
+---
 
 **Vekllei National Rail (VNR)** has a straightforward scheme for the names of its trains. Each is given a regional name — usually a flower or moss, the most important plants in Upen — and then the year is appended. This here is a Lesvesn 59-Series, since it entered production with Arisdeh Coachworks in 2059. Its bright orange livery (VNR Orange, specifically) means it’s a regional train — local trains have unique colours voted on by their passengers. The Lesvesn 59-Series is a DC electric multiple unit train type used all over Vekllei, most commonly on quiet semi-express routes, since the trains most often appear in two-car or even single unit configurations. Its bigger cousin, the Mustard 56-Series, is often seen in the cities. It looks more or less the same, but is a little wider.
 

@@ -3,7 +3,7 @@
   
   <div id="headerbox">
     <h1 class="title">{{ .Title }}</h1>
-    <h1 class="emoji" id="whirlybat">-atom</h1>
+    <h1 class="emoji" id="whirlybat">·</h1>
   </div>
   
   <h5 span class="tag gray"> POST </h5>
@@ -21,6 +21,17 @@
     margin-left: 8vw;
     margin-right: 8vw;
     min-width: 280px;
+  }
+  .markdown img {
+    min-width: 100%;
+    height: auto;
+    object-fit:cover;
+    background-color: var(--gray-100);
+    background-size: auto;
+    border-radius: 5px;
+    padding: 2rem;
+    margin: 2rem;
+    margin-left: auto;
   }
   </style>
 </article>
