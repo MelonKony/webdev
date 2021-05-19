@@ -110,6 +110,9 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
   * **Vekllei Railways Bureau**
     * Palace of Rail
       * Vekllei National Railway A.r.R.
+        * VNR Atlantic
+        * VNR Kala
+        * VNR Overseas
       * Vekllei National Magway A.r.R.
       * Vekllei Metro A.r.R.
       * Government Railroad R.S.
@@ -155,10 +158,9 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 ***Since most Vekllei people*** *catch a train each day, VNR*
 {{< /hint >}}
 
-<span class="fc">U</span>
-**niversal service** is, by the glossary of the Mail, truly universal. As mandated by Vekllei law, the Mail provides delivery for all postage material anywhere in the world, or indeed, beyond it. It maintains 6,424 post offices across Vekllei, including its antarctic and peripheral possessions. The Mail's first Lunar Post Office opened in 2059. In addition to its domestic monopoly, the Mail contributes nearly VK❦2.6 trillion each year towards the Vekllei Government Securities Bureau (the country's sovereign wealth fund) through its international postage and courier services abroad, under the name World Post.
+Access to public transport is a critical luxury of the Vekllei state and the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei's public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.
 
-Since the Mail's Office of Telecommunications is also responsible for all telephones, telegrams and videophones in the country, the Mail's status as a lynchpin of communication is absolute, and heavily protected by the postwar Vekllei constitution.
+Rail transport contributes tremendously to the national culture and common affection for Vekllei's public institutions. 
 
 ### National Rail
 
@@ -247,6 +249,8 @@ The Mail retains a large and diverse fleet of vehicles in regular operations, wh
 * **Office of the Postmistress**
   * 1 executive mail train *(Series 4000 EMU)*
   {{< /details >}}
+  
+### Livery
 
 ## Notes
 
