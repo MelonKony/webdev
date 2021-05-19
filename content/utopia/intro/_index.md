@@ -59,7 +59,6 @@ color: var(--color-red);
 {{< hint red >}}
 ߷ This article is about [**Hobart's utopia**](/utopia/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
-
 ## What is this project?
 
 <blockquote><i>So this is Utopia,<br />
@@ -69,40 +68,44 @@ I thought it was Hell.</i></blockquote>
 
 -- Max Beerbohm[^1]
 
-<span class="fc">I</span>
-**work with utopia**. This is what I do; this is what I love doing. It's a dream that makes me feel good, that's all. My name is Hobart, and I think about my perfect place for a living, called [*Vekllei*](/utopia/vekllei/). It's part-escapism, part-fantasy, and all good.
+<span class="fc">M</span>
+**y stories are about good places and people**. That's the gist of it. [Vekllei](/utopia/vekllei/) is a fictional country where I demonstrate good things by drawing and writing about them. It's part-escapism, part-fantasy, and all good. 
 
-Vekllei is a jumble of very pure, obsessive instincts that are illustrated in such a way that, for a moment, they should feel possible, or immersive. Vekllei does not use any money -- a fantastical concept. But I can't concede and offer an alternative currency in its place, because that would ruin a very nice and pure idea. You should not have to search your pockets for a labour-voucher or ration card when you go to a cinema or café. You should walk right in. Take this idea and stretch it to the size of a country, and you have Vekllei.
+This website is a comprehensive archive and portal to everything I do. 
 
-I have built a very complicated society to justify the pure idea, and populated it with unusual people filled with the good and bad things of me and people I admire. That's worth keeping in mind, I think. That everything you read is a justification of simple, good things.
+* **Utopia** is for everything related to Vekllei, its world, and characters
+* **Newsdesk** is for everything outside of it
+* **Posts** is for the individual stories I write and draw regularly.
+
+Vekllei is a jumble of very pure, obsessive instincts that are illustrated to make them look and feel real. I want to take purity seriously by considering its implications in the real world. Vekllei does not use money -- a very straightforward and fantastical idea. Of course, moneylessness has extraordinary implications, and to maintain the purity of the idea we have to work very hard.
+
+Simplicity is actually very complicated, and so Vekllei is very complicated to justify the simplicity. It's filled with things I value and people I admire. You'll find hundreds of posts and many articles on this site, and all of them are designed to make this place and its people feel real.
 
 {{<columns>}}
-{{< details title="Project Fact Sheet" open=true >}}
-1. This place is **iterative** -- canon disappears, people change appearance and the systems of Vekllei twist and turn as I do.
-2. This place is **good-spirited** -- Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be calming and fun.
-3. This place is **constantly expanding** -- I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don't. That's part of the fun of it!
-{{< /details >}}
+Just a few things to keep in mind:
+
+* This place is **iterative** -- canon disappears, people change appearance and the systems of Vekllei twist and turn as I do.
+* This place is **good-spirited** -- Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be escapist and fun.
+* This place is **constantly expanding** -- I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don't. That's part of the fun of it!
 <--->
-![img](/images/women.jpg)
+<img style="max-width: 260px; display: block; margin-left: auto; margin-right: auto;" src="/images/women.jpg">
 {{</columns>}}
 
 ## Three Utopias
+
+{{< hint red >}}
+߷ Check out the [**FAQ**](/utopia/intro/faq)
+{{< /hint >}}
 
 > *I define the broad, general phenomenon of utopianism as social dreaming -- the dreams and nightmares that concern the ways in which groups of people arrange their lives and which usually envision a radically different society than the one in which the dreamers live. But not all are radical, for some people at any time dream of something basically familiar.*
 
 -- Lyman Sargent[^2]
 
-I think of Vekllei as three parts. Each part is utopian, in the sense that it's a dream of some kind, but they're not quite the same. If places can be utopian, why not lived experience and people? To keep things clear, I arrange my regular [posts](/posts/) into three parts.
+This project has three parts. Each part is a little utopia, in the sense that it's a dream of some kind, but they're not quite the same.
 
-{{<columns>}}
-![img](/images/pond.jpg)
-<--->
-{{< details title="Project Fact Sheet" open=true >}}
 1. **Utopia as Landscape** -- the country of Vekllei, with its geography, architecture, aesthetics, society, and culture.
 2. **Utopia as Character** -- the people of Vekllei, as they represent, interrogate, and soothe aspects of myself and others.
 3. **Utopia as Author** -- me, and my motivations, failings, and journey as a storyteller and illustrator.
-{{< /details >}}
-{{</columns>}}
 
 ## Futher Reading
 
