@@ -97,7 +97,11 @@ In the late 1980s, VNC started work on what would eventually become the Vekllei-
 
 #### Postwar Development
 
-National Rail Company assets that had been operated by the occupation Vekllei Provisional Government were transferred to the Vekllei Interim Government in 2015 and reestablished as Vekllei National Rail (VNR) in 2018. 
+National Rail Company assets that had been operated by the occupation Vekllei Provisional Government were transferred to the Vekllei Interim Government in 2015 and reestablished as Vekllei National Rail (VNR) in 2018. The Floral Period has been marked by steady growth in ridership and the scale of its network. The organisation also invests heavily into the development of new locomotives and EMUs, culminating in 2047 with the announcement of the Vekllei East Coast Maglev Scheme, which are the fastest commuter trains in the world.
+
+In 2055, VNR celebrated "250 years of rail," and its livery and staff uniforms were overhauled to mark the occasion.
+
+Today, VNR represents the sole means of medium/long-distance transport for over 80% of Vekllei commuters, indicating its continuous status as a monopoly of travel, not just rail, in the country.
 
 ### Structure
 
@@ -155,22 +159,16 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 ## Service
 
 {{< hint panel >}}
-***Since most Vekllei people*** *catch a train each day, VNR*
+***Since most Vekllei people*** *catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.*
 {{< /hint >}}
 
-Access to public transport is a critical luxury of the Vekllei state and the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei's public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.
+Access to public transport is considered a "critical luxury" of the Vekllei state (the Vekllei turn-of-phrase for essential state services) and, by extension, the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei's public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.
 
-Rail transport contributes tremendously to the national culture and common affection for Vekllei's public institutions. 
+Rail transport contributes tremendously to the national culture and common affection for Vekllei's public institutions. About 15 million people per day use VNR to access 
 
 ### National Rail
 
-{{< hint orange >}}
-❖ Read more: *[Racing the Post Office to the Station](/posts/2021-02-05-mailtrain/)*
-{{< /hint >}}
-
-The Mail aims to provide next-day delivery during weekdays in zero-code (that is to say, *Home Island*) regions. Overnight delivery is also generally available between *Home Islands*, *Aismious* Islands, *Kala* and the *Azores* during weekdays. Most Lunar territories are available on Mondays and Fridays, and other territories are available according to the Mail's region table.
-
-Although Vekllei people do not pay to post items, stamps are affixed with coloured squares called *chromacodes* which are used in the automatic sorting machines common in the country. International Mail uses traditional stamps with price listed, and the Vekllei Crown displayed. Franking is used for tracking and identification.
+National rail access is generally provided directly by Vekllei National Railway A.r.R. through a branch office dependent on the location. The Home Islands are served by VNR Atlantic, whereas Kala is served  
 
 ### Metropolitan Service & Subways
 
@@ -225,29 +223,26 @@ The Mail retains a large and diverse fleet of vehicles in regular operations, wh
  The following table lists company vehicles relevant to regular postal service.
 
 {{< details title="The National Rail Fleet" open=true >}}
-* **Postal Service Bureau**
-  * 8,000 delivery automen
-  * 5,200 motorcycles *(mostly Local Electric Model 15 & Phantoms)*
-  * 2,400 bicycles
-  * 2,000 automatic vans
-  * 400 mail trucks
-  * 31 mail boats *(MBR)*
-  * 20 mail flying boats *(Model 54 "Fairie")*
-  * 16 mail helijets *(Model RM/Gisma & Record types)*
-  * 15 mail trains *(RM Series/Series 225 EMU)*
-  * 8 mail trams *(Series T6)*
-  * 2 mail space planes *(G.A. Type 1)*
-  * 2 mail ships *(RMS* Atlantic *&* Sunburst *)*
-* **Overseas Service Bureau**
-    * World Post Company
-      * 250 mail trucks
-      * 52 cargo jets *(Model RM/Type 56C)*
-      * 6 flying boats
-    * Universal Express Company
-      * 4 cargo jets *(Model ERM/C.A. Type 6 supersonic)*
-      * 2 mail trucks
-* **Office of the Postmistress**
-  * 1 executive mail train *(Series 4000 EMU)*
+* **Vekllei National Rail**
+  * **VNR Atlantic**
+    * **Electric Multiple Units**
+      * 8,000 delivery automen
+      * 5,200 motorcycles *(mostly Local Electric Model 15 & Phantoms)*
+      * 2,400 bicycles
+      * 2,000 automatic vans
+      * 400 mail trucks
+      * 31 mail boats *(MBR)*
+      * 20 mail flying boats *(Model 54 "Fairie")*
+      * 16 mail helijets *(Model RM/Gisma & Record types)*
+      * 15 mail trains *(RM Series/Series 225 EMU)*
+      * 8 mail trams *(Series T6)*
+      * 2 mail space planes *(G.A. Type 1)*
+      * 2 mail ships *(RMS* Atlantic *&* Sunburst *)*
+    * **High Speed Rail**
+    * **Special Trains**
+    * **Diesel Cars**
+    * **Special Trains**
+  * **VNR Overseas**
   {{< /details >}}
   
 ### Livery
