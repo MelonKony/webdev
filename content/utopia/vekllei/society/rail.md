@@ -158,6 +158,8 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 
 ## Service
 
+![img](/images/hollywood.jpg)
+
 {{< hint panel >}}
 ***Since most Vekllei people*** *catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.*
 {{< /hint >}}
