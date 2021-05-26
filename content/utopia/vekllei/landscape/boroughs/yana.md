@@ -29,7 +29,7 @@ color: var(--color-green);
 
 <div id="headerbox">
   <h1 class="title">The Borough of Yana</h1>
-  <h1 class="emoji" id="whirlybat">-millmint</h1>
+  <h1 class="emoji" id="whirlybat">←</h1>
 </div>
 
 <h5 span class="tag green"> LANDSCAPE </h5>
@@ -40,7 +40,7 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
 >*She never claimed to be like the boys at Yana, because she wasn’t. But she knew what it was like to enter domesticity and never feel at home in it. She was lucky; she had Baron. She wondered about those boys who married before they left. She wondered where those brides were now.*

@@ -29,7 +29,7 @@ color: var(--color-green);
 
 <div id="headerbox">
   <h1 class="title">The Borough of Santes</h1>
-  <h1 class="emoji" id="whirlybat">-millmint</h1>
+  <h1 class="emoji" id="whirlybat">←</h1>
 </div>
 
 <h5 span class="tag green"> LANDSCAPE </h5>
@@ -40,7 +40,7 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
 >*Shattered fjords make up the north of Vekllei, particularly in boroughs like Santes, which are well-regarded for their striking cliffs and sloping igneous fingers, which evidence Vekllei’s ongoing volcanism. Offshore, hundreds of islets rise and sink over the centuries.*

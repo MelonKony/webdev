@@ -22,7 +22,7 @@ There is a so-called “flash plant” in Miyatvousi, in the Lava region of Vekl
 
 Moise had complicated ambitions of becoming a filmmaker. As with all student filmmakers, he drafted his friends to help.
 
-His girlfriend, [Coretti](https://www.reddit.com/r/vekllei/comments/locjnz/turning_things_around/), operated the compact 8mm camera. Tzipora was the production assistant, doing makeup and foley and whatever he asked of her. Cobian was going to be a star — that’s what he said her, anyway, and he paired her up with a mate of his in what would be an epic short film about lost love.
+His girlfriend, [Coretti](https://www.reddit.com/r/vekllei/comments/locjnz/turning_things_around/), operated the compact 8mm camera. Tzipora was the production assistant, doing makeup and foley and whatever he asked of her. Cobian was going to be a star — that’s what he said to her, anyway, and he paired her up with a mate of his in what would be an epic short film about lost love.
 
 It was Tzipora who suggested Miyatvousi, since she’d developed a good catalogue of scenic locations in her quest to find natural shrines. There was a place where the rail line crossed a small mineral lake, near the flash plant’s turbine halls. If worked out just right, you could have a shot that’d make the whole film. It was a hell of a journey — a bullet train in the morning to Krafla, where they got breakfast, and a two-hour local train far out from the city.
 

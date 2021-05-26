@@ -29,7 +29,7 @@ color: var(--color-green);
 
 <div id="headerbox">
   <h1 class="title">The Borough of Lita</h1>
-  <h1 class="emoji" id="whirlybat">-millmint</h1>
+  <h1 class="emoji" id="whirlybat">←</h1>
 </div>
 
 <h5 span class="tag green"> LANDSCAPE </h5>
@@ -40,7 +40,7 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
 >*The Royal Borough of Lita was not far from Copette, one of the Five Crown Boroughs of Vekllei, but this was Vekllei’s glacial interior and it felt a million miles from anywhere. Its geography was ancient and violent, strikingly barren and brutally volcanic. Why visit Europa? It was alien enough here.*
@@ -52,7 +52,7 @@ color: var(--color-green);
 
 ## History
 
-Lita is relatively isolated from the coasts by its dramatic mountain ranges and glacial terrain, and remained uninhabited until the establishment of the Vekllei Missile Programme in the mid-20th Century. Lita first served as a closed government town supporting the Vekllei Rocketry Corps (today the *Rocket Navy of the Vekllei Commonwealth Armed Forces*). Lita was occupied by the British military during occupation. Since independence, the town has opened and is served by multiple rail lines from the capital, including the Miyatvousi bullet train. The nearby town of Dismaisiyou remains restricted and is operated directly by the Cosmoburo.
+Lita is relatively isolated from the coasts by its dramatic mountain ranges and glacial terrain, and remained uninhabited until the establishment of the Vekllei Missile Programme in the mid-20th Century. Lita first served as a closed government town supporting the Vekllei Rocketry Corps (today the *Rocket Navy of the Vekllei Commonwealth Armed Forces*). Lita was occupied by the British military during occupation. Since independence, the town has opened and is served by multiple rail lines from the capital, including the [Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi/) bullet train. The nearby town of Dismaisiyou remains restricted and is operated directly by the Cosmoburo.
 
 ## Geography
 

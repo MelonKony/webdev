@@ -29,7 +29,7 @@ color: var(--color-green);
 
 <div id="headerbox">
   <h1 class="title">The Borough of Mirah</h1>
-  <h1 class="emoji" id="whirlybat">-millmint</h1>
+  <h1 class="emoji" id="whirlybat">←</h1>
 </div>
 
 <h5 span class="tag green"> LANDSCAPE </h5>
@@ -40,7 +40,7 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
 >*Gigayeh had beautiful empty beaches, littered with icebergs that caught the light like jewels, but Tzipora couldn’t swim and the water was freezing. They could have enjoyed café food in the sun, but Cobian’s regimented home life had left her incapable of eating outside of her designated meals, and Tzipora could only drink so much coffee. Instead, most of these afternoons, they found themselves sitting on the ocean promenade, watching a handful of locals go about their business as they counted the minutes.*

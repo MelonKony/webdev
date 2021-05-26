@@ -29,7 +29,7 @@ color: var(--color-green);
 
 <div id="headerbox">
   <h1 class="title">The Borough of Bakur</h1>
-  <h1 class="emoji" id="whirlybat">-millmint</h1>
+  <h1 class="emoji" id="whirlybat">←</h1>
 </div>
 
 <h5 span class="tag green"> LANDSCAPE </h5>
@@ -38,7 +38,7 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
 >*By the sea, sea, sea, you'll find a boy, boy, boy, and his heart, heart, heart, lies with his boat, boat, boat.*

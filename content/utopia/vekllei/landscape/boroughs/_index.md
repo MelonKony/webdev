@@ -20,7 +20,7 @@ color: var(--color-green);
 
 <div id="headerbox">
   <h1 class="title">The Boroughs of Vekllei</h1>
-  <h1 class="emoji" id="whirlybat">-millmint</h1>
+  <h1 class="emoji" id="whirlybat">←</h1>
 </div>
 
 <h5 span class="tag green"> LANDSCAPE </h5>
@@ -59,6 +59,8 @@ A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual adm
 ## Lava Region
 
 [Lita](/utopia/vekllei/landscape/boroughs/lita)
+
+[Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi)
 
 [Santes](/utopia/vekllei/landscape/boroughs/santes)
 

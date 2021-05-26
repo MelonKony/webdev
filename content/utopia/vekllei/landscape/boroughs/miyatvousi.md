@@ -1,10 +1,9 @@
 ---
-title: Stochi
+title: Miyatvousi
 weight: 1
 bookHidden: true
-bookSearchExclude: true
 
-description: The borough of Stochi is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
+description: The borough of Miyatvousi is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
@@ -29,23 +28,14 @@ color: var(--color-green);
 </style>
 
 <div id="headerbox">
-  <h1 class="title">The Borough of Stochi</h1>
+  <h1 class="title">The Borough of Miyatvousi</h1>
   <h1 class="emoji" id="whirlybat">←</h1>
 </div>
 
 <h5 span class="tag green"> LANDSCAPE </h5>
 <h6 span class="sitetag">Borough</h6>
 
-![smallimg](/images/rocket.jpg)
-
-{{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
-<br>
-{{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
-{{< /hint >}}
->*The Royal Borough of Lita was not far from Copette ( map of Vekllei here), one of the Five Crown Boroughs of Vekllei, but this was Vekllei’s glacial interior and it felt a million miles from anywhere. Its geography was ancient and violent, strikingly barren and brutally volcanic. Why visit Europa? It was alien enough here.*
-
--- [A New Year](/posts/2021-01-5-rocket/)
+![img](/images/hollywood.jpg)
 
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
@@ -53,16 +43,16 @@ color: var(--color-green);
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
->*Shattered fjords make up the north of Vekllei, particularly in boroughs like Santes, which are well-regarded for their striking cliffs and sloping igneous fingers, which evidence Vekllei’s ongoing volcanism. Offshore, hundreds of islets rise and sink over the centuries.*
+>*There is a so-called “flash plant” in Miyatvousi, in the Lava region of Vekllei [...] the earth here is alive; in the cold, the ponds begin to steam.*
 
--- [Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)
+-- [Gone Hollywood](/posts/2021-05-24-hollywood/)
 
 <span class="fc">T</span>
-**he borough of Santes** is an administrative region in northern Vekllei, located in the Lava Region west of Moma and east of Hoaedesnen. Its area includes several isolated and sparsely-populated towns along Vekllei's northern coast, particularly along the Grimsy and Mus Mus Fjords. The city of Santes is well-served by Vekllei's rail network, but the majority of its coastal and inland towns are somewhat difficult to reach. Because of this, Santes is considered a minor borough and makes up part of the economically-depressed *North Senrouive Belt*.
+**he borough of Miyatvousi** is an administrative region in northern Vekllei, located in the Lava Region north of Groisniyah and southwest of [Lita](/utopia/vekllei/landscape/boroughs/lita/). Its area is highly volcanic and is home to several natural features, including the Gismavik Dome and the Miyatsimi Geyser Fields. The area outside of the city of Miyatvousi is sparsely populated and mostly claimed by flower-tundras and Crown Land.
 
 ## Etymology
 
-**Santes** is the Vekllei word for "saint," and dates back to the Christianisation of Vekllei's Middle Period sometime prior to the 16th Century. Its earliest appearance was traced to the Santesoavis chapel (lit. All Saints) near the city of Santes, built sometime in the 15th Century by Danish settlers, to which the parish and eventual borough owes its name. Outside of Christian contexts, Santes in Vekllei can also refer to noble spirits, the communicative spirits of [*Upen*](/utopia/vekllei/culture/religion/).
+**Miyatvousi** is an [Old Vekllei](/utopia/vekllei/culture/language/#history) combination of the words for "mineral" and "vision," in this case associated with the Vekllei mythos around still mirror-like pools common to flower tundras in the area. Its name implies a connection between the physical landscape of the Miyatvousi area and the spirit world.
 
 ## History
 
@@ -111,10 +101,11 @@ The North Vekllei Tourism Council, a direct branch of the Vekllei Tourism Bureau
 <br>
 {{<columns>}}
 ## Towns
-- Mirah
-- Gigayeh
-- Frendli
+- Miyatvousi
+- Miyatvousi-Vizcette
+- Poka
+- Gismavikette
 <--->
 ## Posts
-- [The Vekllei Crown](/posts/2020-06-24-crown/)
+- [Gone Hollywood](/posts/2021-05-24-hollywood/)
 {{</columns>}}

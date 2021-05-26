@@ -30,7 +30,7 @@ color: var(--color-green);
 
 <div id="headerbox">
   <h1 class="title">The Borough of Lo</h1>
-  <h1 class="emoji" id="whirlybat">-millmint</h1>
+  <h1 class="emoji" id="whirlybat">←</h1>
 </div>
 
 <h5 span class="tag green"> LANDSCAPE </h5>
@@ -41,7 +41,7 @@ color: var(--color-green);
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
 >*Out in Voya Voya, the gardens light the people, and distill turbulent human temperament into momentary, sequential lyrical images. A dead leaf moving by miracle across still water; an overturned bucket collecting dew along its handle; fern leaves half-curled, young and growing.*
