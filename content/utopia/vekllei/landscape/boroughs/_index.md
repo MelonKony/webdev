@@ -60,8 +60,6 @@ A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual adm
 
 [Lita](/utopia/vekllei/landscape/boroughs/lita)
 
-[Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi)
-
 [Santes](/utopia/vekllei/landscape/boroughs/santes)
 
 [Yana](/utopia/vekllei/landscape/boroughs/yana)

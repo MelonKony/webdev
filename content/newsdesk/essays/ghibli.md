@@ -34,7 +34,9 @@ color: var(--color-blue);
 This thesis was completed in partial fulfillment of Honours in a Bachelor of Media. It remains a good testament to my love of Ghibli. It was **originally submitted** in **October 2020** and **published** in **December 2020**.
 {{< /hint >}}
 
-![smallimg](/images/mastheads/tzizuku.png)
+<div style="background-color: var(--gray-100); border-radius: 5px;">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/tzizuku.png">
+</div>
 
 ## Abstract
 

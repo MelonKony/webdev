@@ -41,7 +41,7 @@ Two Puffin Scouts rest in a flower-tundra, a place of great spiritual significan
 
 ## 1. Overview
 {{< hint panel >}}
-***Upen*** *is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, *Upen* is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.*
+**Upen** is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, *Upen* is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.
 {{< /hint >}}
 
 <span class="fc">U</span>

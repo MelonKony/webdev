@@ -29,6 +29,11 @@ color: var(--color-pink);
 <h5 span class="tag pink"> UTOPIA </h5>
 <h6 span class="sitetag">Introduction</h6>
 
+![img](/images/hollywood.jpg)
+{{< hint caption >}}
+Several core characters of this project's story, making a short film in [Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi/). From left: *Moise*, *Coretti*, *Tzipora* and *Cobian*. | *[Gone Hollywood](/posts/2021-05-24-hollywood/)*
+{{</hint>}}
+
 {{< hint pink >}}
 ߷ This article is about [**Hobart's characters**](/utopia/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
@@ -44,7 +49,9 @@ I'm still working on the little illustrations for each of the main characters, s
 
 ### Tzipora (Zelda) Desmoisnes
 
-![smallimg](/images/mastheads/characters/zelda.png)
+<div style="background-color: var(--gray-100); border-radius: 5px;">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/zelda.png">
+</div>
 
 **Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/utopia/intro/#three-utopias) of this project. Often called Zelda by her friends, she is the protagonist of this project and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2020-08-12-ageless/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her paranoid personality and making her happy.
 
@@ -64,7 +71,9 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 
 ### Cobian Queismesnah
 
-![smallimg](/images/mastheads/characters/cobian.png)
+<div style="background-color: var(--gray-100); border-radius: 5px;">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/cobian.png">
+</div>
 
 **Cobian lo Ro de Viviya de Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora's mostly male friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
 

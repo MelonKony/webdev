@@ -2,6 +2,7 @@
 title: Miyatvousi
 weight: 1
 bookHidden: true
+bookSearchExclude: true
 
 description: The borough of Miyatvousi is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
@@ -52,7 +53,7 @@ color: var(--color-green);
 
 ## Etymology
 
-**Miyatvousi** is an [Old Vekllei](/utopia/vekllei/culture/language/#history) combination of the words for "mineral" and "vision," in this case associated with the Vekllei mythos around still mirror-like pools common to flower tundras in the area. Its name implies a connection between the physical landscape of the Miyatvousi area and the spirit world.
+**Miyatvousi** is an [Old Vekllei](/utopia/vekllei/culture/language/#history) combination of the words for "mineral" and "vision," which in this case refer to indigenous mythos around still mirror-like pools common to flower tundras in the area. Its name implies a connection between the physical landscape of the Miyatvousi area and the spirit world.
 
 ## History
 

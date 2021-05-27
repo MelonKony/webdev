@@ -57,13 +57,18 @@ An ICBM of the Vekllei Missile Rocketry Corps launches outside of Montre-Lola, a
 ## Overview
 
 {{< hint panel >}}
-***Vekllei*** *is the utopian place of Hobart's ongoing Petticoat Project. Set ostensibly in Iceland, the history and geography of this country is radically different from our own, and welcomes an open exploration of new systems of living through a flexible alternate history.*
+**Vekllei** is the utopian place of Hobart's ongoing Petticoat Project. Set ostensibly in Iceland, the history and geography of this country is radically different from our own, and welcomes an open exploration of new systems of living through a flexible alternate history.
 {{< /hint >}}
 
 <span class="fc">V</span>
-**ekllei** (also ***The Vekllei Commonwealth***, ***Islandi***, ***Iceland***) is a sovereign island country situated in the northern Atlantic, between Greenland and the Faroe Islands. Besides the 100 boroughs of the conterminous Vekllei city-state (referred to as the *Home Island* or *Crown Metropole*), Vekllei includes two autonomous territories, six crown territories and various possessions including over a hundred satellite islands and islets. It is the 14th most densely-populated country in the world, with a population of 24.4 millions mostly situated around the Capital Region in the south-west of the Home Island. Its capital and largest city is Vekllei in the Capital Region, which is home to two-thirds of the total population. The interior plateau of the Home Island consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.
+**ekllei** (also *The Vekllei Commonwealth*, *Islandi*, *Iceland*) is a sovereign island country situated in the northern Atlantic, between Greenland and the Faroe Islands. Besides the 100 boroughs of the conterminous Vekllei city-state (referred to as the *Home Island* or *Crown Metropole*), Vekllei includes two autonomous territories, six crown territories and various possessions including over a hundred satellite islands and islets. It is the 14th most densely-populated country in the world, with a population of 24.4 millions mostly situated around the Capital Region in the south-west of the Home Island. Its capital and largest city is Vekllei in the Capital Region, which is home to two-thirds of the total population. The interior plateau of the Home Island consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.
 
 The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist (Greenland). Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast. Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/vekllei/religion) and [Vekllei logographs](/utopia/vekllei/language/#3-topet). During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
+
+![img](/images/shrine-minded.jpg)
+{{< hint caption >}}
+Life in coastal boroughs [Santes](/utopia/vekllei/landscape/boroughs/santes) continues much as it has for hundreds of years | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
+{{</hint>}}
 
 During Vekllei's Middle Period, the country was struck by civil unrest that escalated into civil war, which installed the Aismo Desimou as the first King of Vekllei. The monarchy succeeded until Vekllei's colonial Late Period, which fell to a navy coup d'etat that installed a military junta in government, which rapidly expanded Vekllei's colonial holdings. This practice would continue well into the 20th Century, and would spark the Africa Wars and Vekllei's atomic bombing by the United Kingdom in 2005, which collapsed the existing regime and ushered in British occupation of the country.
 
@@ -92,17 +97,15 @@ The name *Vekllei* ostensibly applies foremost to the physical landscape of the 
 
 
 ## Geography
+
+![smallimg](/images/peaks.jpg)
+
 {{< hint panel >}}
-***Vekllei*** *is an ancient country of striking geological monument. A landscape of igneous rock and lava flows, Vekllei's dramatic geology is tempered by its healthy abundance of rainforests and flower-tundras, which paint the country in soft mossy hues of green and yellow.*
+**Vekllei** is an ancient country of striking geological monument. A landscape of igneous rock and lava flows, Vekllei's dramatic geology is tempered by its healthy abundance of rainforests and flower-tundras, which paint the country in soft mossy hues of green and yellow.
 {{< /hint >}}
 
-{{<columns>}}
-
 Vekllei sits atop the constructive boundary of the Mid-Atlantic ridge, bridging the North American and the Eurasian tectonic plates. The country is also found between the North Atlantic and Arctic oceans, although the entirety of the Home Island is situated beneath the arctic circle. Despite this, the extreme latitude of inhabited areas means daylight is highly seasonal in the country, with dark winters and summer solstices that provide 23 consecutive hours of daylight. This dramatic seasonal environment has ongoing political, economic and cultural relevance in the country today, and contributes to the dependence on hothouses and greenhouses for agriculture throughout the year.
-<--->
-![img](/images/peaks.jpg)
 
-{{</columns>}}
 The unstable Atlantic pressure oscillation, of which Vekllei anchors as the Vekllei Low Pole, can pull in bitter cold from the Greenland currents, or warmth from the Azores tempestuously. This gifts the Home Islands a temperate, though subarctic climate, with average temperatures in summer of about 18-25 degrees centigrade that decline into an annual mean low of approximately 10 degrees in the Capital Region. The good weather and seasonal daylight inform Vekllei's animistic spiritualism, with festivals to mark both solstices.
 
 Vekllei sits between North American and Continental European territories, but is usually regarded as independent of both because of its central position in the North Atlantic and its peripheral possessions, which include *Kala* (Greenland) and the *Aismious Islands* (Faroe Islands). Because of its volcanic origins and position above the *Earth's Great Kiss* (the Mantle Plume), Vekllei remains highly volcanic and several volcanoes remain active in the country. The world's newest island, *Liyra*, was formed in 2056 off Vekllei's South Coast.
@@ -117,7 +120,7 @@ A map showing Vekllei's dense rail network linking the 100 [boroughs](/utopia/ve
 {{</hint>}}
 
 {{< hint panel >}}
-***Politics*** *in Vekllei are characterised by postwar constitutional values of nonpartisan democracy and transparency of power. Political concern is aestheticised and developed along cultural and interpersonal lines; as a feature of life, but fundamentally participatory. In truth, at least with regards to domestic concern, Vekllei's daily affairs are basically autonomous, and politics remains the concern of an educated, invested class of people.*
+**Politics** in Vekllei are characterised by postwar constitutional values of nonpartisan democracy and transparency of power. Political concern is aestheticised and developed along cultural and interpersonal lines; as a feature of life, but fundamentally participatory. In truth, at least with regards to domestic concern, Vekllei's daily affairs are basically autonomous, and politics remains the concern of an educated, invested class of people.
 {{< /hint >}}
 
 Vekllei is a unitary city-state and nonpartisan parliamentary democracy, divided into crown lakes, boroughs and provincial administrative divisions. It retains the territory of Vekllei as a sovereign of the country, in keeping with *Upen*, but otherwise the prime ministers have equal executive power, with disputes mediated by the Crown Senate. Vekllei retains a parliamentary system as a legacy of British occupation, but has since developed several indigenous features including its land-sovereign and twin ministership. The Vekllei system also incorporates American political features, including a constitution and bicameral house system.
@@ -158,25 +161,25 @@ In total, Vekllei's various possessions, provinces and administrative systems ca
 
 <div class="row">
 <div class="column">
-<img src="/images/mastheads/flags/aismious.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/aismious.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/azores.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/azores.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/demon.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/demon.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/kala.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/kala.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/kalina.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/kalina.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/mira.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/mira.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 </div>
 
@@ -222,17 +225,10 @@ The borough of Lava, part of Vekllei's dense, residential satellite belt | *[Mom
 {{</hint>}}
 
 {{< hint panel >}}
-***Vekllei*** *is land of plenty and small pleasures, afforded by a post-scarcity system that positions competing systems against each other. It is made up of a startling series of contradictions -- one after the other, each more unusual than the last. Vekllei is a planned economy; it is also a free market. Property ownership is obfuscated by portioned sovereignty of land and product. Decommodification has devalued products in a country based on manufacturing. There are many contradictions, inefficiencies and unusual mechanisms in the Vekllei domestic market, which total to benefit the living conditions of the average person.*
+**Vekllei** is land of plenty and small pleasures, afforded by a post-scarcity system that positions competing systems against each other. It is made up of a startling series of contradictions -- one after the other, each more unusual than the last. Vekllei is a planned economy; it is also a free market. Property ownership is obfuscated by portioned sovereignty of land and product. Decommodification has devalued products in a country based on manufacturing. There are many contradictions, inefficiencies and unusual mechanisms in the Vekllei domestic market, which total to benefit the living conditions of the average person.
 {{< /hint >}}
 
-{{<columns>}}
-
 **Although a major power**, Vekllei has an unusual hybrid market system called the *Vekllei Bureau System* (known colloquially as *Petticoat Socialism*), which incorporates state-owned socialist planned economics and deregulated syndicalist vertical *bureaus* to benefit a free, unregulated informal market system. Most unique about the Vekllei economy is its functional moneylessness, in which domestic society has abolished currency. No widespread currency substitutes are used in ordinary life. Each citizen owns a share of the *Labour Bank of Vekllei*, a portion of the *Government Securities Bureau* designed to allow emigration from the country, and so is theoretically entitled to an equal portion of the Bank.
-<--->
-
-![img](/images/matchstick.jpg)
-
-{{</columns>}}
 
 Trade and materials are provided by biosynthetic robotics infrastructure and participatory work, and is supplemented in places by mandatory military service. Vekllei people enjoy a high standard of living and access to most consumer goods.
 
@@ -244,25 +240,25 @@ Although moneyless domestically, the nation maintains two currencies, known as t
 
 <div class="row">
   <div class="column">
-  <img src="/images/mastheads/coins/1.png" alt="coin" style="width:100%">
+  <img src="/images/mastheads/coins/1.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/10.png" alt="coin" style="width:100%">
+  <img src="/images/mastheads/coins/10.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/50.png" alt="coin" style="width:100%">
+  <img src="/images/mastheads/coins/50.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/100.png" alt="coin" style="width:100%">
+  <img src="/images/mastheads/coins/100.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/200.png" alt="coin" style="width:100%">
+  <img src="/images/mastheads/coins/200.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/500.png" alt="coin" style="width:100%">
+  <img src="/images/mastheads/coins/500.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/1000.png" alt="coin" style="width:100%">
+  <img src="/images/mastheads/coins/1000.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
 </div>
 
@@ -272,6 +268,8 @@ Although moneyless domestically, the nation maintains two currencies, known as t
 Both currencies are used for trade internationally, and float on the labour-power of the domestic economy. The Vekllei Crown is minted as a novelty, but otherwise no money is printed in the country, since Government Crowns are essentially labour-backed state bonds. Moneylessness benefits citizens in many ways, as Vekllei people do not typically maintain debts, have access to unlimited small commodities, and enjoy some of the shortest workdays and working weeks in the world, with all citizens afforded two months holiday each year.
 
 ### Employment
+
+![smallimg](/images/matchstick.jpg)
 
 Vekllei has a high unemployment rate for a developed country, reported at 12.5%. About 80% of Vekllei workers belong to a trade union, usually *Pettiburos* or *Bureaus*. Nearly 2 million Vekllei people are enrolled in higher education full-time, significantly reducing the nation's labour pool. These are accounted for politically as natural fluctuations of the deregulated Bureau System, and unemployment in the country has seen a stable reduction since the initial decades of independence. Although many citizens in Vekllei are immigrants, the country has few foreign workers, and those employed in the country tend to be high-skill and high-wage workers.
 
@@ -301,7 +299,7 @@ Vekllei sponsors tourism abroad via the Social Government Bank, which allows Vek
 ## Demographics
 
 {{< hint panel >}}
-***The story of Vekllei*** *is a story of rebirth, and no better is this revealed than in the country's cultural *Aliyah* after the Atomic War. Vekllei is an ancient place rediscovering itself and its people, and in the rapid development of the postwar Floral Period there are novel shifts in how Vekllei people talk, behave, and look.*
+**The story of Vekllei** is a story of rebirth, and no better is this revealed than in the country's cultural *Aliyah* after the Atomic War. Vekllei is an ancient place rediscovering itself and its people, and in the rapid development of the postwar Floral Period there are novel shifts in how Vekllei people talk, behave, and look.
 {{< /hint >}}
 
 **Vekllei has one of the highest population densities in the world**, skewed largely by the populous Capital Region. Vekllei considers itself a city-state, and to this end fosters "commonhoods", represented by *common practice*, *common work* and *common landscape*. Although Vekllei has been settled for thousands of years, postwar advocation of *commonhoods* emphasises *landscape* in place of the historic *blood* in wake of Vekllei's growing migrant population and multiculturalism. Nearly 30% of Vekllei people were born overseas, though this number is trending down as immigration quotas (set by emigration) restrict inflow in recent decades.
@@ -334,17 +332,11 @@ Although most people in the country observe *Upen* apolitically, several other r
 
 ### Education
 
-{{<columns>}}
+![smallimg](/images/uniform.jpg)
 
 Education in Vekllei is structured as a *State Requisite Bureau* (rather than department) under the *requoisesiasn amourisocietie scolastie*, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.
 
 All institutions of higher learning, including universities, trade schools and adult education, are structured under the A.r.E.. [School uniforms](/posts/2020-09-08-uniforms/) informed by [traditional dress](/posts/2020-01-11-dress/) are provided and worn from preschool through to university, and faculty staff also often wear them.
-
-<--->
-
-![smallimg](/images/uniform.jpg)
-
-{{</columns>}}
 
 Vekllei's school enrolment is among the highest in the world, though this calculation includes untraditional and labour schools, including agricultural and maritime schooling.
 
@@ -356,7 +348,7 @@ Sunny morning at the [Ou Hydroburo Complex](/utopia/vekllei/landscape/boroughs/o
 {{</hint>}}
 
 {{< hint panel >}}
-***If Vekllei*** *is hesitant towards formal recognition of socialist aspects within its economy, in its infrastructure those concerns are discarded entirely. Vekllei is a midcentury state of nationalised infrastructure, led by grand modernist visions of progress and affluence. When combined with *Upen's* spiritual emphasis on physicality and permanence, Vekllei's affection for monuments of utility and public works are shown to be deeply embedded in the Vekllei national political spirit.*
+**If Vekllei** is hesitant towards formal recognition of socialist aspects within its economy, in its infrastructure those concerns are discarded entirely. Vekllei is a midcentury state of nationalised infrastructure, led by grand modernist visions of progress and affluence. When combined with *Upen's* spiritual emphasis on physicality and permanence, Vekllei's affection for monuments of utility and public works are shown to be deeply embedded in the Vekllei national political spirit.
 {{< /hint >}}
 
 **Unlike manufacturing and general industry**, public infrastructure in the country is almost entirely monopolised by the government Utilities (A.r.Un.) and Construction (A.r.Lo.) state requisites, organs in Vekllei analogous to nationalised government industry. Infrastructure consistently ranks among Vekllei's greatest national expenditure, with trillions of Kroner each year poured into projects across the country.

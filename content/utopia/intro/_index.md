@@ -34,6 +34,11 @@ color: var(--color-red);
     margin-left: auto;
     margin-right: auto;
   }
+  // row background colour fix //
+  .row img {
+    padding: 0;
+    background-color: transparent;
+  }
   
 .column {
   flex: 33.33%;
@@ -81,15 +86,13 @@ Vekllei is a jumble of very pure, obsessive instincts that are illustrated to ma
 
 Simplicity is actually very complicated, and so Vekllei is very complicated to justify the simplicity. It's filled with things I value and people I admire. You'll find hundreds of posts and many articles on this site, and all of them are designed to make this place and its people feel real.
 
-{{<columns>}}
 Just a few things to keep in mind:
 
 * This place is **iterative** -- canon disappears, people change appearance and the systems of Vekllei twist and turn as I do.
 * This place is **good-spirited** -- Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be escapist and fun.
 * This place is **constantly expanding** -- I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don't. That's part of the fun of it!
-<--->
-<img style="max-width: 260px; display: block; margin-left: auto; margin-right: auto;" src="/images/women.jpg">
-{{</columns>}}
+
+![smallimg](/images/women.jpg)
 
 ## Three Utopias
 
@@ -111,25 +114,25 @@ This project has three parts. Each part is a little utopia, in the sense that it
 
 <div class="row">
 <div class="column">
-<img src="/images/mastheads/flags/aismious.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/aismious.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/azores.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/azores.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/demon.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/demon.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/kala.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/kala.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/kalina.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/kalina.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/mira.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/mira.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%">
+<img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 </div>
 
