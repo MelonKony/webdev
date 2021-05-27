@@ -90,9 +90,9 @@ Santes has several crown land rainforested regions, which prohibit sovereign vis
 
 Santes is considered a minor borough and is not home to much venrouive/bureau proper activity. Most factories are consolidated in the city of Santes, which mostly produce fish products and metal components.
 
-### Santes Geo-electric Power Plant
+### Santes Magma-Electric Power Plant
 
-The Santes Geo-electric Power Plant is a facility operated by the Geo-electric Commission of the Thunderburo. Its massive steam bores supply most of the power to Santes and Moma, and the waste water of this process is pumped into the Santes Mineral Lagoons, an open-air mineral spa open to the public.
+The Santes Magma-Electric Power Plant is a facility operated by the Magma-Electric Commission of the Thunderburo. Its massive steam bores supply most of the power to Santes and Moma, and the waste water of this process is pumped into the Santes Mineral Lagoons, an open-air mineral spa open to the public.
 
 ### North Vekllei Tourism Council
 
