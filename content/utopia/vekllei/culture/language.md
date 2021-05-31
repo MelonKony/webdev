@@ -190,6 +190,15 @@ Despite common use of the phonetic system in modernity, the semantic readings of
 
 ### Structure
 
+![img](/images/topet.jpg)
+{{< hint caption >}}
+An infographic summarising the appearance of Vekllei scripts, including [*Topet*](/utopia/vekllei/culture/language/#3-topet). | *[How to Read Vekllei](/posts/2021-05-31-topet/)*
+{{</hint>}}
+
+{{< hint red >}}
+❖ Read more: *[How to Read Vekllei](/posts/2021-05-31-topet/)*
+{{< /hint >}}
+
 Individual *Topet* characters are both semantic and phonetic, and can be written in a phonetic abugida (with semantic weight carried by the initial character-group) or as a single character group. The abugida-form is phonetic and aids vocalisation through its *hieyerette* characters. The single character group-form is pictographic, and generally replaces the abugida in contexts where the pronunciation is commonly known or obvious. In these character groups, only one *demioette* character is vocalised, called the *principle*, and the *hieyerette* characters are simply not written.
 
 These character groups are called *Minor Demons*, or *pettidemion,* and change appearance depending on the number of characters in its group. One character occupies a quarter-height space in the centre of a line. Two characters are written in an adjacent quarter-height space, with the principle arranged to the left. Three characters are arranged in a triangle, with the principle arranged at the top. Four characters, the maximum in modern *Topet*, are arranged in a quadrant with the principle arranged in the top left. 

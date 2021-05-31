@@ -1,47 +1,35 @@
 ---
-title: Zelda's Guide to Living Forever
-date: 2021-05-28
+title: Gone Hollywood
+date: 2021-05-24
 tags:
 - post
 - 2021
 categories:
-- character
+- landscape
 keywords:
 - post
 - 2021
-image: "/images/forever.jpg"
+image: "/images/hollywood.jpg"
 ---
-**There’s no other way to put it — Tzipora is one of a kind**. There are others like her, but fewer and fewer of them are born healthy as the years roll on. Her life is hard, she’d agree, but it’s also sprinkled with miracles. Meeting her, you might not even know she’s set to become the oldest person in history.
+**You know you’re near the homeland of the Magma-Electric Commission when you smell it.** Somewhere between cracking a rotten egg and standing downwind of a sewerage treatment plant, the volcanic heartlands of Vekllei are the playground of the Magma-Electric Commission, often shortened to just “The Magma” or “Thunderburo”. The smell is caused by Hydrogen Sulphide, a byproduct of the naked volcanic activity Vekllei is known for.
 
-All stories settle on remarkable people, and Tzipora — with or without her absurd long-livedness — is a person of importance, and much more than the sum of her parts.
+Sulphur is everywhere in Vekllei — even in the cities, the drinking water smells of it. It even overpowers the perfume of a ro, the Vekllei flower-tundras. In the places where the smell is most intense, you usually find a geothermal power plant nearby.
 
-For those unaware, Tzipora is the 13th person in the world to be diagnosed with Gregori-Heitzfeld Disease (GHD), a genetic disorder that surfaced in the 21st Century. Many more than 13 preceded her, but few “Gregori babies,” as they’re called, ever make it to a hospital for a diagnosis. Where exactly GHD came from depends on who you ask — the synthetic preservatives in food? Residual radiation, from a century of atomic testing? The over-sexualisation of media? Tzipora accidentally swallowed a lead ball as a child — that’s as good a guess as any.
+In Vekllei, The Magma pumps water deep into the belly of the Earth, so deep that the temperature and pressure cause the water to go supercritical, at which point it’s neither a liquid or a gas. Supercritical water carries much more energy than water or steam, and produces much more electricity — so much so that residences in Vekllei are powered entirely by geothermal (Magma-Electric Commission) and hydroelectric (Hydro-Electric Commission) facilities.
 
-Gregori babies do not grow up, and they do not die of old age.
+There is a so-called “flash plant” in Miyatvousi, in the Lava region of Vekllei. Lava is full of plants like these. A rail line runs near its injection well, where fresh glacial runoff is transformed into clean, limitless electricity through the miracle of its landscape and human ingenuity. The water is recycled, but excess waste water is dumped into the surrounding ro, forming foggy pools of light blue water. The earth here is alive; in the cold, the ponds begin to steam.
 
-She makes up part of the “first wave” of Gregori discovery, comprising of about fifty individual cases across fifteen years starting in the late 2050s. These boys and girls are, on average, healthier and less affected physically by their disease than those born today. Fatal rates of GHD have increased dramatically in recent years, and very few ‘Gregori babies’ born today live beyond 24 months after onset. Like a passing comet, the miracle children seem to be vanishing as quickly as they appeared.
+Moise had complicated ambitions of becoming a filmmaker. As with all student filmmakers, he drafted his friends to help.
 
-It is commonly misunderstood that Gregori children don’t reach puberty. This is not quite true — they do in fact undergo hormonal changes that usually signal the biological transition into sexual maturity, but are a victim of a poorly-understood protein dysfunction that affects their development and cell reproduction.
+His girlfriend, [Coretti](https://www.reddit.com/r/vekllei/comments/locjnz/turning_things_around/), operated the compact 8mm camera. Tzipora was the production assistant, doing makeup and foley and whatever he asked of her. Cobian was going to be a star — that’s what he said to her, anyway, and he paired her up with a mate of his in what would be an epic short film about lost love.
 
-Gregori-Heitzfeld, as poorly understood as it is, is not a single malfunction of the human body. It is the intersection of two distinct genetic failings in critical proteins that occur in the oestrogen receptors and enzymes of the body. Let’s have a look at how this works, to the best of contemporary understanding.
+It was Tzipora who suggested Miyatvousi, since she’d developed a good catalogue of scenic locations in her quest to find natural shrines. There was a place where the rail line crossed a small mineral lake, near the flash plant’s turbine halls. If worked out just right, you could have a shot that’d make the whole film. It was a hell of a journey — a bullet train in the morning to Krafla, where they got breakfast, and a two-hour local train far out from the city.
 
-**Oestradiol** is an oestrogen that binds to subtypes of the body’s oestrogen receptors. Of interest here is the agonistic reaction it exerts on a receptor known as the **G protein-coupled oestrogen receptor** (GPER), a protein responsible for oestradiol’s nongenomic signalling effect on cells. After activation, GPERs exert dramatic and varied effects on the regulation of many parts of the body, including cell growth, and is found not just in oestrogen-receptive tissues but throughout the brain, lungs, skeleton, muscular system and immune cells. In persons suffering from GHD, increased production of oestradiol during puberty onset upregulate GPERs, which has cascading effects on cell production throughout the body, mostly with **gonadotrophin-releasing hormones** (discussed below).
+As it unfolds, you never realise how good a moment is. It was maybe the second or third-best day of Tzipora’s life. She didn’t know Coretti all that well, and it was the first time they’d talked about things other than Moise. They were on a great adventure, and they all knew it. They laughed when Moise coughed out his coffee all over himself and pretended to be interested when Tzipora talked at length about how geothermal power plants work.
 
-As aforementioned, however, GPER dysfunction is only part of the puzzle. GHD only occurs in the presence of another malfunction of the **telomerase enzyme**, a ribonucleoprotein which extends telomeres in the human chromosome. Prior to GHD onset, the function of the telomerase RNA templates are unaffected, but once malfunctioning GPER proteins are activated by oestradiol enzymes, a local protein misfolding (not dissimilar to prion diseases) occurs that disrupts part of the telomerase catalytic cycle built into the RNA template of the telomerase itself. This affects the pause signal of telomerase DNA synthesis and offsets the natural telomere loss rate in chromosomes, altering cycle lengths of DNA elongation. This is the primary event that contributes to the so-called biological immortality of some Gregori-Heitzfeld patients, since it offsets the loss of most types of somatic cells which would otherwise age and die. In many others, however, the protein misfolding in GPER-telomerase signalling develops into a fatal neurodegenerative disorder called Variant Gregori-Heitzfeld Disease (vGHD). In the last ten years, most ‘Gregori babies’ are in fact victims of vGHD.
+At first, the gig had been sort of a joke for Cobian — she was humouring the friend of her girlfriend — but as the film progressed, she realised how talented and passionate her friends were. They were deeply odd and talented people, and they believed in what they were doing — Cobian had never had friends like that before. On the train back to Lola, as the city lights of the capital loomed, Cobian turned to Tzipora and told her that she loved her for the first time.
 
-The malfunction of GPER proteins also has some kind of affect on the secretion of **gonadotrophin-releasing hormones** (GnRHs), which affect physical development of the body in pubescence. The interaction between GPERs and GnRHs are still poorly understood, and the complicated effects GHD has on this relationship are almost entirely elusive. What is obvious is that most suffering from GHD do not develop physically beyond the onset of the disease, triggered in girls by pubescence sometime between the ages of 12 and 16. In Tzipora’s case, who perhaps remains the healthiest example of a ‘Gregori baby,’ her puberty is absent despite the increased production of oestrogens triggered by late thelarche. No Gregori baby has ever entered menarche — at least in part a result of GnRH suppression by faulty GPER proteins.
-
-The extraordinary rarity of these genetic disorders intersecting contributes to a disease unlike any other. At some point while living in Sacramento, Tzipora slowly stopped ageing. At first, she was just a victim of delayed prepubescence — she was underweight, after all. Then, it was a hormone disorder. By the time she was in Vekllei, she was the country’s first “unageing lady.”
-
-Our understanding of Gregori-Heitzfeld Disease remains rudimentary because, in part, Tzipora makes up most of its scholarship. She is one of the few healthy Gregori babies to voluntarily submit to public medical research, and so most of our understanding comes from her case specifically. There are many gaps in our understanding. Why are Gregori babies not riddled with rapid-growing cancers as their cells metastasise rapidly? Why are the protein misfolds linked to these specific enzymes, and why don’t they spread throughout the body and brain as they do in vGHD? And, perhaps of most interest to the public — where are they going? Why are our new so-called “immortal children” dying?
-
-Tzipora does not consider herself a ‘Gregori baby,’ because she considers herself ‘Tzipora’. When she was diagnosed at 16, there were only 10 others like her in the world — there was no Gregori community support group. By the time there were hundreds, the disease was rapidly degenerating into vGHD and resembled something closer to a tragic prion disease. These are topics she does not like to think about much.
-
-Vekllei affords her dignity, because it does not have a cultural concept of a child. Children exist, of course. They are loved, and go to school, and learn about the world from guardians around them. But they are afforded dignity as human beings, and generally take on responsibilities at a much younger age. This doesn’t mean Tzipora’s life is easy. Her life is not easy. But if she wants to work, she may work. If she wants to travel alone, she may travel alone. And if she wants a glass of wine with dinner, restaurants will accommodate.
-
-These are not special luxuries afforded to her, but basic rights of all young people. In this sense, she is relieved of the inconvenience of justifying her dignity as a person continuously, and allows her to command authority and respect throughout her life.
-
-In the scope of her life, immortality and youthfulness is usually the last thing on her mind.
+Ambitious, arrogant, naive, laughing, well-fed, tired, and in love. Looking back, Tzipora thought the candid footage of themselves made better cinema than anything in a theatre. Lights, camera — action.
 
 <br>
-{{< button href="https://www.reddit.com/r/vekllei/comments/nn2m5h/zeldas_guide_to_living_forever/" >}}Archived from the original article here{{< /button >}}
+{{< button href="https://www.reddit.com/r/vekllei/comments/nk17w6/gone_hollywood/" >}}Archived from the original article here{{< /button >}}
