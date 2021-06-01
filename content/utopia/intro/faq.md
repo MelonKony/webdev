@@ -128,8 +128,3 @@ Zelda is another name for Tzipora. She has two names specifically to confuse you
 [Join the Discord](https://discord.gg/dCE6vSU).
 
 Be "petticoat".
-
-## Notes
-
-[^1]: I've searched far and wide for a direct citation for Beerbohm here, but no one seems to be able to find its original printing. If you find it, [let me know](/newsdesk/about)!
-[^2]: Sargent, L.T., 1994. The Three Faces of Utopianism Revisited. *Utopian studies*, 5(1), p.3.
