@@ -14,11 +14,14 @@ keywords:
 image: /images/deadplanes.jpg
 draft: false
 ---
+
+{{< button href="https://www.reddit.com/r/vekllei/comments/kkmgdm/a_tzipora_christmas_story/" >}}Archived from the original article here{{< /button >}}
+
 **Pachinki is a world of Tzipora’s own creation**, a dorky retreat from the difficulties she has in Vekllei. Tzipora always loved stories of wild places and adventure, and Pachinki blossomed organically from within her daydreams. Eventually she started writing and drawing it. When she was sad, bored or anxious, she would descend back into Pachinki’s world of ancient magic, edible gems and pirates.
 
 A chapter she wrote in late November one year resembled her idea of a Christmas story, and so I’ve included a portion here to accompany this picture.
 
-—
+--- 
 
 She wrote,
 
@@ -69,7 +72,3 @@ Merry Christmas.
 Love
 
 Hobart/MelonKony
-
----
-<br>
-{{< button href="https://www.reddit.com/r/vekllei/comments/kkmgdm/a_tzipora_christmas_story/" >}}Archived from the original article here{{< /button >}}

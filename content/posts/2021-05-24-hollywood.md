@@ -11,6 +11,9 @@ keywords:
 - 2021
 image: "/images/hollywood.jpg"
 ---
+
+{{< button href="https://www.reddit.com/r/vekllei/comments/nk17w6/gone_hollywood/" >}}Archived from the original article here{{< /button >}}
+
 **You know you’re near the homeland of the Magma-Electric Commission when you smell it.** Somewhere between cracking a rotten egg and standing downwind of a sewerage treatment plant, the volcanic heartlands of Vekllei are the playground of the Magma-Electric Commission, often shortened to just “The Magma” or “Thunderburo”. The smell is caused by Hydrogen Sulphide, a byproduct of the naked volcanic activity Vekllei is known for.
 
 Sulphur is everywhere in Vekllei — even in the cities, the drinking water smells of it. It even overpowers the perfume of a ro, the Vekllei flower-tundras. In the places where the smell is most intense, you usually find a geothermal power plant nearby.
@@ -30,6 +33,3 @@ As it unfolds, you never realise how good a moment is. It was maybe the second o
 At first, the gig had been sort of a joke for Cobian — she was humouring the friend of her girlfriend — but as the film progressed, she realised how talented and passionate her friends were. They were deeply odd and talented people, and they believed in what they were doing — Cobian had never had friends like that before. On the train back to Lola, as the city lights of the capital loomed, Cobian turned to Tzipora and told her that she loved her for the first time.
 
 Ambitious, arrogant, naive, laughing, well-fed, tired, and in love. Looking back, Tzipora thought the candid footage of themselves made better cinema than anything in a theatre. Lights, camera — action.
-
-<br>
-{{< button href="https://www.reddit.com/r/vekllei/comments/nk17w6/gone_hollywood/" >}}Archived from the original article here{{< /button >}}

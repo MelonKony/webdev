@@ -12,6 +12,9 @@ keywords:
 image: "/images/mailtrain.jpg"
 
 ---
+
+{{< button href="https://www.reddit.com/r/vekllei/comments/ldfq1p/racing_the_post_office_to_the_station/" >}}Archived from the original article here{{< /button >}}
+
 {{<hint red>}}
 ❖ **This article** was part of Vekllei's ***Mail Week*** in February 2021
 {{</hint>}}
@@ -35,7 +38,3 @@ They pull into a siding, usually the platform of the local station in quiet town
 Modern Mail Trains are typically based on the Series 225 EMU in 2-car configurations. These are modern locomotives with electric motors in each car, allowing the 225 (known as the *RM Series* in its Mail Train configuration) to easily run along Vekllei’s old interior rail lines, which have steep gradients and tight curves. The exception is the Siviouscopet de Desmisnion, or *Ambassador of the Postmistress*, a special mail-sorting train based on the 6-car Series 4000 trainset that operates between the Capital and Montre. The *Ambassador* is particularly special, since it houses a fully furnished office available to the Postmistress General for her use in running the Royal Vekllei Mail.
 
 Tzipora here has encountered the simple adventures of rural living; navigating the friendly bureaucracy of her government from small towns long since forgotten in common memory.
-
----
-<br>
-{{< button href="https://www.reddit.com/r/vekllei/comments/ldfq1p/racing_the_post_office_to_the_station/" >}}Archived from the original article here{{< /button >}}

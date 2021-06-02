@@ -12,6 +12,9 @@ keywords:
 image: "/images/postmistress.jpg"
 
 ---
+
+{{< button href="https://www.reddit.com/r/vekllei/comments/lazslw/the_postmistress_of_vekllei/" >}}Archived from the original article here{{< /button >}}
+
 {{<hint red>}}
 ❖ **This article** was part of Vekllei's ***Mail Week*** in February 2021
 {{</hint>}}
@@ -25,7 +28,3 @@ The current General Postmistress of the country is Sious Desmesneh, who stands h
 It is only appropriate that she ascended via coup, since the Postmaster General is a *de jure* military rank, equivalent to an Admiral in the navy. The Mail is a State Requisite, not a military organ, but it retains a formal military leadership and ranked hierarchy from its origins as a military communications organ many centuries ago. Although a military “General,” Sious has no actual military powers and serves less exotically as a *de facto* director of the Mail A.r. She wears the Postmistress’s uniform, complete with traditional Vekllei [floral plate](https://millmint.net/posts/2020-01-11-dress/) and round *heismious* hat.
 
 Finally, the flag of the Royal Mail is depicted above Aleja. Most bureau-sized organisations in Vekllei have their own flags, as part of [Vekllei semaphore](https://millmint.net/utopia/vekllei/language/#7-vekllei-semaphore), and the Mail Flag is flown alongside the domestic and regional standards outside every post office in the country.
-
----
-<br>
-{{< button href="https://www.reddit.com/r/vekllei/comments/lazslw/the_postmistress_of_vekllei/" >}}Archived from the original article here{{< /button >}}

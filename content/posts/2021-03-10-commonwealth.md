@@ -12,6 +12,9 @@ keywords:
 image: "/images/territories.jpg"
 
 ---
+
+{{< button href="https://www.reddit.com/r/vekllei/comments/m21j78/veklleis_sprawling_commonwealth/" >}}Archived from the original article here{{< /button >}}
+
 {{<hint red>}}
 ❖ **This article** was part of Vekllei's ***Ocean Month*** in March 2021
 {{</hint>}}
@@ -34,7 +37,3 @@ This map depicts these places — “overseas territories” is what Vekllei cal
 8. **Vekllei Lunar Territories** are, through the miracle of our current age, accessible to the average Vekllei person. This fact is one of the great sources of pride Vekllei people feel toward their country, and many visit at least once. Moidonnet, or “Moon City”, is one of only a handful of lunar settlements open to the public, and is unique in its accessibility to the people of its home country. Some 45,000 people live there semi-permanently, taking calcium pills to keep their bones healthy, under the large glass domes of the city. Many more visit — and are left with the memories of a lifetime, and the humbling experience of gazing upon our small blue planet from above.
 
 It is clear, then, that Vekllei’s conceptual and political bias towards its northern territories is misleading, since — at least domestically — isolation and island living is a foundational aspect of how Vekllei people understand themselves. Although someone from Mira might at first be a novelty to a person of the Home Islands, it very soon becomes apparent that Mira is, in fact, Vekllei — its weather might be warmer, and its people might look different, but their lives are very similar, premised on gentle living and Vekllei’s complex metaphysics of landscape. That is what it means to be “Vekllei,” no matter where you are in the Atlantic.
-
----
-<br>
-{{< button href="https://www.reddit.com/r/vekllei/comments/m21j78/veklleis_sprawling_commonwealth/" >}}Archived from the original article here{{< /button >}}

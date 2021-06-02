@@ -12,6 +12,9 @@ keywords:
 image: "/images/manufacturie.jpg"
 
 ---
+
+{{< button href="https://www.reddit.com/r/vekllei/comments/lhq4in/the_stamp_manufacturie/" >}}Archived from the original article here{{< /button >}}
+
 {{<hint red>}}
 ❖ **This article** was part of Vekllei's ***Mail Week*** in February 2021
 {{</hint>}}
@@ -29,7 +32,3 @@ Vekllei has throughout much of its history evolved outside of Western rationalis
 Vekllei modernism is basically utopian. Not utopian in the way this whole project is; as a peculiar expression of being — but utopian in its unabashed projection of texture and emotion in place of an authentic art-form. *Newda* is utopian in the sense that buildings are not art-objects, and they serve a rational purpose agnostic to subjectivity. *Newda* is also unsentimental, as art is merely the decoration of ordinary life in Vekllei, not dissimilar to language or cooking. It is obvious, then, that architecture and art have been separated intentionally in Vekllei.
 
 *Newda* is the face of this cultural legacy, and despite its poststructural origins, is deeply modernist in appearance. It is styled in the instinct of the postwar period, as symbolic of recovery and wealth. It gives very little concern to imitation of past styles or structural gimmicks — it prioritises geometry, cleanliness, “the human face” (meaning original human construction; not biomimicry) and dependence on place. Although influenced by experiments in modernism in France and the United States, it is mostly indigenous and isolationist today, as the rest of the world rumbles amidst yet another crisis of architecture.
-
----
-<br>
-{{< button href="https://www.reddit.com/r/vekllei/comments/lhq4in/the_stamp_manufacturie/" >}}Archived from the original article here{{< /button >}}

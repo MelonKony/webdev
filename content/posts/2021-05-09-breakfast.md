@@ -12,6 +12,8 @@ keywords:
 image: "/images/breakfast.jpg"
 ---
 
+{{< button href="https://www.reddit.com/r/vekllei/comments/n8hfeu/a_vekllei_breakfast/" >}}Archived from the original article here{{< /button >}}
+
 **Postwar Vekllei has a problem**. In the old days, many hundreds of years ago, Vekllei’s long, dark winters forced subsistence farmers to preserve their dishes for six or seven months of the year. This changed under the Junta, which opened trade with the Scandinavian powers, and Vekllei soon saw its growing population dependent on fresh imports of oats and grain from Europe. These Atlantic people, whose diets were previously gamey and nomadic, were now a rough storm away from famine.
 
 Today, the diets are the same but the pressures on food production are even more intense. This island has nearly 22 million people on it. The postwar Vekllei Government is terrified of the vulnerability of its indigenous, isolated ecosystems, and heavily restricts raw food imports. Meanwhile, Vekllei cuisine values freshness, localism and sustainability. These are facts that cannot coexist in a place that cannot reliably grow food outside for half the year.
@@ -35,6 +37,3 @@ Vekllei people love food. In a way, it has satisfied the vacuum of moneyless soc
 You can reclaim the spiritual purity of foods somewhat by simply loving the ingredients you obtain — the black pudding might be grown in vats, but why not transform it by crumbling it over a salad with a nice vinaigrette you’ve made yourself? To alleviate some of this metaphysical tension, most Vekllei neighbourhoods are filled with greenhouses and local shared gardens, which ensures most meals have some produce in which you have participated. That’s very important. Some people think that, because Vekllei has abolished money, it has abolished the fetishism of products. The opposite is true — Vekllei life is about the love and respect of materials, a feature built into the animism of Upen. You cannot buy the best food in Vekllei — you have to find it, in a trial of ownership.
 
 Sitting down and enjoying food is a cornerstone of life in Vekllei. You cannot participate in society without it. For immigrants, the privacy of a quiet breakfast is good practice for the palettes and conventions of eating in Vekllei — so load up your plates.
-
-<br>
-{{< button href="https://www.reddit.com/r/vekllei/comments/n8hfeu/a_vekllei_breakfast/" >}}Archived from the original article here{{< /button >}}
