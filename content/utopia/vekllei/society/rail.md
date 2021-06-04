@@ -30,7 +30,7 @@ color: var(--color-orange);
 <h5 span class="tag orange"> SOCIETY </h5>
 <h6 span class="sitetag">Article</h6>
 
-![img](/images/shrine-minded.jpg)
+![img](/images/orange.jpg)
 {{< hint caption >}}
 A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
 {{</hint>}}
@@ -68,6 +68,11 @@ Similarly, almost all freight is run along rails of varying gauges. These range 
 Unusually, Vekllei National Rail is legally absolved of all non-rail transport, and possesses no busses or ferries for public use, which are operated and maintained by dedicated adjacent bureaus.
 
 ### History
+
+![img](/images/shrine-minded.jpg)
+{{< hint caption >}}
+A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
+{{</hint>}}
 
 Although Vekllei has used wagonways since the 18th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the Pharos Rail Company. 
 
@@ -186,7 +191,7 @@ The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financi
 
 ## Operations
 
-![img](/images/manufacturie.jpg)
+![img](/images/stationlogic.jpg)
 
 {{< hint orange >}}
 ❖ Read more: *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
