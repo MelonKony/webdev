@@ -2,8 +2,8 @@
 title: Railways
 weight: 2
 description: The rail network of Vekllei, a utopia created by Hobart Phillips.
-//bookHidden: true
-//bookSearchExclude: true
+bookHidden: true
+bookSearchExclude: true
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
