@@ -51,7 +51,7 @@ An ICBM of the Vekllei Missile Rocketry Corps launches outside of Montre-Lola, a
 {{</hint>}}
 
 {{< hint pink >}}
-߷ This article is about [**Hobart's utopia**](/utopia/intro)
+߷ This article is about [**Hobart's**](/newsdesk/about) [**utopia**](/utopia/intro)
 {{< /hint >}}
 
 ## Overview
