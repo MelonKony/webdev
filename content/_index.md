@@ -18,13 +18,16 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 			min-width: 450px;
 		}
 	}
-
+	.markdown .book-columns>div {
+	margin: 1rem 0;
+	min-width: 496.5px;
+	}
 	@media (max-width: 60rem) {
 	  .desktop {
 		display: none;
 	  }
 	}
-	
+
 	.book-footer{
 		display: none;
 	}
@@ -58,6 +61,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 		text-decoration: none;
 		opacity: .75;
 	}
+	@media only screen and (max-width: 600px) {
+    @media screen and (max-width: 56rem) {
+        .markdown {
+            margin-top: 0;
+        }
+    }
+}
 </style>
 
 <div style="min-width: 100%;">
@@ -70,7 +80,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 <img class="desktop" style="float: right; width: 80%; padding: 20px; text-align: center; margin: auto; margin-right: auto; background-color: var(--gray-100)" src="/images/mastheads/princess.png">
 
 <---> <!-- magic separator, between columns -->
-<div class="homepage" style="margin-top: 25%; margin-bottom: 25%;">
+<div class="homepage" style="padding: 8rem 0rem; min-width: 80%;">
 <h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; margin-bottom: 0; text-align: center; font-size: 55pt; letter-spacing: -2px;">Studio</h1>
 <h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: center; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"> MillMint</h1>
 <h1 style="font-weight: 800; text-align: center; font-weight: bolder; font-size: 18pt;">スタジオミルミント</h2>
@@ -81,7 +91,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 <span class="dot-green"></span>
 <span class="dot-blue"></span>
 </div>
-<h4 style="text-align: center;"><a href="/utopia/intro/">INTRO</a> • <a href="/utopia/vekllei">UTOPIA</a> • <a href="/newsdesk/about/">NEWSDESK</a> • <a href="/posts/">POSTS</a></h4>
+<h4 style="text-align: center; word-wrap: break-word; margin-top: 1rem;"><a href="/utopia/intro/">INTRO</a> • <a href="/utopia/vekllei">UTOPIA</a> • <a href="/newsdesk/about/">NEWSDESK</a> • <a href="/posts/">POSTS</a></h4>
 
 </div>
 </div>
