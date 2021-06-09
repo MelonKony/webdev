@@ -68,6 +68,9 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
         }
     }
 }
+.markdown .book-columns > div {
+    margin-top: 1rem;
+}
 </style>
 
 <div style="min-width: 100%;">
