@@ -6,7 +6,6 @@ description: Utopian storytelling by Studio MillMint.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
 <style>
 	body {
 		width: 100%;
@@ -22,12 +21,14 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 	margin: 1rem 0;
 	min-width: 496.5px;
 	}
-	@media (max-width: 60rem) {
+	@media (max-width: 76rem) {
 	  .desktop {
 		display: none;
 	  }
 	}
-
+	.desktop img {
+		max-height: 20vh;
+	}
 	.book-footer{
 		display: none;
 	}
@@ -39,27 +40,27 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 		display: none;
 	}
 	.book-menu {
-		display: none;
+		display: inline-block;
+		position: static;
+	}
+	.book-menu nav {
+		padding: 2rem 1rem 2rem 2rem!important;
+		position: static;
+
 	}
 	.book-page {
 		padding: 0;
 	}
-	.container {
-	max-width: 100%;
-	}
-	.book-header {
-		display: none;
-	}
 	.markdown a:visited {
-		color: var(--body-font-color);
+		color: var(--color-gray);
 	}
 	.markdown a {
 		text-decoration: none;
-		color: var(--body-font-color);
+		color: var(--color-gray);
 	}
 	.markdown a:hover {
+		color: var(--body-font-color);
 		text-decoration: none;
-		opacity: .75;
 	}
 	@media only screen and (max-width: 600px) {
     @media screen and (max-width: 56rem) {
@@ -70,22 +71,37 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 }
 .markdown .book-columns > div {
     margin-top: 1rem;
+		padding-top: 2rem;
+}
+#HeaderCanvas {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    width: 100%;
+    border-radius: 5px;
+		position: absolute;
+		left: -256px;
+		width: 125%;
 }
 </style>
 
-<div style="min-width: 100%;">
-{{% parallax %}}
-</div>
+<link href="/layouts/shortcodes/parallax.html" rel="import" />
 
-<div style="height: 100vh; display:flex;justify-content:center;align-items:center;"
-<div style="max-width: 60rem; margin-left: auto; margin-right: auto;">
+<!--<main class="container flex" style="min-width: 100%;">
+{{% parallax %}}
+</main>-->
+
+<div style="max-width: 80rem;">
+<div style="height: 100vh; display:flex;justify-content:center;"
+<div style="max-width: 60rem; margin-left: auto; margin-right: auto; max-height: 100vh;">
 {{< columns >}} <!-- begin columns block -->
 <img class="desktop" style="float: right; width: 80%; padding: 20px; text-align: center; margin: auto; margin-right: auto; background-color: var(--gray-100)" src="/images/mastheads/princess.png">
 
 <---> <!-- magic separator, between columns -->
-<div class="homepage" style="padding: 8rem 0rem; min-width: 80%;">
+<div class="homepage" style="padding: 6rem 0rem; min-width: 80%;">
 <h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; margin-bottom: 0; text-align: center; font-size: 55pt; letter-spacing: -2px;">Studio</h1>
-<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: center; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"> MillMint</h1>
+<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: center; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"><i> MillMint</i></h1>
 <h1 style="font-weight: 800; text-align: center; font-weight: bolder; font-size: 18pt;">スタジオミルミント</h2>
 <div style="display:table; margin:0 auto; padding: 10px;">
 <span class="dot-pink"></span>
@@ -94,9 +110,10 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 <span class="dot-green"></span>
 <span class="dot-blue"></span>
 </div>
-<h4 style="text-align: center; word-wrap: break-word; margin-top: 1rem;"><a href="/utopia/intro/">INTRO</a> • <a href="/utopia/vekllei">UTOPIA</a> • <a href="/newsdesk/about/">NEWSDESK</a> • <a href="/posts/">POSTS</a></h4>
+<h4 style="color: var(--color-gray); font-weight: 800; text-align: center; word-wrap: break-word; margin-top: 1rem;"><a href="/utopia/intro/">INTRO</a> • <a href="/utopia/vekllei">UTOPIA</a> • <a href="/newsdesk/about/">NEWSDESK</a> • <a href="/posts/">POSTS</a></h4>
 
 </div>
 </div>
 {{< /columns >}}
+</div>
 </div>

@@ -16,6 +16,9 @@ color: var(--color-green);
 #headerbox .emoji {
 color: var(--color-green);
 }
+.gt-container {
+    display: none;
+}
 </style>
 
 <div id="headerbox">
