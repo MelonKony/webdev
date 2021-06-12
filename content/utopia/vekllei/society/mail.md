@@ -74,11 +74,10 @@ Like most Royal Bureaus, the Mail is headquartered in Vekllei's capital across a
 ❖ Read more: *[The Men and Women of the Royal Mail in Vekllei](/posts/2021-02-01-mail/)*
 {{< /hint >}}
 
-{{<columns>}}
 Although Vekllei has maintained courier systems for at least a thousand years, the Mail as a contiguous instituion was founded in 1422 by the Desimou VII, King of Vekllei, in the late Period of Rest. During this time, the lords of Vekllei had established significant mercantile holdings across the North Atlantic, and had developed reliable systems of trade throughout Ireland and Denmark. The Royal Mail of Vekllei was first established as a royal communications organ that sought to ensure stability of the Desimou rule across the incresingly autonomous Vekllei empire. In this period, the Mail consisted of a handful of messengers attached to the feudal military apparatus of the Vekllei monarchy, which transferred to the incoming Junta upon collapse of the monarchy.
-<--->
-![img](/images/pond.jpg)
-{{</columns>}}
+
+![smallimg](/images/pond.jpg)
+
 The Mail would not come to resemble conventional civilian Mail until 1652, when the Junta expanded postal contracts to the privy councils of the Faroe and Greenland territories, and later broke apart the Mail monopoly to benefit then-Secretary of State Kism Sismiosnah, who established the New Parliament Postal Service. It was not until nearly a century later, in 1742, that company services were opened to all land-owning Vekllei people, and the Mail came to resemble its contemporary mandate.
 
 The Mail was reestablished in 2015, during Vekllei independence. It was afforded a mandate protected by the postwar [Petticoat Constitution](/utopia/vekllei/#floral-society), and all existing private mail services established in occupation were folded directly into the new state monopoly. In 2016, a year after reestablishment, Mi Miou was elected as the world's first female Postmistress General. The Floral Period of the Royal Mail has been marked by a rapid expansion of both infrastructure and services in Vekllei and abroad. World Post, the international for-profit arm of the Mail, was established in 2034.
