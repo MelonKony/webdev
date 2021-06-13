@@ -25,7 +25,7 @@ color: var(--color-pink);
     margin-left: auto;
     margin-right: auto;
   }
-  
+
 .column {
   flex: 33.33%;
   padding: 5px;
@@ -34,6 +34,9 @@ color: var(--color-pink);
     .row {
     display: none;
     }
+  }
+  .gt-container {
+    display: none;
   }
 </style>
 

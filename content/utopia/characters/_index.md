@@ -18,6 +18,9 @@ color: var(--color-pink);
 #headerbox .emoji {
 color: var(--color-pink);
 }
+.gt-container {
+  display: none;
+}
 </style>
 
 <div id="headerbox">
@@ -41,7 +44,7 @@ Several core characters of this project's story, making a short film in [Miyatvo
 ## Overview
 
 <span class="fc">A</span>
-**lthough almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. This is useful, because if you're following along with this project, you're in some small way an immigrant yourself. It's through the eyes of these people that you see Vekllei, and their lives contribute to the utopian dimensions of this project as utopias-of-living. 
+**lthough almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. This is useful, because if you're following along with this project, you're in some small way an immigrant yourself. It's through the eyes of these people that you see Vekllei, and their lives contribute to the utopian dimensions of this project as utopias-of-living.
 
 I'm still working on the little illustrations for each of the main characters, so please check back now and then for a more comprehensive list.
 
