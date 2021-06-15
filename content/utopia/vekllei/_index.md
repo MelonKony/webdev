@@ -158,7 +158,7 @@ Each borough elects a **Senator** and two **House Members**. Overseas **Crown La
 3. **Boroughs**, or *Baras*, are administrative regions in Vekllei named for their largest population centres. They form the basic subdivision of Vekllei territory and also constitute voting regions in the electoral system.
 4. **Provinces**, or *Piousvincinia*, are the territories in Vekllei's possession outside of the Home Islands. Most notably these include *Kala* (Greenland), the *Aismious Islands* (Faroe Islands), the *Kalina Isles* and the *Azores*. As inhabited provinces, both *Kala* and the *Azores* are considered semiautonomous territories, under purview of the *Kala People's Assembly* and the *Azores Holiday Government* respectively. The *Aismious* province and various other territories are considered *Crown Lakes*. Vekllei also retains over a hundred satellite islands and islets, most as *Crown Lands*.
 
-In total, Vekllei's various possessions, provinces and administrative systems can be argued for as a form of federalism, though in practice more closely resembles a canton system or disparate republic.
+In total, Vekllei's various possessions, provinces and administrative systems can be argued for as a type of federalism, though in practice more closely resembles a canton system or disparate republic.
 
 ### Floral Society
 
@@ -305,7 +305,7 @@ Vekllei sponsors tourism abroad via the Social Government Bank, which allows Vek
 **The story of Vekllei** is a story of rebirth, and no better is this revealed than in the country's cultural *Aliyah* after the Atomic War. Vekllei is an ancient place rediscovering itself and its people, and in the rapid development of the postwar Floral Period there are novel shifts in how Vekllei people talk, behave, and look.
 {{< /hint >}}
 
-**Vekllei has one of the highest population densities in the world**, skewed largely by the populous Capital Region. Vekllei considers itself a city-state, and to this end fosters "commonhoods", represented by *common practice*, *common work* and *common landscape*. Although Vekllei has been settled for thousands of years, postwar advocation of *commonhoods* emphasises *landscape* in place of the historic *blood* in wake of Vekllei's growing migrant population and multiculturalism. Nearly 30% of Vekllei people were born overseas, though this number is trending down as immigration quotas (set by emigration) restrict inflow in recent decades.
+Vekllei has one of the highest population densities in the world, skewed largely by the populous Capital Region. Vekllei considers itself a city-state, and to this end fosters "commonhoods", represented by *common practice*, *common work* and *common landscape*. Although Vekllei has been settled for thousands of years, postwar advocation of *commonhoods* emphasises *landscape* in place of the historic *blood* in wake of Vekllei's growing migrant population and multiculturalism. Nearly 30% of Vekllei people were born overseas, though this number is trending down as immigration quotas (set by emigration) restrict inflow in recent decades.
 
 Vekllei is experiencing a slight demographic trend towards an older population, and the average age of the country stands at 35 years old.
 

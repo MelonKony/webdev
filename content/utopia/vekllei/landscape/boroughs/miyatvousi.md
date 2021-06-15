@@ -53,7 +53,7 @@ color: var(--color-green);
 
 ## Etymology
 
-**Miyatvousi** is an [Old Vekllei](/utopia/vekllei/culture/language/#history) combination of the words for "mineral" and "vision," which in this case refer to indigenous mythos around still mirror-like pools common to flower tundras in the area. Its name implies a connection between the physical landscape of the Miyatvousi area and the spirit world.
+**Miyatvousi** is an [Old Vekllei](/utopia/vekllei/culture/language/#history) combination of the words for "mineral" and "vision," which in this case refer to indigenous mythos around still, mirror-like pools common to flower tundras in the area. Its name implies a connection between the physical landscape of the Miyatvousi area and the spirit world.
 
 ## History
 
@@ -77,7 +77,7 @@ The borough is now a major contributor of lamb towards Vekllei's food pool, and 
 
 ## Geography
 
-Miyatvousi is sparsely populated and highly volcanic, and the majority of its land-area is characterised by flower-tundras, geysers, steam pools and other geological phenomena. Its largest settlements are in the east of the borough, with its west dominated by the Miyatvouosi-Lavavik Crown Lands. 
+Miyatvousi is sparsely populated and highly volcanic, and the majority of its land-area is characterised by flower-tundras, geysers, steam pools and other geological phenomena. Its largest settlements are in the east of the borough, with its west dominated by the Miyatvouosi-Lavavik Crown Lands.
 
 Miyatvousi's Gismavik Dome is one of the largest dormant volcanoes in Vekllei, and is constantly monitored by the Volcanoes Bureau and Geological Survey for shifts in volcanic activity. The size of its magma pool is of serious concern, since an eruption would be catastrophic the greater Miyatvousi/Groisniyah area.
 

@@ -2,7 +2,6 @@
 title: Troll
 weight: 1
 bookHidden: true
-bookSearchExclude: true
 description: The borough of Troll is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
@@ -48,11 +47,15 @@ color: var(--color-green);
 -- [VNR Orange](/posts/2021-06-03-orange/)
 
 <span class="fc">T</span>
-**he borough of Troll** is an administrative region in southwest Vekllei, located in the Lava Region directly north of the glacier of Vatnayoskusl. Situated on the sloping north face of the Vekllei Glacier Highlands, the borough is home to several outlet glaciers flowing out of Vatnayoskusl's ice cap. It is sparsely-populated, and only includes the minor town of Troll and several smaller informal settlements.
+**he borough of Troll** is an administrative region in southwest Vekllei, located in the Lava Region directly north of the glacier of Vatnayoskusl. Situated on the sloping north face of the Vekllei Glacier Highlands, the borough is home to several outlet glaciers flowing out of Vatnayoskusl's ice cap.
+
+Troll is sparsely-populated, and only includes the minor town of Troll and several smaller informal settlements. It is also highly volcanic, and home to the Houismey volcano and dozens of hotspots and mineral springs.
 
 ## Etymology
 
-**Voya Voya** is transliterated as "Good Good," through in practice is better translated as "Good Place," analogous to English towns like "Goodwood." It refers to the natural temperate rainforests of its area, much of which are preserved in its parks and in its northern [Crown Land](/utopia/vekllei/#administrative-divisions). It is only one of a handful of Vekllei cities to use *Topyas* emphasis through repetition, which has more or less been superseded in modern Vekllei by [duplicate consonants](/utopia/vekllei/culture/language/#phonetic-reading).
+**Trolls** are human-sized creatures with rough grey skin and black eyes described by Vekllei sagas. They live in mountains and glaciers, where they hide in caves. If they care caught in daylight, they turn to stone. According to the sagas, the bodies of trolls eventually became the drumlins that litter Vekllei's mossy plains.
+
+The borough of Troll has was the site of a troll city, according to legend, which was destroyed by the  fact that likely contributed to its naming.
 
 ## History
 

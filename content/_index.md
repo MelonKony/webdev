@@ -102,6 +102,12 @@ body {
   justify-content: center
 }
 
+@media (max-width: 600px) {
+	#HeaderCanvas  {
+	display: none;
+	}
+}
+
 </style>
 
 {{< columns >}} <!-- begin columns block -->

@@ -1,7 +1,7 @@
 ---
 title: About
 weight: "1"
-  
+
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
@@ -30,13 +30,13 @@ color: var(--color-indigo);
 <h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint indigo >}}
-❖ If you're looking to contact me, **write to me** [**here**](mailto:melonkony@icloud.com).
+❖ If you're looking to contact me, you can **write to me** [**here**](mailto:melonkony@icloud.com)
 {{< /hint >}}
 
-**Hobart Phillips** is an Australian illustrator and writer living and working in Tasmania. He's 23 and likes machines, midcentury architecture and Tasmania. He's a journalist by trade, but now works in illustration full-time.
+**Hobart Phillips** (also known as **MelonKony**) is an Australian illustrator and writer living and working in Tasmania. He's 23 and likes machines, midcentury architecture and Tasmania. He's a journalist by trade, but now works in illustration full-time.
 
 {{<columns>}}
-**🌹 Things I Like**:
+### Things I Like
 
 * _Thunderbirds_ (1965 series)
 * Studio Ghibli ([obviously](/newsdesk/essays/ghibli))
@@ -48,7 +48,7 @@ color: var(--color-indigo);
 * [Sailor Moon](/images/sailorzelda.jpg)
 * [Mtirado's wonderful work](https://www.musicauniversalis.space)
   <--->
-**🥀 Things I Don't Like**:
+### Things I Don't Like
 * Parsley
 * The C.I.A.
 * Bohos and beatniks

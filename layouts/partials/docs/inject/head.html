@@ -12,7 +12,7 @@
   gtag('config', 'G-KC02XB55HF');
 </script>-->
 
-<!-- Umami Analytics -->
+<!-- Umami Analytics
 <script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
 
 <!-- Gitalk Comments -->
@@ -50,7 +50,7 @@
 
 <style>
 /* sticky header */
-@media screen and (max-width: 56rem) {
+/*@media screen and (max-width: 56rem) {
   .book-header {
     position: fixed !important;
     left: 0;
@@ -60,13 +60,30 @@
     z-index: 1;
     background: var(--body-background);
   }
-}
+}*/
 
 @media screen and (max-width: 56rem) {
+.book-header {
+  background: var(--body-background);
+  padding: 15px;
+  height: 40px;
+  position: fixed; /* Make it stick/fixed */
+  top: 0; /* Stay on top */
+  left: 0;
+  transition: top 0.2s ease-in-out;
+  width: 100%; /* Full width */
+  }
+}
+
+.nav-up {
+  top: -40px; /* same as header height. use variables in LESS/SASS */
+}
+
+/*@media screen and (max-width: 56rem) {
   .markdown {
    margin-top: 40px;
   }
-}
+}*/
 
 @media screen and (max-width: 56rem) {
   #menu-control:checked ~ main .book-menu-overlay {
