@@ -20,6 +20,9 @@ color: var(--color-green);
 #headerbox .emoji {
 color: var(--color-green);
 }
+.markdown a:visited {
+color: var(--color-green);
+}
 .markdown a.book-btn {
   color: var(--color-green);
   border: 1px solid var(--color-green);
@@ -52,7 +55,7 @@ color: var(--color-green);
 
 ## History
 
-Although people have lived in Mumen since the earliest days of Vekllei settlement, the Borough of Mumen was incorporated in 1996 from two previously existing municipalities, called *Sizm* and *Musma*. When we talk about Mumen today, we usually talk about its vibrant immigrant fusion cultures, made up of Greeks, Croations, Italians and Spanish migrants that arrived throughout the late 20th Century. 
+Although people have lived in Mumen since the earliest days of Vekllei settlement, the Borough of Mumen was incorporated in 1996 from two previously existing municipalities, called *Sizm* and *Musma*. When we talk about Mumen today, we usually talk about its vibrant immigrant fusion cultures, made up of Greeks, Croations, Italians and Spanish migrants that arrived throughout the late 20th Century.
 
 In the late 1990s, Mumen was revitalised as part of a broader effort towards modernising Vekllei's tourist infrastructure, much of which survived the atomic bombing. The borough's signature white beaches, along with its seaside resorts and promenades, were constructed during this time. Although highly visited by foreign and domestic tourists alike, the city of Mumen is less travelled, and retains the dense migrant community districts of its prewar years. It has some of the best food in the Capital Region.
 

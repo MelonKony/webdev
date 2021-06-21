@@ -20,6 +20,9 @@ color: var(--color-green);
 #headerbox .emoji {
 color: var(--color-green);
 }
+.markdown a:visited {
+color: var(--color-green);
+}
 .markdown a.book-btn {
   color: var(--color-green);
   border: 1px solid var(--color-green);
@@ -80,15 +83,15 @@ As demons remain an important aspect of Upen mythology, Ou's Valley of the Dead 
 
 In 1912, Vekllei's dwindling economic outlook and failing electrification programme led the governing Atlantic Junta to explore the establishment of hydroelectric dams, to put the unemployed to work and stabilise the southern power network. The construction of Ou's first dam in 1916 marked the beginning of a broader hydroelectric initiative in the region, which had a radical effect on the cultural makeup of the borough. Two of Ou's major towns, Ada and Tiamoin, were first founded as "hydro towns" by migrant Chinese labourers employed by the Hydro-Electric Commission (HEC), which to this day represent major centres of Vekllei's Chinese population.
 
-After major construction by the HEC ceased in the early 1930s, Ou's towns continued to support the hydro infrastructure and power plants that supplied electricity to Vekllei's north coast in Afouismeh and Lava. 
+After major construction by the HEC ceased in the early 1930s, Ou's towns continued to support the hydro infrastructure and power plants that supplied electricity to Vekllei's north coast in Afouismeh and Lava.
 
 ### Postwar Redevelopment
 
 Shortly after independence in 2015, Ou was ranked by the Vekllei War Recovery Bureau as a borough of "critical need". Its preexisting status as a Hydro Borough prompted research towards the expansion of the newly-formed Hydroburo's presence in the area, looking to replicate the prewar success of the borough's original hydroelectric initiative.
 
-In 2018, new construction began on the Ou Hydroburo Office, a pumping and power plant complex designed to establish a postwar Hydroburo presence in the borough and supply fresh water to communities in the Ro Region. The construction accompanied a housing revitalisation effort towards the city of Ou and its nearby towns, building new apartments and parks to facilitate immigration from Southern Europe after the Atomic War. 
+In 2018, new construction began on the Ou Hydroburo Office, a pumping and power plant complex designed to establish a postwar Hydroburo presence in the borough and supply fresh water to communities in the Ro Region. The construction accompanied a housing revitalisation effort towards the city of Ou and its nearby towns, building new apartments and parks to facilitate immigration from Southern Europe after the Atomic War.
 
-The Floral Period in Ou, much like the rest of the country, was marked by widespread immigration and population growth, which saw the city of Ou double in size between 2015 and 2046. 
+The Floral Period in Ou, much like the rest of the country, was marked by widespread immigration and population growth, which saw the city of Ou double in size between 2015 and 2046.
 
 ## Geography
 

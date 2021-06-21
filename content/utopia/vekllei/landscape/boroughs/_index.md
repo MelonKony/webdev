@@ -16,6 +16,9 @@ color: var(--color-green);
 #headerbox .emoji {
 color: var(--color-green);
 }
+.markdown a:visited {
+color: var(--color-green);
+}
 .gt-container {
     display: none;
 }
@@ -66,6 +69,8 @@ A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual adm
 [Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi)
 
 [Santes](/utopia/vekllei/landscape/boroughs/santes)
+
+[Troll](/utopia/vekllei/landscape/boroughs/troll)
 
 [Yana](/utopia/vekllei/landscape/boroughs/yana)
 

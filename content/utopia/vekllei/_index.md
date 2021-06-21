@@ -70,7 +70,7 @@ The Home Island has been inhabited for at least four thousand years by Arctic pe
 
 ![img](/images/shrine-minded.jpg)
 {{< hint caption >}}
-Life in coastal boroughs [Santes](/utopia/vekllei/landscape/boroughs/santes) continues much as it has for hundreds of years | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
+Life in coastal boroughs like [Santes](/utopia/vekllei/landscape/boroughs/santes) continues much as it has for hundreds of years | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
 {{</hint>}}
 
 During Vekllei's Middle Period, the country was struck by civil unrest that escalated into civil war, which installed the Aismo Desimou as the first King of Vekllei. The monarchy succeeded until Vekllei's colonial Late Period, which fell to a navy coup d'etat that installed a military junta in government, which rapidly expanded Vekllei's colonial holdings. This practice would continue well into the 20th Century, and would spark the Africa Wars and Vekllei's atomic bombing by the United Kingdom in 2005, which collapsed the existing regime and ushered in British occupation of the country.
@@ -322,6 +322,12 @@ Modern Vekllei language (referred to simply as ***Vekllei***) is the national la
 Vekllei is spoken by around 25 million people, and a further 800,000 people around the world. Its relative complexity and provinciality lend to Vekllei's cultural obscurity abroad, since few Vekllei people are English literate.
 
 ### Religion
+
+![img](/images/spiritful.jpg)
+
+{{< hint caption >}}
+[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*
+{{</hint>}}
 
 {{< hint red >}}
 ❖ Main article: *[Religion in Vekllei](/utopia/vekllei/religion/)*

@@ -21,6 +21,9 @@ color: var(--color-green);
 #headerbox .emoji {
 color: var(--color-green);
 }
+.markdown a:visited {
+color: var(--color-green);
+}
 .markdown a.book-btn {
   color: var(--color-green);
   border: 1px solid var(--color-green);
@@ -63,7 +66,7 @@ color: var(--color-green);
 
 Voya Voya's area originally included several small villages founded in the early Middle Period, which by the 19th Century had developed into satellite suburbs of the industrious capital area. This expansion was encouraged by the Atlantic Junta from the mid-1850s through to the early 1930s, during which Voya Voya tripled in population. By the mid-20th Century, it had become apparent that the sprawling Capital metro area had become overextended, and threatened to link up further with boroughs in Vekllei's interior, beyond the glaciers. A 'green belt' programme was announced in 1956, and saw significant portions of Voya Voya and its nearby boroughs preserved as untouchable forests. During this period, Voya Voya was known mostly as a working-class satellite to the wealthier coastal boroughs of the capital.
 
-During the Atomic War, the area's permanent rainforest was protected from firestorms by the scorched impact craters in the neighbouring boroughs of Coyenstisn and Lava, and nearby Cusi Lake. 
+During the Atomic War, the area's permanent rainforest was protected from firestorms by the scorched impact craters in the neighbouring boroughs of Coyenstisn and Lava, and nearby Cusi Lake.
 
 ### Postwar Development
 

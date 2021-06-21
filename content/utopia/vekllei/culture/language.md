@@ -19,6 +19,9 @@ color: var(--color-red);
 #headerbox .emoji {
 color: var(--color-red);
 }
+.markdown a:visited {
+color: var(--color-red);
+}
 </style>
 
 <div id="headerbox">
@@ -201,9 +204,9 @@ An infographic summarising the appearance of Vekllei scripts, including [*Topet*
 
 Individual *Topet* characters are both semantic and phonetic, and can be written in a phonetic abugida (with semantic weight carried by the initial character-group) or as a single character group. The abugida-form is phonetic and aids vocalisation through its *hieyerette* characters. The single character group-form is pictographic, and generally replaces the abugida in contexts where the pronunciation is commonly known or obvious. In these character groups, only one *demioette* character is vocalised, called the *principle*, and the *hieyerette* characters are simply not written.
 
-These character groups are called *Minor Demons*, or *pettidemion,* and change appearance depending on the number of characters in its group. One character occupies a quarter-height space in the centre of a line. Two characters are written in an adjacent quarter-height space, with the principle arranged to the left. Three characters are arranged in a triangle, with the principle arranged at the top. Four characters, the maximum in modern *Topet*, are arranged in a quadrant with the principle arranged in the top left. 
+These character groups are called *Minor Demons*, or *pettidemion,* and change appearance depending on the number of characters in its group. One character occupies a quarter-height space in the centre of a line. Two characters are written in an adjacent quarter-height space, with the principle arranged to the left. Three characters are arranged in a triangle, with the principle arranged at the top. Four characters, the maximum in modern *Topet*, are arranged in a quadrant with the principle arranged in the top left.
 
-*Minor Demons* are the foundations of *Topet* script, since they can be written phonetically or as pictographs. This also contributes to *Topet*'s unusual linguistic structure, in which single words are modified heavily and often come to resemble sentences with self-contained adjectives. 
+*Minor Demons* are the foundations of *Topet* script, since they can be written phonetically or as pictographs. This also contributes to *Topet*'s unusual linguistic structure, in which single words are modified heavily and often come to resemble sentences with self-contained adjectives.
 
 ## 4. Rapotenne
 

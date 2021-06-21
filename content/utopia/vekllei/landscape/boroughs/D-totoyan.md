@@ -1,9 +1,10 @@
 ---
-title: Miyatvousi
+title: Totoyan
 weight: 1
 bookHidden: true
+bookSearchExclude: true
 
-description: The borough of Miyatvousi is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
+description: The borough of Totoyan is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
@@ -51,7 +52,9 @@ color: var(--color-green);
 -- [Gone Hollywood](/posts/2021-05-24-hollywood/)
 
 <span class="fc">T</span>
-**he borough of Miyatvousi** is an administrative region in northern Vekllei, located in the Lava Region north of Groisniyah and southwest of [Lita](/utopia/vekllei/landscape/boroughs/lita/). Its area is highly volcanic and is home to several natural features, including the Gismavik Dome and the Miyatsimi Geyser Fields. The area outside of the city of Miyatvousi is sparsely populated and mostly claimed by flower-tundras and Crown Land.
+**he borough of Miyatvousi** is an administrative region in northern Vekllei, located in the Lava Region north of Groisniyah and southwest of [Lita](/utopia/vekllei/landscape/boroughs/lita/).
+
+DO SOME SHIT ABOUT SUNSTONES
 
 ## Etymology
 
@@ -83,7 +86,7 @@ Miyatvousi is sparsely populated and highly volcanic, and the majority of its la
 
 Miyatvousi's Gismavik Dome is one of the largest dormant volcanoes in Vekllei, and is constantly monitored by the Volcanoes Bureau and Geological Survey for shifts in volcanic activity. The size of its magma pool is of serious concern, since an eruption would be catastrophic the greater Miyatvousi/Groisniyah area.
 
-### Miyatvousi Mirror-Pools
+### Totoyan Sunstone Crown Lands
 
 Large coloured mineral pools are common to the flower-tundras, produced either by underground superheated springs or from runoff from geothermal power activity. The largest of these are popular local attractions, and are traditionally bathed in by locals for health or religious reasons.
 
@@ -91,13 +94,8 @@ Large coloured mineral pools are common to the flower-tundras, produced either b
 
 Miyatvousi is linked to the coast via the Vekllei Central Highland Bullet Train, which has contributed to its postwar presence as an arterial link to Vekllei's North Coast. The borough is best known for its production of geothermal power and support facilities which contribute a majority amount of electricity to Vekllei's East Coast Supply.
 
-### Miyatvousi Magma-Electric Power & Flash Plant
+### Totoyan Sunstone
 
-The Miyatvousi Magma-Electric Power Plant (M.E.C.A.) is a sprawling complex of geothermal power facilities located west of the city of Miyatvousi. Expanded several times over its five-decades-long life, the facility now includes several distinct power plants, numbered 1 through 4. M.E.C.A. is a supercritical geothermal plant, and was the first of its kind in Vekllei.
-
-### Miyatvousi Farm Co-operative S.P.
-
-Miyatvousi remains heavily agricultural, and most of the borough's food export is monopolised through the Miyatvousi Farm Co-operative S.P. The organisation, designed as a village agricultural co-op, consolidates food products for larger food manufacturers along the coasts.
 
 <br>
 {{<columns>}}

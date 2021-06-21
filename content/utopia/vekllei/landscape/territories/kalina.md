@@ -14,6 +14,9 @@ color: var(--color-green);
 aside nav ul a {
 color: var(--color-green);
 }
+.markdown a:visited {
+color: var(--color-green);
+}
 #headerbox .emoji {
 color: var(--color-green);
 }
@@ -30,7 +33,7 @@ color: var(--color-green);
 ![img](/images/marinerailway.jpg)
 
 {{< hint green >}}
-߷ This article is about an [**overseas territory**](/utopia/vekllei/#administrative-divisions) of [**Vekllei**](/utopia/vekllei) 
+߷ This article is about an [**overseas territory**](/utopia/vekllei/#administrative-divisions) of [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
 ## 1. Overview

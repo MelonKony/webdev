@@ -17,6 +17,9 @@ color: var(--color-green);
 #headerbox .emoji {
 color: var(--color-green);
 }
+.markdown a:visited {
+color: var(--color-green);
+}
 </style>
 
 <div id="headerbox">

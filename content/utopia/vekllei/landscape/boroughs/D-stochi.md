@@ -21,6 +21,9 @@ color: var(--color-green);
 #headerbox .emoji {
 color: var(--color-green);
 }
+.markdown a:visited {
+color: var(--color-green);
+}
 .markdown a.book-btn {
   color: var(--color-green);
   border: 1px solid var(--color-green);
@@ -76,7 +79,7 @@ Despite this, Santes would remain culturally isolated from Vekllei's powerful so
 
 ### Postwar Development
 
-Immediately after the war, Santes succumbed to a minor famine that killed nearly a tenth of its population. The borough was largely neglected until independence from British occupation in 2015, when the Interim Administration took control of the Home Islands. It was linked to the VNR Coastal Bullet Train Network in 2044. 
+Immediately after the war, Santes succumbed to a minor famine that killed nearly a tenth of its population. The borough was largely neglected until independence from British occupation in 2015, when the Interim Administration took control of the Home Islands. It was linked to the VNR Coastal Bullet Train Network in 2044.
 
 Santes's historical isolation from Vekllei's coastal regions has left many of its fjords undeveloped, which have become minor tourist attractions. Today, the borough is best known for its natural features, and as the origin of *Fisk Ferva*, or Vekllei's modern raw fish cuisine.
 

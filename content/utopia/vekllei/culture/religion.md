@@ -20,6 +20,9 @@ color: var(--color-red);
 #headerbox .emoji {
 color: var(--color-red);
 }
+.markdown a:visited {
+color: var(--color-red);
+}
 </style>
 
 <div id="headerbox">
@@ -45,13 +48,20 @@ Two Puffin Scouts rest in a flower-tundra, a place of great spiritual significan
 {{< /hint >}}
 
 <span class="fc">U</span>
-pen is the animistic, nondenominational dominant and historical religion of Vekllei. Practiced commonly throughout the Home Islands and Vekllei's possessions, it is a core component of Vekllei culture and heritage, and has existed in various forms for thousands of years. Because *Upen* is fundamentally provincial and decentralised, its scripture and practice vary significantly between boroughs. Most forms emphasise object animism, impermanence, petite materialism, land dependence, existentialism and fear of nature.
+**pen** is the animistic, nondenominational dominant and historical religion of Vekllei. Practiced commonly throughout the Home Islands and Vekllei's possessions, it is a core component of Vekllei culture and heritage, and has existed in various forms for thousands of years. Because *Upen* is fundamentally provincial and decentralised, its scripture and practice vary significantly between boroughs. Most forms emphasise object animism, impermanence, petite materialism, land dependence, existentialism and fear of nature.
 
 Upen can be practiced at natural shrines, usually designated by a cairn, at running or still water, or the seaside. Maritime living and seafood are important aspects of Vekllei life, and fishing and ocean myths are key elements in *Upen*. Within its spiritualism, traditional folk-tales and scripture are called *sagas*, which have also archived much of Vekllei's early history.
 
 Although traditionally atheist, *Upen* is commonly adopted by immigrant populations that include Catholic, Jewish and Buddhist faiths. In these contexts, *Upen*'s animism and dependence on landscape is held alongside traditional beliefs, which are so common postwar that both Jewish and Catholic metaphysics have appeared in mainstream *Upen* doctrine in some cities, where large immigrant populations reside.
 
 ### Introduction
+
+![img](/images/spiritful.jpg)
+
+{{< hint caption >}}
+[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*
+{{</hint>}}
+
 
 You can find *Upen* all around you in Vekllei since, by its own spiritual metaphysics, animism is not human. It exists independently of human understanding or spirit, and *Upen* is merely the practice by which humans are cognisant and interact with the spirit of things. Wherever people and material existence collide, including man-made objects, you find *Upen*.
 

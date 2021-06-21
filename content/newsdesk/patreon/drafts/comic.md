@@ -8,6 +8,9 @@ bookSearchExclude: true
 .markdown a {
 color: var(--color-orange);
 }
+.markdown a:visited {
+color: var(--color-orange);
+}
 </style>
 
 <div id="headerbox">

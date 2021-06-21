@@ -168,8 +168,8 @@ hr, h1, h2, h3 {
   color: var(--body-font-color);
 }
 
-.markdown h1 a:visited {
-  color: var(--body-font-color);
+.markdown a:visited {
+    color: var(--color-visited-link);
 }
 
 /* book brand */
@@ -185,7 +185,12 @@ hr, h1, h2, h3 {
 }
 
 .book-brand a:hover {
-	 background-image: -webkit-linear-gradient(270deg, #fd2b3d, #ae51aa);
+    background: -webkit-linear-gradient(45deg, #fe1568, #955fc1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/*
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	-webkit-animation: hue 1s infinite linear;
@@ -199,11 +204,12 @@ hr, h1, h2, h3 {
    -webkit-filter: hue-rotate(-360deg);
  }
 }
+*/
 
 /* title bold styles */
 .markdown h1 {
   font-weight: 800;
-	font-size: 34px;
+	font-size: 38px;
 }
 .markdown h2 {
   font-weight: 800;
@@ -650,7 +656,7 @@ padding: 0.7rem;
 /*body resize fix*/
 @media screen and (min-width: 400px) {
     .book-page, .book-menu nav {
-        padding:2rem 4rem;
+        padding:2rem 3rem;
     }
 		.book-toc nav {
         padding:2.5rem 1rem;
@@ -793,7 +799,7 @@ color: var(--color-visited-link);
 /* book page padding */
 @media screen and (min-width: 800px) {
 	.book-page {
-			padding:2rem 4rem;
+			padding: 2rem 2rem;
 	}
 }
 

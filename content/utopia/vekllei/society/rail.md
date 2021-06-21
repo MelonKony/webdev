@@ -20,6 +20,9 @@ color: var(--color-orange);
 #headerbox .emoji {
 color: var(--color-orange);
 }
+.markdown a:visited {
+color: var(--color-orange);
+}
 </style>
 
 <div id="headerbox">
@@ -74,7 +77,7 @@ Unusually, Vekllei National Rail is legally absolved of all non-rail transport, 
 A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
 {{</hint>}}
 
-Although Vekllei has used wagonways since the 18th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the Pharos Rail Company. 
+Although Vekllei has used wagonways since the 18th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the Pharos Rail Company.
 
 The history of rail in Vekllei can be summarised in three key eras of development.
 
@@ -94,7 +97,7 @@ By the beginning of the 20th Century, Vekllei had a half-dozen major railroad co
 
 #### Nationalisation
 
-The early 20th Century was marked by an exponential increase in ridership, which saw a proliferation of new railroads across the Home Islands. Metropolitan and suburban lines during this period were characterised by overcrowding, poor reliability and irregular service. These factors, in addition to the growing economic power of rail barons in the country, saw the Atlantic Junta (known as the Crown) move to nationalise all metropolitan and intercity passenger rail service in 1925 as the Vekllei National Rail Company (VNC). 
+The early 20th Century was marked by an exponential increase in ridership, which saw a proliferation of new railroads across the Home Islands. Metropolitan and suburban lines during this period were characterised by overcrowding, poor reliability and irregular service. These factors, in addition to the growing economic power of rail barons in the country, saw the Atlantic Junta (known as the Crown) move to nationalise all metropolitan and intercity passenger rail service in 1925 as the Vekllei National Rail Company (VNC).
 
 The centralisation of Vekllei rail accompanied standardisation of its commuter track gauge, which improved travel times across the country. The VNC period was characterised by reliable investment and a commitment to modernisation of rail in the country. By the late 20th Century, the Vekllei Metropolitan Underground was widely regarded as one of the most beautiful subway systems in the world.
 
@@ -171,7 +174,7 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 
 Access to public transport is considered a "critical luxury" of the Vekllei state (the Vekllei turn-of-phrase for essential state services) and, by extension, the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei's public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.
 
-Rail transport contributes tremendously to the national culture and common affection for Vekllei's public institutions. About 15 million people per day use VNR to access 
+Rail transport contributes tremendously to the national culture and common affection for Vekllei's public institutions. About 15 million people per day use VNR to access
 
 ### National Rail
 
@@ -233,7 +236,7 @@ The Mail retains a large and diverse fleet of vehicles in regular operations, wh
 * **Vekllei National Rail**
   * **VNR Atlantic**
     * **Electric Multiple Units**
-      * 8,000 delivery automen
+      * Series 225 EMU
       * 5,200 motorcycles *(mostly Local Electric Model 15 & Phantoms)*
       * 2,400 bicycles
       * 2,000 automatic vans
@@ -247,11 +250,12 @@ The Mail retains a large and diverse fleet of vehicles in regular operations, wh
       * 2 mail ships *(RMS* Atlantic *&* Sunburst *)*
     * **High Speed Rail**
     * **Special Trains**
+      * **Steam Trains**
     * **Diesel Cars**
     * **Special Trains**
   * **VNR Overseas**
   {{< /details >}}
-  
+
 ### Livery
 
 ## Notes

@@ -20,6 +20,9 @@ color: var(--color-orange);
 #headerbox .emoji {
 color: var(--color-orange);
 }
+.markdown a:visited {
+color: var(--color-orange);
+}
 </style>
 
 <div id="headerbox">

@@ -19,6 +19,9 @@ color: var(--color-green);
 #headerbox .emoji {
 color: var(--color-green);
 }
+.markdown a:visited {
+color: var(--color-green);
+}
 .markdown a.book-btn {
   color: var(--color-green);
   border: 1px solid var(--color-green);
@@ -53,65 +56,65 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 
 ## Etymology
 
-**Trolls** are human-sized creatures with rough grey skin and black eyes described by Vekllei sagas. They live in mountains and glaciers, where they hide in caves. If they care caught in daylight, they turn to stone. According to the sagas, the bodies of trolls eventually became the drumlins that litter Vekllei's mossy plains.
+**Trolls** are human-sized creatures with rough grey skin and black eyes described by Vekllei sagas. They live in mountains and glaciers, where they hide in caves. If they are caught in daylight, they turn to stone. According to the sagas, the bodies of trolls eventually became the drumlins that litter Vekllei's mossy plains.
 
-The borough of Troll has was the site of a troll city, according to legend, which was destroyed by the  fact that likely contributed to its naming.
+Per the legends of the sagas, the borough of Troll was the site of a troll city, which was destroyed by lava spirits. This fact contributed to its naming upon its incorporation in the early 19th Century.
 
 ## History
 
-> What's that smell? Smell it. It smells like the freshest thing I've ever smelled.
+> Of course I've met a troll. It was one of the nicest creatures I've ever met.
 
--- Tzipora Desmoisnes, after visiting Voya Voya for the first time
+-- [Tzipora Desmoisnes](/utopia/characters/#tzipora-zelda-desmoisnes)
 
-Voya Voya's area originally included several small villages founded in the early Middle Period, which by the 19th Century had developed into satellite suburbs of the industrious capital area. This expansion was encouraged by the Atlantic Junta from the mid-1850s through to the early 1930s, during which Voya Voya tripled in population. By the mid-20th Century, it had become apparent that the sprawling Capital metro area had become overextended, and threatened to link up further with boroughs in Vekllei's interior, beyond the glaciers. A 'green belt' programme was announced in 1956, and saw significant portions of Voya Voya and its nearby boroughs preserved as untouchable forests. During this period, Voya Voya was known mostly as a working-class satellite to the wealthier coastal boroughs of the capital.
+Although Troll has a signicant cultural history within Vekllei, it is a relatively recent borough. The town of Troll received a trading license in 1823, which is considered its founding as a borough. Little is recorded about its settlement prior to its incorporation, but it is known that nomadic Algic Vekllei had remained in the area for hundreds, if not thousands of years prior.
 
-During the Atomic War, the area's permanent rainforest was protected from firestorms by the scorched impact craters in the neighbouring boroughs of Coyenstisn and Lava, and nearby Cusi Lake.
+Although an important cultural site in [Upen](/utopia/vekllei/culture/religion), the area around Troll is highly volcanic and spiritually complicated, and its status as isolated, resource-poor land prevented permanent settlement for most of Vekllei's history.
 
 ### Postwar Development
 
-The Atomic War collapsed the capital area, and dramatically reduced the population of Voya Voya's neighbouring boroughs. Although the borough itself did not receive direct strikes, the subsequent fallout and social collapse saw starvation and emigration from the borough throughout occupation and into independence.
+Troll has overall shrunk in population since the war, when many of its able-bodied adults moved to the urban coasts in search of employment. Since the late 2050s, the borough has seen a minor revitalisation after the establishment of the Vekllei Highlands Bullet Train, which links it to the larger boroughs on the coast. The economic changes under floral society have also benefited rural boroughs like Troll, since industry is less dependent on proximity to business.
 
-In the Floral Period, protections first developed by the Junta for Voya Voya's green belt were extended by the Floral Government, including the establishment of a [Crown Land](/utopia/vekllei/#administrative-divisions) in its north and the clearing of rubble and replanting of rainforest throughout its inhabited interior. The architects of early independence reduced the density of the borough dramatically, clearing land for parks that now characterise the city.
-
-In 2076, Voya Voya was named Borough of the Year by the Festival Commission, which saw it heavily reported by documentary films and tourism material.
+In 2036, a major eruption from the Houismeyvik volcano disrupted air travel in Vekllei and Western Europe for eighteen days.
 
 ## Geography
 
-Voya Voya is flat and low-lying, though its border extends to the dramatic hills of the southern Thanveler Glacier. It is cool and wet, and has large areas of temperate rainforest typical of Vekllei's southern coast. Rainforest flora are also found in the city of Voya Voya, where tree ferns grow in alleys and in roundabouts. The city itself is medium-rise, like much of the capital, but checkered into planned areas of habitation and parkland. Aqueducts carrying water from the Hydroburo collectors in Thanveler criss-cross its streets and parks.
+Troll is situated in the heart of Vekllei's volcanic highlands, surrounded by minor glaciers and meltwater rivers. It is an extraordinarily pretty borough, and is a place of dramatic hues that shift with the landscape. From its main population centre, the town of Troll, the Vatnayoskusl Glacier is visible. Its water is some of the cleanest in the world, and highly prized overseas as a health tonic.
 
-### Crown Land
+### Houismey Volcano
 
-Voya Voya's Crown Land is an area of forbidden rainforest north of the city area, and was officially struck from Floral Government sovereignty in 2025. It remains a densely forested area belonging to the Land Sovereign, and has tremendous influence on both the culture and composition of the city.
+The Houismey Volcano, called Houismeyvik in Vekllei, is a basaltic volcano located to the north-west of an outlet glacier called Vosmaspesteh. It is a subglacial volcano situated underneath the surface, and the intersection of magma and meltwater causes phreatomagmatic explosions that can trigger eruptions. It is one of the most active volcanoes in Vekllei, though the size of its eruptions remain small.
 
-### Cusi Lake
+### Troll National Park
 
-Cusi Lake is a natural body of water to Voya Voya's southwest, which has doubled in size since the construction of the Cusi Hydroelectric Dam in 1965. Its area is split between the boroughs of Voya Voya, Lo, Coyenstisn, and Lava. As a controlled lake, it is popular for watercraft and swimming, though is extremely cold throughout the year due to runoff from distant glaciers.
+The Troll National Park is one of seventy-two national parks in Vekllei. As a National Park, rather than a Crown Land, it is designed for human visitation and operated by Parks of Vekllei. It is located in the southwest of the borough, and its facilities include boardwalks, rest stops, and hiking trails. It is also the end point of the Vatnayoskusl Track, an extreme hiking trail that crosses the glacier.
+
+### Troll Lava Fields
+
+The Troll Lava Fields are a series of flat extinguished lava flows, which are the site of Vekllei's last troll city. They can be found north of Houismeyvik, and are part of the Troll Crown Land and Troll National Park. Although they are well-known within Vekllei, they are considered a site desecrated by the spirits and most visitors to the area are from overseas.
 
 ## Infrastructure
 
-Although Voya Voya is best known for its parks, it is also highly accessible from the capital, linked by a variety of rail lines including bullet trains to the South Coast, Lonne and Thanveler. It is also the origin of the capital area's aqueduct system, a network of open-air water bridges originating in southern Voya Voya, which were first built in the 19th Century and rebuilt in the 21st. Although tourist infrastructure is sparse, it remains a popular borough for day-trips from coastal hotels, a trip made trivial by the density of the capital's rail network.
+Troll is a minor borough that is mostly resource-poor. Its major contribution to the coasts is its abundance of clean fresh water that flows out of Vekllei's largest glacier, Vatnayoskusl. Although little of the glacier itself is located in Troll, most of its rivers and outlet glaciers flow through the borough, and so Troll's largest industries are supported by the Hydroburo's vested concerns in the area.
 
-### The Water Commission Aqueduct Pumpworks
+### Troll High-Speed Rail Depot
 
-The Water Commission (Hydroburo) Pumpworks in Voya Voya supplies pressure for aqueducts in the city and its neighbouring boroughs. It pulls water from both Cusi Lake and open aqueducts from Thanveler, and pushes water through an elevated network of bridges across the area. After its elevation, water is pulled by gravity with pressure from water towers. The aqueduct system provides water for all parkland in Voya Voya. The Pumpworks is a large brick/Newda facility on Cusi Lake, and its pumps are powered by on-site geothermal steam wells, as they have for a century. Small railcars called Microsweeps run along the open-air aqueducts to clear blockages and sediment.
+As a midpoint of the Vekllei Highlands Bullet Train, an auxiliary bullet train depot and maintenance yard was established in the town of Troll. As the final developed borough before the expansive Vatnayoskusl Glacier, the maintenance yard is situated well to repair trains damaged by ice and water.
 
-### Botanical Gardens of Voya Voya
+### Vekllei Geological Survey Station
 
-The Voya Voya Botanical Gardens are a complex of green areas covering about 12 city blocks, housing mostly indigenous flora. While the Royal Botanical Gardens in Vekllei Proper feature international gardens sampling every continent on Earth, Voya Voya's Gardens are managed as educational public spaces celebrating local landscapes and rainforest. Its facilities include a fair and parade ground, Newda parks, lakes and ponds, rainforests, and greenhouse infrastructure. The Botanical Gardens are the site of festivals in Voya Voya, and often celebrate live music and theatre.
+The Volcanoes Bureau and Geological Survey monitor volcanic activity in Vekllei, and have several minor research outposts established outside of and within Troll's glacial territory. The borough's vicinity to the Houismey volcano is of particular interest, and contributes to Vekllei's ongoing research into seismic activity in Vekllei.
 
-### Hydroburo Aqueduct Beautification Scheme
+### Troll Water Treatment Plant
 
-In celebration of 50 years of independence, in 2065 the Hydroburo embarked on an ambitious public art project to celebrate the South Coast's ancient aqueduct network. Coordinated from Voya Voya, the site of the Aqueduct Pumpworks, Voya Voya's aqueducts were embossed with tiled murals over the course of about ten years, and were finally completed in March 2076. Its contruction employed nearly 1,500 artists and locals in its peak. Voya Voya's aqueducts are widely recognised as some of the most beautiful pieces of civic infrastructure in the world.
-
-### All-Smiles Ice Cream Factory
-
-All-Smiles Ice Cream, the second-most consumed brand in Vekllei, are headquartered in Voya Voya. Its manufactory, A.S. Ice Cream S.p.M., is located in the heart of Voya Voya and is a popular local attraction, since it gives tours and samples to visitors on Sundays.
+Troll's location at the base of the Vatnayoskusl Glacier makes it a strategic site for the processing of freshwater runoff, which feeds Vekllei's residential water systems. In 2066, the Troll Water Treatment Plant was established to support ageing plants in [Voya Voya](/utopia/vekllei/landscape/boroughs/voya-voya/) and Guisimaya. The Troll Water Treatment Plant is operated by the Water Commission of Vekllei (Hydroburo).
 
 <br>
 {{<columns>}}
 ## Towns
-- Voya Voya
+- Troll
+- Vatnayoskusl
+- Troll-Misya
 <--->
 ## Posts
-- [City Rivers](/posts/2021-03-27-rivers/)
+- [VNR Orange](/posts/2021-06-03-orange/)
 {{</columns>}}

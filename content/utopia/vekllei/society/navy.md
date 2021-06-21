@@ -18,6 +18,9 @@ color: var(--color-red);
 #headerbox .emoji {
 color: var(--color-red);
 }
+.markdown a:visited {
+color: var(--color-orange);
+}
 </style>
 
 <div id="headerbox">
@@ -37,7 +40,7 @@ color: var(--color-red);
 ## 1. Overview
 
 {{< hint panel >}}
-**All Bureau and military vessels** in Vekllei belong to a navy. There is, of course, the traditional Royal Navy of Vekllei, the military branch responsible for armed naval operations, but also includes the Vekllei Merchant Navy and 
+**All Bureau and military vessels** in Vekllei belong to a navy. There is, of course, the traditional Royal Navy of Vekllei, the military branch responsible for armed naval operations, but also includes the Vekllei Merchant Navy and
 {{< /hint >}}
 
 <span class="fc">T</span>

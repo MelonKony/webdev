@@ -34,7 +34,7 @@ color: var(--color-red);
     margin-left: auto;
     margin-right: auto;
   }
-  
+
 .column {
   flex: 33.33%;
   padding: 5px;
@@ -66,7 +66,7 @@ color: var(--color-red);
 * **I draw in certain styles**, but Vekllei isn't based off any one country.
 * **Vekllei is mostly self-contained stories**, but I experiment with mediums and methods all the time.
 <--->
-<img style="max-width: 200px; display: block; margin-left: auto; margin-right: auto;" src="/images/mastheads/book.gif">
+<img style="max-width: 250px; display: block; margin-left: auto; margin-right: auto;" src="/images/mastheads/book.gif">
 {{</columns>}}
 
 ## F.A.Q.

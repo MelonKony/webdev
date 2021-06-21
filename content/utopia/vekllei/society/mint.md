@@ -20,13 +20,16 @@ color: var(--color-orange);
 #headerbox .emoji {
 color: var(--color-orange);
 }
+.markdown a:visited {
+color: var(--color-orange);
+}
 /* coins */
 .row {
     display: flex;
     margin-left: auto;
     margin-right: auto;
   }
-  
+
 .column {
   flex: 33.33%;
   padding: 5px;

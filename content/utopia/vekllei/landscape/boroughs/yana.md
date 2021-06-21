@@ -20,6 +20,9 @@ color: var(--color-green);
 #headerbox .emoji {
 color: var(--color-green);
 }
+.markdown a:visited {
+color: var(--color-green);
+}
 .markdown a.book-btn {
   color: var(--color-green);
   border: 1px solid var(--color-green);
@@ -60,7 +63,7 @@ color: var(--color-green);
 
 -- Ayn Rumouisen
 
-Yana has been inhabited since the 17th Century or so, dated mostly to the erection of the town of Yana's community hall in 1644. Like many of its neighbouring boroughs, its initial settlement was spurred by an interest in its mineral-rich volcanic soil, which offered good growing for staple Vekllei foods like wheat and potatoes. 
+Yana has been inhabited since the 17th Century or so, dated mostly to the erection of the town of Yana's community hall in 1644. Like many of its neighbouring boroughs, its initial settlement was spurred by an interest in its mineral-rich volcanic soil, which offered good growing for staple Vekllei foods like wheat and potatoes.
 
 In 1856, the Beri Railroad Bridge was constructed across Sesmiousvianneh river, which allowed for easy export to Vekllei's wealthy coastal communities. The structure operated for nearly a hundred years, until the wooden bridge was washed away in 1948 by heavy rains, taking Locomotive No. 6004 and its engineers with it.
 

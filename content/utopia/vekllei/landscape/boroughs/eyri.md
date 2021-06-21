@@ -20,6 +20,9 @@ color: var(--color-green);
 #headerbox .emoji {
 color: var(--color-green);
 }
+.markdown a:visited {
+color: var(--color-green);
+}
 .markdown a.book-btn {
   color: var(--color-green);
   border: 1px solid var(--color-green);
@@ -60,7 +63,7 @@ In the early 2020s, Eyri saw tremendous investment by the Ocean Bureau into aqua
 
 ## Geography
 
-Eyri is known best for its cliffs, which watch over fjords and beaches pummelled by enormous Atlantic swells and icebergs. Along the coast the roar of the ocean can always be heard. Eyri is also known, somewhat unfortunately, for its miserable rain and cold weather, as most of its towns are situated between the *Osmo* mountain ranges which funnel in cold arctic air. 
+Eyri is known best for its cliffs, which watch over fjords and beaches pummelled by enormous Atlantic swells and icebergs. Along the coast the roar of the ocean can always be heard. Eyri is also known, somewhat unfortunately, for its miserable rain and cold weather, as most of its towns are situated between the *Osmo* mountain ranges which funnel in cold arctic air.
 
 <br>
 {{<columns>}}
