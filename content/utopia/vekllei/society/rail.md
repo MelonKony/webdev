@@ -232,26 +232,27 @@ The Mail retains a large and diverse fleet of vehicles in regular operations, wh
 
  The following table lists company vehicles relevant to regular postal service.
 
+ [^2]
+
 {{< details title="The National Rail Fleet" open=true >}}
-* **Vekllei National Rail**
+* **Vekllei National Rail A.r.R.**
   * **VNR Atlantic**
     * **Electric Multiple Units**
-      * Series 225 EMU
-      * 5,200 motorcycles *(mostly Local Electric Model 15 & Phantoms)*
-      * 2,400 bicycles
-      * 2,000 automatic vans
-      * 400 mail trucks
-      * 31 mail boats *(MBR)*
-      * 20 mail flying boats *(Model 54 "Fairie")*
-      * 16 mail helijets *(Model RM/Gisma & Record types)*
-      * 15 mail trains *(RM Series/Series 225 EMU)*
-      * 8 mail trams *(Series T6)*
-      * 2 mail space planes *(G.A. Type 1)*
-      * 2 mail ships *(RMS* Atlantic *&* Sunburst *)*
+      * 84-Series *War Rism*
+      * 84-Series *War Couismivouismah*
+      * 93-Series *War Disvi*
+      * 02-Series *War Lava*
+      * 45-Series *Visci*
+      * 49-Series *Cusmiosn*
+      * 56-Series *Mustard*
+      * 59-Series *Lesvesn*
+      * 64-Series *Vik*
     * **High Speed Rail**
     * **Special Trains**
+      * **Bureau Trains**
+        * 225-Series RM (64-Series *Vik*)
       * **Steam Trains**
-    * **Diesel Cars**
+    * **Diesel Multiple Units**
     * **Special Trains**
   * **VNR Overseas**
   {{< /details >}}
@@ -262,4 +263,4 @@ The Mail retains a large and diverse fleet of vehicles in regular operations, wh
 
 [^1]: *A.r.* is a shortening of *state requisite* (A.r., or requoisesiasn amourisocietie)
 
-[^2]: The *Labour Bank of Vekllei* (often called the *Government Bank*) is Vekllei's social bank, and each Vekllei person is entitled to an equal share of it.
+[^2]: Vekllei's 'war' prefix is used as a designation for pre-war railcars and locomotives, transliterated from the native word
