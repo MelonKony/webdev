@@ -1,6 +1,6 @@
 ---
 title: "A Universal Nostalgia"
-weight: 2
+weight: 1
 
 description: An essay on spatiality in the films of Studio Ghibli by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips
