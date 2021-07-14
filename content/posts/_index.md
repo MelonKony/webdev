@@ -2,7 +2,7 @@
 menu:
   after:
     name: Posts
-    weight: 1
+    weight: 11
 title: Posts
 bookHidden: true
 ---

@@ -16,4 +16,4 @@ This page lists snapshots produced for patrons.
 
 - [Polyester](/newsdesk/patreon/snapshots/polyester)
 - [The Cane](/newsdesk/patreon/snapshots/welts)
-
+- [Pyjamas](/newsdesk/patreon/snapshots/pyjamas)
