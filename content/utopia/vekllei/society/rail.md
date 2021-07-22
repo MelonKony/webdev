@@ -23,6 +23,9 @@ color: var(--color-orange);
 .markdown a:visited {
 color: var(--color-orange);
 }
+.gt-container {
+  display: none;
+}
 </style>
 
 <div id="headerbox">
@@ -46,7 +49,7 @@ A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](
 ## Overview
 
 {{< hint panel >}}
-***This article*** *discusses one of the most important and visible organisations in everyday Vekllei life: Vekllei National Rail. Vekllei is criss-crossed by hundreds of different rail lines of various gauges, grades, and purposes. In fact, it runs many lines at a total loss, often undercapacity. To understand these inefficiencies is to understand why the National Rail exists, and to some extent, how Vekllei's state assets and powerful bureaus shape life in the country today.*
+**This article** discusses one of the most important and visible organisations in everyday Vekllei life: Vekllei National Rail. Vekllei is criss-crossed by hundreds of different rail lines of various gauges, grades, and purposes. In fact, it runs many lines at a total loss, often undercapacity. To understand these inefficiencies is to understand why the National Rail exists, and to some extent, how Vekllei's state assets and powerful bureaus shape life in the country today.
 {{< /hint >}}
 
 <span class="fc">T</span>
@@ -169,7 +172,7 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 ![img](/images/hollywood.jpg)
 
 {{< hint panel >}}
-***Since most Vekllei people*** *catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.*
+**Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
 {{< /hint >}}
 
 Access to public transport is considered a "critical luxury" of the Vekllei state (the Vekllei turn-of-phrase for essential state services) and, by extension, the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei's public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.
@@ -178,7 +181,7 @@ Rail transport contributes tremendously to the national culture and common affec
 
 ### National Rail
 
-National rail access is generally provided directly by Vekllei National Railway A.r.R. through a branch office dependent on the location. The Home Islands are served by VNR Atlantic, whereas Kala is served  
+National rail access is generally provided directly by Vekllei National Railway A.r.R. through a branch office dependent on the location. The Home Islands are served by VNR Atlantic, whereas Kala is served
 
 ### Metropolitan Service & Subways
 
@@ -190,11 +193,11 @@ The Mail is best known overseas as the **World Post**, which offers services for
 
 ### Freight
 
-The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financial Services Bureau**. Although inaccessible within the country, savings can be withdrawn conditionally upon emigration, and the Mail offers easy access and financial counselling for Vekllei people. Through the Financial Services Bureau, the Mail also offers financial management to immigrant populations with wealth transfer (the phrase for banking of savings and prior income) and Overseas Accounting, commonly used to send money to family abroad.
+The **Labour Bank of Vekllei** is easily accessible via the Mail's **Financial Services Bureau**. Although inaccessible within the country, savings can be withdrawn conditionally upon emigration, and the Mail offers easy access and financial counselling for Vekllei people. Through the Financial Services Bureau, the Mail also offers financial management to immigrant populations with wealth transfer (the phrase for banking of savings and prior income) and Overseas Accounting, commonly used to send money to family abroad.
 
 ## Operations
 
-![img](/images/stationlogic.jpg)
+![smallimg](/images/stationlogic.jpg)
 
 {{< hint orange >}}
 ❖ Read more: *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
@@ -210,11 +213,7 @@ The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financi
 As is typical for critical bureaus in Vekllei, the Mail alleviates the stress of daily service through its dense, vertically-integrated infrastructure aided by automatic (automen vehicles) and permanent fixtures (pneumatic systems and automatic sorting/franking machines). It is precisely this commitment to infrastructure that makes the Mail so visible in daily life, and contributes to its ongoing legacy as Vekllei's oldest running government institution.
 
 ### Staff
-{{<columns>}}
-![img](/images/vnr.jpg)
-<--->
-![img](/images/postmistress.jpg)
-{{</columns>}}
+![smallimg](/images/vnr.jpg)
 
 The Mail employs 48,960 people full-time across its various offices, and nearly 200,000 automen in various roles. Although the Mail does retain a staff of postmen and couriers, most urban daily service is now provided by automatic vehicles and sorting, which account for nearly half of the total automen owned by the organisation. Instead, the majority of Mail employees are involved in the running of the organisation -- mostly as clerks, managers, and administrators. Around 10,000 postmen are employed by the Mail in daily delivery, called "posties". There are around 8,000 postal routes in the country.
 
@@ -228,11 +227,9 @@ There are 16,220 post boxes in Vekllei, which are iconic for their red and gold 
 ❖ Read more: *[The Fairie](/posts/2021-02-03-fairie/)*
 {{< /hint >}}
 
-The Mail retains a large and diverse fleet of vehicles in regular operations, which, due to their diversity and and expense, have become iconic around the world. From bicycles to space planes, the Mail's fleet of vehicles rivals in diversity postal services three times its size, largely benefitted by Vekllei's obfuscated budgeting system and cultural importance afforded to the organisation.
+VNR's fleet table is indicative of an organisation with a presence in many different places with many different services.
 
- The following table lists company vehicles relevant to regular postal service.
-
- [^2]
+The backbone of the contemporary Vekllei rail fleet is the Electric Multiple Units (EMUs), which are designated by their year of manufacture.[^1]
 
 {{< details title="The National Rail Fleet" open=true >}}
 * **Vekllei National Rail A.r.R.**
@@ -248,6 +245,7 @@ The Mail retains a large and diverse fleet of vehicles in regular operations, wh
       * 59-Series *Lesvesn*
       * 64-Series *Vik*
     * **High Speed Rail**
+      * 64-Series *Vik*
     * **Special Trains**
       * **Bureau Trains**
         * 225-Series RM (64-Series *Vik*)
@@ -261,6 +259,4 @@ The Mail retains a large and diverse fleet of vehicles in regular operations, wh
 
 ## Notes
 
-[^1]: *A.r.* is a shortening of *state requisite* (A.r., or requoisesiasn amourisocietie)
-
-[^2]: Vekllei's 'war' prefix is used as a designation for pre-war railcars and locomotives, transliterated from the native word
+[^1]: Vekllei's 'war' prefix is used as a designation for pre-war railcars and locomotives, transliterated from the native word for the Junta's society.

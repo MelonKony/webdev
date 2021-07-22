@@ -23,6 +23,9 @@ color: var(--color-orange);
 .markdown a:visited {
 color: var(--color-orange);
 }
+.gt-container {
+  display: none;
+}
 </style>
 
 <div id="headerbox">
@@ -46,7 +49,7 @@ A Series 225 EMU RM train used as a rail post office in rural Vekllei | *[Racing
 ## Overview
 
 {{< hint panel >}}
-***The Royal Mail of Vekllei*** *is perhaps the country's most visible organisation overseas. For many foreigners, Royal Mail aircraft may be the closest they ever come to seeing for themselves the mysterious Atlantic country. For Vekllei residents, the ancient organisation is a living relic of the country's ancient history, and an ongoing testament to the longevity of their people.*
+**The Royal Mail of Vekllei** is perhaps the country's most visible organisation overseas. For many foreigners, Royal Mail aircraft may be the closest they ever come to seeing for themselves the mysterious Atlantic country. For Vekllei residents, the ancient organisation is a living relic of the country's ancient history, and an ongoing testament to the longevity of their people.
 {{< /hint >}}
 
 <span class="fc">T</span>
@@ -137,7 +140,7 @@ The Mail has two offices of administration: the General Office and the Office of
 {{< /hint >}}
 
 {{< hint panel >}}
-***The Royal Mail*** *maintains a constitutionally-bound monopoly on all postage in the country, leaving it the sole provider of universal postage service in Vekllei. Like most State Requisites (A.r.), however, it has substantial international trade and foreign dealings that provide for its common description as a state-owned for-profit enterprise, or public corporation.*
+**The Royal Mail** maintains a constitutionally-bound monopoly on all postage in the country, leaving it the sole provider of universal postage service in Vekllei. Like most State Requisites (A.r.), however, it has substantial international trade and foreign dealings that provide for its common description as a state-owned for-profit enterprise, or public corporation.
 {{< /hint >}}
 
 **Universal service is**, by the glossary of the Mail, truly universal. As mandated by Vekllei law, the Mail provides delivery for all postage material anywhere in the world, or indeed, beyond it. It maintains 6,424 post offices across Vekllei, including its antarctic and peripheral possessions. The Mail's first Lunar Post Office opened in 2059. In addition to its domestic monopoly, the Mail contributes nearly VK❦2.6 trillion each year towards the Vekllei Government Securities Bureau (the country's sovereign wealth fund) through its international postage and courier services abroad, under the name World Post.
@@ -182,7 +185,7 @@ Outdoor view of the [Royal Mail's](/utopia/vekllei/society/mail/) stamp printing
 {{< /hint >}}
 
 {{< hint panel >}}
-***As a military organ***, *the Mail A.r. retains military ranks for its staff, commanded by a Postmaster General and aided by a civilian regulator designed to keep its critical service available to Vekllei people. The Mail's fleet includes dedicated jets, automatic trucks, mail trains, intercity pneumatic systems, vehicle automen, and postmen, all wearing the red and gold colours of the organisation. In total, the Mail delivers nearly 50 million pieces of mail during weekdays.*
+**As a military organ**, the Mail A.r. retains military ranks for its staff, commanded by a Postmaster General and aided by a civilian regulator designed to keep its critical service available to Vekllei people. The Mail's fleet includes dedicated jets, automatic trucks, mail trains, intercity pneumatic systems, vehicle automen, and postmen, all wearing the red and gold colours of the organisation. In total, the Mail delivers nearly 50 million pieces of mail during weekdays.
 {{< /hint >}}
 
 **It is evident** that the services assigned to the Mail by the postwar constitution are of critical importance to the stability of Vekllei society. In addition to being one of the oldest active postal organisations in the world, the Royal Mail of Vekllei is tremendously busy, since physical post has scarcely been displaced by the telephone in the country. Even without the Mail's international postage, domestic mail each day can exceed 12 million pieces -- enough for 1 in 2 people, though commercial mail and periodicals are included.

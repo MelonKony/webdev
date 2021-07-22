@@ -128,3 +128,37 @@ Zelda is another name for Tzipora. She has two names specifically to confuse you
 [Join the Discord](https://discord.gg/dCE6vSU).
 
 Be "petticoat".
+
+## Futher Reading
+
+If you're curious what sort of things go into a place like Vekllei, these are some of my favourite books. I've been asked about them before, so I've included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you're interested, [contact me](/newsdesk/about). I'll update this list periodically as more occur to me.
+
+{{<columns>}}
+{{<hint panel>}}
+### On the Origins of Modern Japanese Literature
+**Karatani Kojin** | 1993
+
+Karatani interrogates the appearance of Western conceptual artefacts (Landscape, The Child, Interiority) during the Meiji period in Japan. This book had a tremendous impact on my assumptions about the world and affected Vekllei tremendously.
+{{</hint>}}
+
+{{<hint panel>}}
+### Starting Point *&* Turning Point
+**Miyazaki Hayao** | 2009 & 2014
+
+These books are essentially a compilation of essays from Miyazaki's years as a filmmaker. He's an incredibly smart and insightful creative force whose work [I have written at length about](/newsdesk/essays/ghibli) before. For me, it's all really powerful, affecting stuff.
+{{</hint>}}
+<--->
+{{<hint panel>}}
+### Three Faces of Utopianism Revisited
+**Lyman Sargent** | 1994
+
+This is the defining taxonomical look at the phenomena of utopianism and how it works. His breakdown of 'utopia' into both dystopian and eutopian elements is also my preffered descriptor and use of 'utopia' as a concept.
+{{</hint>}}
+
+{{<hint panel>}}
+### Towards a New Architecture
+**Le Corbusier** | 1936
+
+Vekllei is a postmodern mess, but also deeply sympathetic to the modernist instinct. I like the utopianism of the 20th Century, and Le Corbusier typifies that 'utopian' futurism we saw in that period. I like how single-minded he is about it. His buildings remain beautiful, many years on.
+{{</hint>}}
+{{</columns>}}

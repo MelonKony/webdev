@@ -235,7 +235,7 @@ The borough of Lava, part of Vekllei's dense, residential satellite belt | *[Mom
 
 Trade and materials are provided by biosynthetic robotics infrastructure and participatory work, and is supplemented in places by mandatory military service. Vekllei people enjoy a high standard of living and access to most consumer goods.
 
-Postwar Vekllei economics champions free association, home-ownership and informal markets. Although microeconomically Vekllei is highly liberalised, most essential goods of the country are produced in vertically integrated in labour-union *Bureaus*, which, although representative of private companies and independent from the government, are associated with the general political processes of the country.  
+Postwar Vekllei economics champions free association, home-ownership and informal markets. Although microeconomically Vekllei is highly liberalised, most essential goods of the country are produced in vertically integrated in labour-union *Bureaus*, which, although representative of private companies and independent from the government, are associated with the general political processes of the country.
 
 *Bureaus* (also *Bureaus Proper*, as distinguished from informal *Petty Bureaus*) are trade unions that organise business in the country, and the largest of them include thousands of individual companies and concerns. Companies are generally cooperative enterprises in Vekllei, and so worker votes are consolidated into "Company Ballots" used to influence political affairs within a *Bureau* and the country at large.
 
@@ -305,7 +305,7 @@ Vekllei sponsors tourism abroad via the Social Government Bank, which allows Vek
 **The story of Vekllei** is a story of rebirth, and no better is this revealed than in the country's cultural *Aliyah* after the Atomic War. Vekllei is an ancient place rediscovering itself and its people, and in the rapid development of the postwar Floral Period there are novel shifts in how Vekllei people talk, behave, and look.
 {{< /hint >}}
 
-Vekllei has one of the highest population densities in the world, skewed largely by the populous Capital Region. Vekllei considers itself a city-state, and to this end fosters "commonhoods", represented by *common practice*, *common work* and *common landscape*. Although Vekllei has been settled for thousands of years, postwar advocation of *commonhoods* emphasises *landscape* in place of the historic *blood* in wake of Vekllei's growing migrant population and multiculturalism. Nearly 30% of Vekllei people were born overseas, though this number is trending down as immigration quotas (set by emigration) restrict inflow in recent decades.
+Vekllei has one of the highest population densities in the world, skewed largely by the populous Capital Region. Vekllei considers itself a city-state, and to this end fosters "commonhoods", represented by *common practice*, *common work* and *common landscape*. Although Vekllei has been settled for thousands of years, postwar advocation of *commonhoods* emphasises *landscape* in place of the historic *blood* in wake of Vekllei's growing migrant population and multiculturalism. Nearly 30% of Vekllei people were born overseas, though this number is trending down as immigration quotas (set by emigration and housing availability) restrict inflow in recent decades.
 
 Vekllei is experiencing a slight demographic trend towards an older population, and the average age of the country stands at 35 years old.
 

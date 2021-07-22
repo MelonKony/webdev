@@ -89,7 +89,7 @@ Yana is an agricultural borough typical of the western Lava Region, but its larg
 
 ### Yana Lakehouse
 
-The *Yana Ouismaindesdenya* (Yana Care Home) is a facility run by the *War Bureau of the Vekllei Commonwealth Armed Forces* to rehabilitate and care for veterans returning home from combat. It arranges for both long-term and short-term programmes designed to reintroduce soldiers to civilian life. Some 750 people live on-site for anywhere between six months to five years where they take classes, receive treatment and therapy, and go on excursions throughout the Yana region.
+The *Yana loh Ouismaindesdenya* (Yana Care Home) is a facility run by the *War Bureau of the Royal Commonwealth Armed Forces* to rehabilitate and care for veterans returning home from combat. It arranges for both long-term and short-term programmes designed to reintroduce soldiers to civilian life. Some 750 people live on-site for anywhere between six months to five years where they take classes, receive treatment and therapy, and go on excursions throughout the Yana region.
 
 ### Yana Thunderburo Geothermal Research Plant
 

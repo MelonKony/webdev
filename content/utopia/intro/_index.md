@@ -39,7 +39,7 @@ color: var(--color-red);
     padding: 0;
     background-color: transparent;
   }
-  
+
 .column {
   flex: 33.33%;
   padding: 5px;
@@ -64,19 +64,28 @@ color: var(--color-red);
 {{< hint red >}}
 ߷ This article is about [**Hobart's utopia**](/utopia/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
-## What is this project?
 
+## What is this project?
+{{<columns>}}
 <blockquote><i>So this is Utopia,<br />
 Is it? Well — <br />
 I beg your pardon;<br />
 I thought it was Hell.</i></blockquote>
 
--- Max Beerbohm[^1]
+-- Max Beerbohm
+<--->
+{{< hint panel >}}
+#### Quick Links
+1. [What is this project?](/utopia/intro/#what-is-this-project)
+2. [What is Vekllei?](/utopia/intro/#what-is-vekllei)
+3. [Frequently Asked Questions](/utopia/intro/faq/)
+{{< /hint >}}
+{{</columns>}}
 
 <span class="fc">M</span>
-**y stories are about good places and people**. That's the gist of it. [Vekllei](/utopia/vekllei/) is a fictional country where I demonstrate good things by drawing and writing about them. It's part-escapism, part-fantasy, and all good. 
+**y stories are about good places and people**. That's the gist of it. [Vekllei](/utopia/vekllei/) is a fictional country where I demonstrate good things by drawing and writing about them. It's part-escapism, part-fantasy, and all good.
 
-This website is a comprehensive archive and portal to everything I do. 
+This website is a comprehensive archive and portal to everything I do.
 
 * **Utopia** is for everything related to Vekllei, its world, and characters
 * **Newsdesk** is for everything outside of it
@@ -92,17 +101,17 @@ Just a few things to keep in mind:
 * This place is **good-spirited** -- Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be escapist and fun.
 * This place is **constantly expanding** -- I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don't. That's part of the fun of it!
 
-![smallimg](/images/women.jpg)
+![img](/images/orange.jpg)
 
-## Three Utopias
+### Three Utopias
 
 {{< hint red >}}
-߷ Check out the [**FAQ**](/utopia/intro/faq)
+❖ Check out the [**FAQ**](/utopia/intro/faq)
 {{< /hint >}}
 
 > *I define the broad, general phenomenon of utopianism as social dreaming -- the dreams and nightmares that concern the ways in which groups of people arrange their lives and which usually envision a radically different society than the one in which the dreamers live. But not all are radical, for some people at any time dream of something basically familiar.*
 
--- Lyman Sargent[^2]
+-- Lyman Sargent[^1]
 
 This project has three parts. Each part is a little utopia, in the sense that it's a dream of some kind, but they're not quite the same.
 
@@ -110,7 +119,14 @@ This project has three parts. Each part is a little utopia, in the sense that it
 2. **Utopia as Character** -- the people of Vekllei, as they represent, interrogate, and soothe aspects of myself and others.
 3. **Utopia as Author** -- me, and my motivations, failings, and journey as a storyteller and illustrator.
 
-## Futher Reading
+## What is Vekllei?
+
+{{< hint red >}}
+❖ Main article: [*Vekllei*](/utopia/vekllei)
+{{< /hint >}}
+
+<span class="fc">V</span>
+**ekllei** (pronounced '**Veck-lie**,' or **/vƐk.laɪ/**) is an island country set in what we know as *Iceland*. Vekllei is its own country, and does not look or feel like Iceland. It has unique cultures, ethnicites, and landscapes. It is an old country, having been settled for thousands of years by native Algic peoples and Scandinavians. It is also a new county, having suffered a nuclear attack at the beginning of the 21st Century which extinguished much of its old civil society.
 
 <div class="row">
 <div class="column">
@@ -135,40 +151,19 @@ This project has three parts. Each part is a little utopia, in the sense that it
 <img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 </div>
-
-If you're curious what sort of things go into a place like Vekllei, these are some of my favourite books. I've been asked about them before, so I've included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you're interested, [contact me](/newsdesk/about). I'll update this list periodically as more occur to me.
-
-{{<columns>}}
-{{<hint panel>}}
-### On the Origins of Modern Japanese Literature
-**Karatani Kojin** | 1993
-
-Karatani interrogates the appearance of Western conceptual artefacts (Landscape, The Child, Interiority) during the Meiji period in Japan. This book had a tremendous impact on my assumptions about the world and affected Vekllei tremendously.
+{{< hint caption >}}
+The flags of [Vekllei's independent territories](/utopia/vekllei/#administrative-divisions).
 {{</hint>}}
 
-{{<hint panel>}}
-### Starting Point *&* Turning Point
-**Miyazaki Hayao** | 2009 & 2014
+By the mid-21st century, Vekllei has become a remarkable place. Quality of life is excellent and living there is unlike living anywhere else on Earth. The country is an ambitious expression of alternate modes of thinking, visible in every aspect of society, from its bizarre moneyless economy to its complicated cultural and religious metaphysics.
 
-These books are essentially a compilation of essays from Miyazaki's years as a filmmaker. He's an incredibly smart and insightful creative force whose work [I have written at length about](/newsdesk/essays/ghibli) before. For me, it's all really powerful, affecting stuff.
-{{</hint>}}
-<--->
-{{<hint panel>}}
-### Three Faces of Utopianism Revisited
-**Lyman Sargent** | 1994
+Quick facts about Vekllei and the state of the world in the mid-21st Century.
 
-This is the defining taxonomical look at the phenomena of utopianism and how it works. His breakdown of 'utopia' into both dystopian and eutopian elements is also my preffered descriptor and use of 'utopia' as a concept.
-{{</hint>}}
-
-{{<hint panel>}}
-### Towards a New Architecture
-**Le Corbusier** | 1936
-
-Vekllei is a postmodern mess, but also deeply sympathetic to the modernist instinct. I like the utopianism of the 20th Century, and Le Corbusier typifies that 'utopian' futurism we saw in that period. I like how single-minded he is about it. His buildings remain beautiful, many years on.
-{{</hint>}}
-{{</columns>}}
+* Vekllei takes place in a fictional retrofuture, where some technologies have advanced in different ways. Most computers in Vekllei are centralised as manufactured wetware, connected to via terminals. In this sense, they are both more and less advanced than contemporary personal computing. In other technologies, like aerospace, the world is undeniably more advanced.
+* Vekllei's future retains the cold war from the previous century. The U.S.S.R. stiill exists, as do emerging political divisions across Europe, Africa, South America and Asia.
+* Vekllei's future remains heavily influenced by midcentury modernist styles.
+* Although Vekllei's unique history has influenced its region for thousands of years, most major diversions from our own timeline occur shortly after the Second World War.
 
 ## Notes
 
-[^1]: I've searched far and wide for a direct citation for Beerbohm here, but no one seems to be able to find its original printing. If you find it, [let me know](/newsdesk/about)!
-[^2]: Sargent, L.T., 1994. The Three Faces of Utopianism Revisited. *Utopian studies*, 5(1), p.3.
+[^1]: Sargent, L.T., 1994. The Three Faces of Utopianism Revisited. *Utopian studies*, 5(1), p.3.

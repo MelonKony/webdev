@@ -81,7 +81,7 @@ The borough is now a major contributor of lamb towards Vekllei's food pool, and 
 
 Miyatvousi is sparsely populated and highly volcanic, and the majority of its land-area is characterised by flower-tundras, geysers, steam pools and other geological phenomena. Its largest settlements are in the east of the borough, with its west dominated by the Miyatvouosi-Lavavik Crown Lands.
 
-Miyatvousi's Gismavik Dome is one of the largest dormant volcanoes in Vekllei, and is constantly monitored by the Volcanoes Bureau and Geological Survey for shifts in volcanic activity. The size of its magma pool is of serious concern, since an eruption would be catastrophic the greater Miyatvousi/Groisniyah area.
+Miyatvousi's Gismavik Dome is one of the largest dormant volcanoes in Vekllei, and is constantly monitored by the Volcanoes Bureau and Geological Survey for shifts in volcanic activity. The size of its magma pool is of serious concern, since an eruption would be catastrophic to the greater Miyatvousi/Groisniyah area.
 
 ### Miyatvousi Mirror-Pools
 

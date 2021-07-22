@@ -77,6 +77,10 @@ body {
 	}
 }
 
+.book-header strong {
+    display: none;
+}
+
 .markdown .book-columns > div {
     min-width: 336px;
 }
@@ -84,10 +88,6 @@ body {
 .book-menu nav {
 	padding: 2rem 1rem 2rem 2rem!important;
 	position: static;
-}
-
-.book-header strong {
-  display: none;
 }
 
 .book-footer{
