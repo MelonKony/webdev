@@ -33,7 +33,7 @@ color: var(--color-blue);
 <h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint blue >}}
-**❖ Note from the Editor**  
+**❖ Note from the Editor**
 This thesis was completed in partial fulfillment of Honours in a Bachelor of Media. It remains a good testament to my love of Ghibli. It was **originally submitted** in **October 2020** and **published** in **December 2020**.
 {{< /hint >}}
 
@@ -44,12 +44,14 @@ This thesis was completed in partial fulfillment of Honours in a Bachelor of Med
 ## Abstract
 
 {{<hint panel>}}
+<div style="color: var(--body-font-color)">
 <span class="fc">T</span>
-**his thesis** looks to argue for the value of spatiality in several films of the Studio Ghibli franchise in Japan. Literary space, much like the cartography of the real world, helps map meaning and locate the human body in the contemporary, postmodern displacement of old constructions. In this sense, there is a functional analogy in the physical map of a town, in which a reader is able to orient themselves and locate features of note around them. So too do the spaces of film provide functional markers of value, language, behaviour, style and story against space, recalling spatiotemporality as a vessel for each of them.
+his thesis looks to argue for the value of spatiality in several films of the Studio Ghibli franchise in Japan. Literary space, much like the cartography of the real world, helps map meaning and locate the human body in the contemporary, postmodern displacement of old constructions. In this sense, there is a functional analogy in the physical map of a town, in which a reader is able to orient themselves and locate features of note around them. So too do the spaces of film provide functional markers of value, language, behaviour, style and story against space, recalling spatiotemporality as a vessel for each of them.
 
 If all films are spatial, then many of Ghibli’s films are often utopian spaces. This is found within and without traditional utopian study — there are exemplary glimpses of pastoral, elegant *utopia* in *My Neighbour Totoro* (Tonari no Totoro, 1988), replicated in whimsy in other Miyazaki works like *Kiki’s Delivery Service* (Majo no Takkyūbin, 1989). There are however, more complicated utopias in the Ghibli catalogue that stray from orthodox imagination. Relevant to media inquiry, there are what this thesis recognises as *utopias-by-appropriation* in which the painterly depictions of urban Tokyo in *Whisper of the Heart* (Mimi o Sumaseba, 1995) or the beautiful illustrations of agrarian whimsy in *Only Yesterday* (Omoide Poro Poro, 1991) are decontextualised abroad and suspended in a traditional *utopian* ‘no-place’, where they are reinterpreted and rebuilt as fantasy. So it is that the real-world apartments of Tama Hills and the fields of Yamagata can become fictitious, spatial utopias.
 
 And so, there are two questions of interest here. First, there is the question of employing the ‘spatial turn’ of textual analysis to Ghibli films, and whether this literary framework provides value in animation. Then, there is the question of how utopia-spaces manifest in Ghibli’s catalogue of films, and how the physical heritage and landscape of cinema is misplaced and then emerges anew in fantasy form for foreign (in the scope of this study, Western) audiences, where such works remain popular, thus manufacturing utopias where, perhaps, none exist in Japan.
+</div>
 {{</hint>}}
 
 ## Introduction
@@ -186,7 +188,7 @@ here is perhaps no finer testament to the specialness of the films of Studio Ghi
 
 *Only Yesterday* introduces Tokyo office worker Taeko, a woman in her late twenties about to embark for the countryside, where she explains to a friend that she’ll “visit family,” — in reality, though a tenuous familial connection exists, Taeko uses her time in the rural countryside to get away from city life and participate in the safflower harvests in Yamagata. On the train ride there, she finds herself surrounded by memories of childhood. After her arrival in Yamagata, she is picked up by a second cousin of an in-law, Toshio, with whom she is barely acquainted. Her displacement and sudden nostalgia allow bitter questions to emerge — at 27 years old, has Taeko been true to the dreams of her 10-year-old self? What would her childhood self think of her now? As she participates in rural life, and learns more about Toshio, the film pirouettes between self-contained scenes and images of her childhood and the present, sometimes contrasting them, sometimes merely observing a memory. A tapestry of topics — travel, school, puberty, menstruation, puppy love, family and dreams are recalled in lyrical glimpses of the past, some of which caused distributors to regard the film as “undubbable” (i.e., redistribute the film with the characters speaking English, performed by an English cast). Producer Geoffrey Wexler observed:
 
->“When I joined Ghibli and I talked to them I said, “Are you guys ever going to release this?” and they said, “We can’t release it.” I said, "Can it have it back then?" and they said, ”Yes.” I think the discussion of the girls having their periods may have been a problem. A lot of people squirm about that in North America, but in other countries they don’t. It wasn’t a problem in some countries. I think also the pacing was hard for North America” (Aguilar, 2016).  
+>“When I joined Ghibli and I talked to them I said, “Are you guys ever going to release this?” and they said, “We can’t release it.” I said, "Can it have it back then?" and they said, ”Yes.” I think the discussion of the girls having their periods may have been a problem. A lot of people squirm about that in North America, but in other countries they don’t. It wasn’t a problem in some countries. I think also the pacing was hard for North America” (Aguilar, 2016).
 
 ![img](/images/media/yesterday-1.png)
 {{< hint caption >}}
@@ -428,7 +430,7 @@ Schilling, M., 1997. 'Miyazaki Hayao and Studio Ghibli, the animation hit factor
 
 Schipperges Tjus, E., 2018. ‘Pacifism in the animated films of Miyazaki Hayao. Bachelor’s Thesis’, Stockholm University, Stockholm.
 
-Tally, R.T., 2013. *Spatiality*. Vancouver: Routledge. 	
+Tally, R.T., 2013. *Spatiality*. Vancouver: Routledge.
 
 ‘The Animerica Interview: Takahata and Nosaka: Two Grave Voices in Animation’, 1994. *Animerica*. Viz Media. 2 (11): pp. 7-8.
 

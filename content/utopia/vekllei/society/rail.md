@@ -1,27 +1,25 @@
 ---
 title: Railways
 weight: 2
-description: The rail network of Vekllei, a utopia created by Hobart Phillips.
-bookHidden: true
-bookSearchExclude: true
+description: The railways of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
 .markdown a {
-color: var(--color-orange);
+color: #FF564F;
 }
 .markdown a.anchor {
-color: var(--color-orange);
+color: #FF564F;
 }
 aside nav ul a {
-color: var(--color-orange);
+color: #FF564F;
 }
 #headerbox .emoji {
-color: var(--color-orange);
+color: #FF564F;
 }
 .markdown a:visited {
-color: var(--color-orange);
+color: #FF564F;
 }
 .gt-container {
   display: none;
@@ -33,16 +31,16 @@ color: var(--color-orange);
   <h1 class="emoji" id="whirlybat">-train</h1>
 </div>
 
-<h5 span class="tag orange"> SOCIETY </h5>
+<h5 span class="tag vnr"> SOCIETY </h5>
 <h6 span class="sitetag">Article</h6>
 
 ![img](/images/orange.jpg)
 {{< hint caption >}}
-A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
+A Mustard 56-Series EMU passes through the borough of [Troll](/utopia/vekllei/landscape/boroughs/troll/) | *[VNR Orange](/posts/2021-06-03-orange/)*
 {{</hint>}}
 
 
-{{< hint orange >}}
+{{< hint vnr >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
 {{< /hint >}}
 
@@ -170,6 +168,9 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 ## Service
 
 ![img](/images/hollywood.jpg)
+{{< hint caption >}}
+A Mustard 56-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
+{{</hint>}}
 
 {{< hint panel >}}
 **Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
@@ -177,85 +178,69 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 
 Access to public transport is considered a "critical luxury" of the Vekllei state (the Vekllei turn-of-phrase for essential state services) and, by extension, the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei's public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.
 
-Rail transport contributes tremendously to the national culture and common affection for Vekllei's public institutions. About 15 million people per day use VNR to access
+Rail transport contributes tremendously to the national culture and common affection for Vekllei's public institutions. It is also commonly percieved as a triumph of the postwar floral Period, despite rail history in Vekllei dating back hundreds of years prior. The ongoing expansion of the VNR network and renovation of stations and railhubs commands attention internationally, which is watching Vekllei celebrate its golden age of rail.
 
 ### National Rail
 
-National rail access is generally provided directly by Vekllei National Railway A.r.R. through a branch office dependent on the location. The Home Islands are served by VNR Atlantic, whereas Kala is served
+National rail access is generally provided directly by Vekllei National Railway A.r.R. through a branch office dependent on the location. The Home Islands are served by VNR Atlantic, whereas Kala is served by VNR Overseas. The Home Islands house thousands of rural villages outside of urban metropolitan service, and Vekllei's dependence on rail transportatiion demands their inclusion in the VNR network. As such, almost every village in Vekllei has a rail line or interurban tramway, and villages as small as 20 persons see daily service to the capital.
 
 ### Metropolitan Service & Subways
 
-Special, commercial and industrial postage is managed within the **Postal Service Bureau** through special sorting facilities and a dedicated postal network. Regular business postage is funnelled through regular daily service, but hazardous, oversized and dangerous goods are accepted by special Post Offices designed to accept them. The Mail does not provide special services for regular residential or courier delivery.
+The majority of VNR's ~10,000 trains per day run in metro or subway services throughout Vekllei urban and interurban routes. These lines are primarily serviced by the EMU workhorses of the VNR fleet, particularly 56 and 59-Series trainsets. In urban centers, VNR service is frequent enough to be unscheduled, with trains arriving every other minute or so.
+
+The majority of Vekllei's underground metro network has been automated by Automatic Train Control, an industrial automan system that allows for driverless trains. Although still serviced by VNR platform staff with training to stop the train in emergencies, Vekllei's automatic metros are otherwise entirely driverless. VNR Overseas metros in Kala and the Kalina Isles retain drivers.
 
 ### Tramways
 
-The Mail is best known overseas as the **World Post**, which offers services for foreign clients and has established itself as one of the Big Four international transnational courier services in the world today. Similar to domestic postal systems in other countries, the World Post offers flat rates for delivery anywhere in the world, priced according to size and weight. In addition, sister company **Universal Express** offers next-day weekday delivery in certain markets. Most employees of the World Post and Universal Express are foreign workers banking labour-hours for immigration to Vekllei. Unlike domestic service, the World Post and Universal Express use private courier contracts extensively to fulfil orders.
+Vekllei operates a variety of trams and streetcars, including double-decker street-level units in the capital region and so-called "fast trams" (inter-urban cars) outside of the cities. Depending on the make and route of the tramway, they may be grade-seperated or integrated into streets.
 
 ### Freight
 
-The **Labour Bank of Vekllei** is easily accessible via the Mail's **Financial Services Bureau**. Although inaccessible within the country, savings can be withdrawn conditionally upon emigration, and the Mail offers easy access and financial counselling for Vekllei people. Through the Financial Services Bureau, the Mail also offers financial management to immigrant populations with wealth transfer (the phrase for banking of savings and prior income) and Overseas Accounting, commonly used to send money to family abroad.
+VNR's main freight lines run mostly on a seperate gauge and network, and are composed of several companies that operate regionally across a variety of locomotive types and industries. These include traditional freight locomotives and long/short cars, as well as freight trams and wagons used to transport goods around and between factories.
 
 ## Operations
 
 ![smallimg](/images/stationlogic.jpg)
 
-{{< hint orange >}}
-❖ Read more: *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
+{{< hint vnr >}}
+❖ Read more: *[Station Logic](/posts/2021-06-01-station-logic/)*
 {{< /hint >}}
 
 {{< hint panel >}}
-**As a military organ**, the Mail A.r. retains military ranks for its staff, commanded by a Postmaster General and aided by a civilian regulator designed to keep its critical service available to Vekllei people. The Mail's fleet includes dedicated jets, automatic trucks, mail trains, intercity pneumatic systems, vehicle automen, and postmen, all wearing the red and gold colours of the organisation. In total, the Mail delivers nearly 50 million pieces of mail during weekdays.
+**VNR** is typical of a 'great Vekllei bureau' -- it instills national pride, is well-run and maintained, and loses tremendous amounts of money. It is the crown jewel of Vekllei's insolvent organs, whose thin profit margins and charming inefficiencies are tolerated and even encouraged in this society which subsidises social benefit above all else.
 {{< /hint >}}
 
-<span class="fc">I</span>
-**t is evident** that the services assigned to the Mail by the postwar constitution are of critical importance to the stability of Vekllei society. In addition to being one of the oldest active postal organisations in the world, the Royal Mail of Vekllei is tremendously busy, since physical post has scarcely been displaced by the telephone in the country. Even without the Mail's international postage, domestic mail each day can exceed 12 million pieces -- enough for 1 in 2 people, though commercial mail and periodicals are included.
+Nearly 17 million people per day commute via VNR's networks each day, making up a majority of the Vekllei population. In this sense, VNR's quality of operations affects the Vekllei person more than the quality of their government. In addition to commuter service, VNR automatic freight transit systems are the lifeblood of all industry and commerce in the country, and are regulated directly as a state requisite for their critical importance to the functioning of Vekllei society.
 
-As is typical for critical bureaus in Vekllei, the Mail alleviates the stress of daily service through its dense, vertically-integrated infrastructure aided by automatic (automen vehicles) and permanent fixtures (pneumatic systems and automatic sorting/franking machines). It is precisely this commitment to infrastructure that makes the Mail so visible in daily life, and contributes to its ongoing legacy as Vekllei's oldest running government institution.
+VNR operates 2,114 stations across the Home Islands, which vary from uncovered concrete platforms to tremendous terminus complexes that cover multiple city blocks. The largest station in the country, Vekllei Central, sees over 1 million people per day pass through its gates.
+
+Vekllei's stations are well-regarded for the beauty and decoration overseas. As part of the Millenia Rail campaign in the mid-21st Century, VNR initiated a dramatic overhaul of its passenger infrastructure, restoring heritage-listed station interiors and renovating much of the early postwar metro construction with murals, new lighting, enlarged caverns and shafts, and improved safety features. The cleanliness and safety of Vekllei National Railway is a great point of pride in the country, and in part justifies VNR's tremendous fiscal losses in daily operation.
+
+VNR services are mostly unticketed, and as a Vekllei industry, are free to ride.
 
 ### Staff
 ![smallimg](/images/vnr.jpg)
 
-The Mail employs 48,960 people full-time across its various offices, and nearly 200,000 automen in various roles. Although the Mail does retain a staff of postmen and couriers, most urban daily service is now provided by automatic vehicles and sorting, which account for nearly half of the total automen owned by the organisation. Instead, the majority of Mail employees are involved in the running of the organisation -- mostly as clerks, managers, and administrators. Around 10,000 postmen are employed by the Mail in daily delivery, called "posties". There are around 8,000 postal routes in the country.
+{{< hint vnr >}}
+❖ Read more: *[The People of Vekllei National Rail](/posts/2021-04-25-rail/)*
+{{< /hint >}}
 
-Although at first glance the number of automen dramatically exceeds demand, the total count is misleading -- most automen with the Mail are integrated into the infrastructure of its sorting centres and post offices, and very few are traditionally autonomous robots commonly seen in public in Vekllei. Only about 8,000 automen are employed in physical mail delivery.
+VNR employs 65,240 people, which include roles ranging from locomotive engineers and platform staff to editors of rail enthusiast periodicals. It is also one of the largest employers of 12-16 year olds in the country, via its Station Apprentice programme, unique among organisations of its size.
 
-There are 16,220 post boxes in Vekllei, which are iconic for their red and gold paint and intricate detailing.
+The organisation is administered by the President of the Rail Central Office, which is responsible to the Transport Requisite and the Palace of Rail. VNR has a close relationship with bureau and petty-bureau coachbuilders, and wields considerable power in Vekllei's heavy industries as a major manufacturing partner.
+
 
 ### Fleet
 
-{{< hint orange >}}
-❖ Read more: *[The Fairie](/posts/2021-02-03-fairie/)*
+{{< hint vnr >}}
+❖ Download the [VNR Rolling Stock List (PDF)](/files/factbook/VNR-Rolling-Stock-Bulletin.pdf)
 {{< /hint >}}
 
-VNR's fleet table is indicative of an organisation with a presence in many different places with many different services.
+Vekllei National Rail is perhaps unsurpassed in its variety of trainsets and their length of service. An unofficial policy of preservation has ensured that every unit type since the 1980s has seen an ongoing minor presence in current service. VNR rarely retires a trainset completely -- in keeping with the contemporary cultural-political valuation of machines, a few units of each model are retained on various lines for their historical and technical significance. This includes steam locomotives, which continue to operate regular passengers service on some routes.
 
-The backbone of the contemporary Vekllei rail fleet is the Electric Multiple Units (EMUs), which are designated by their year of manufacture.[^1]
+The backbone of the contemporary Vekllei rail fleet is the Electric Multiple Units (EMUs), which are designated by their year of manufacture.[^1] In particular, the 56 and 59-Series trainsets make up the majority of EMUs in service today, as they exclusively populate primary commuter lines in Vekllei's southwest. VNR also retains Diesel Multiple Units (DMUs) in its long-haul cold-weather routes, particularly in the Afouisneh region and Kala.
 
-{{< details title="The National Rail Fleet" open=true >}}
-* **Vekllei National Rail A.r.R.**
-  * **VNR Atlantic**
-    * **Electric Multiple Units**
-      * 84-Series *War Rism*
-      * 84-Series *War Couismivouismah*
-      * 93-Series *War Disvi*
-      * 02-Series *War Lava*
-      * 45-Series *Visci*
-      * 49-Series *Cusmiosn*
-      * 56-Series *Mustard*
-      * 59-Series *Lesvesn*
-      * 64-Series *Vik*
-    * **High Speed Rail**
-      * 64-Series *Vik*
-    * **Special Trains**
-      * **Bureau Trains**
-        * 225-Series RM (64-Series *Vik*)
-      * **Steam Trains**
-    * **Diesel Multiple Units**
-    * **Special Trains**
-  * **VNR Overseas**
-  {{< /details >}}
-
-### Livery
+VNR pioneered super-conductive maglev transport for mass consumption, and its SC3 trainsets are the fastest in regular service in the world today, reaching nearly 750km/h in places. Its slowest locomotive, the T400 2-6-2 steam locomotive *Small Movements* built in 1928, averages just 30km/h on its tourist route in rural Krafla. VNR is also experimenting with nuclear-powered trainsets, but none have so far entered public testing.
 
 ## Notes
 

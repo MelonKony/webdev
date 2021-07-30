@@ -9,19 +9,19 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ---
 <style>
 .markdown a {
-color: var(--color-orange);
+color: #BA1D37;
 }
 .markdown a.anchor {
-color: var(--color-orange);
+color: #BA1D37;
 }
 aside nav ul a {
-color: var(--color-orange);
+color: #BA1D37;
 }
 #headerbox .emoji {
-color: var(--color-orange);
+color: #BA1D37;
 }
 .markdown a:visited {
-color: var(--color-orange);
+color: #BA1D37;
 }
 .gt-container {
   display: none;
@@ -33,7 +33,7 @@ color: var(--color-orange);
   <h1 class="emoji" id="whirlybat">-stamp</h1>
 </div>
 
-<h5 span class="tag orange"> SOCIETY </h5>
+<h5 span class="tag mail"> SOCIETY </h5>
 <h6 span class="sitetag">Article</h6>
 
 ![img](/images/mailtrain.jpg)
@@ -42,7 +42,7 @@ A Series 225 EMU RM train used as a rail post office in rural Vekllei | *[Racing
 {{</hint>}}
 
 
-{{< hint orange >}}
+{{< hint mail >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
 {{< /hint >}}
 
@@ -64,7 +64,7 @@ Vekllei is also home to the U.N. Universal Postal Union, the body responsible fo
 An MS Model 54-2 "Fairie," used to deliver mail to Vekllei's islands and islets | *[The Fairie](/posts/2021-02-03-fairie/)*
 {{</hint>}}
 
-{{< hint orange >}}
+{{< hint mail >}}
 ❖ Read more: *[Post is for People](/posts/2021-02-22-pond/)*
 {{< /hint >}}
 
@@ -76,7 +76,7 @@ Like most Royal Bureaus, the Mail is headquartered in Vekllei's capital across a
 
 ### History
 
-{{< hint orange >}}
+{{< hint mail >}}
 ❖ Read more: *[The Men and Women of the Royal Mail in Vekllei](/posts/2021-02-01-mail/)*
 {{< /hint >}}
 
@@ -90,7 +90,7 @@ The Mail was reestablished in 2015, during Vekllei independence. It was afforded
 
 ### Structure
 
-{{< hint orange >}}
+{{< hint mail >}}
 ❖ Read more: *[The Postmistress of Vekllei](/posts/2021-02-02-postmistress/)*
 {{< /hint >}}
 
@@ -135,7 +135,7 @@ The Mail has two offices of administration: the General Office and the Office of
 [Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) arranges some of her favourite Vekllei stamps | *[Philately Foolery](/posts/2021-02-16-stamps/)*
 {{</hint>}}
 
-{{< hint orange >}}
+{{< hint mail >}}
 ❖ Read more: *[Philately Foolery](/posts/2021-02-16-stamps/)*
 {{< /hint >}}
 
@@ -149,7 +149,7 @@ Since the Mail's Office of Telecommunications is also responsible for all teleph
 
 ### Daily Service
 
-{{< hint orange >}}
+{{< hint mail >}}
 ❖ Read more: *[Racing the Post Office to the Station](/posts/2021-02-05-mailtrain/)*
 {{< /hint >}}
 
@@ -180,7 +180,7 @@ The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financi
 Outdoor view of the [Royal Mail's](/utopia/vekllei/society/mail/) stamp printing complex. | *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
 {{</hint>}}
 
-{{< hint orange >}}
+{{< hint mail >}}
 ❖ Read more: *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
 {{< /hint >}}
 
@@ -207,7 +207,7 @@ There are 16,220 post boxes in Vekllei, which are iconic for their red and gold 
 
 ### Fleet
 
-{{< hint orange >}}
+{{< hint mail >}}
 ❖ Read more: *[The Fairie](/posts/2021-02-03-fairie/)*
 {{< /hint >}}
 

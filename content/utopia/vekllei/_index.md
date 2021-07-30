@@ -66,7 +66,9 @@ An ICBM of the Vekllei Missile Rocketry Corps launches outside of Montre-Lola, a
 <span class="fc">V</span>
 **ekllei** (also *The Vekllei Commonwealth*, *Islandi*, *Iceland*) is a sovereign island country situated in the northern Atlantic, between Greenland and the Faroe Islands. Besides the 100 boroughs of the conterminous Vekllei city-state (referred to as the *Home Island* or *Crown Metropole*), Vekllei includes two autonomous territories, six crown territories and various possessions including over a hundred satellite islands and islets. It is the 14th most densely-populated country in the world, with a population of 24.4 millions mostly situated around the Capital Region in the south-west of the Home Island. Its capital and largest city is Vekllei in the Capital Region, which is home to two-thirds of the total population. The interior plateau of the Home Island consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.
 
-The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist (Greenland). Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast. Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/vekllei/religion) and [Vekllei logographs](/utopia/vekllei/language/#3-topet). During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
+The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist (Greenland). Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast.
+
+Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/vekllei/religion) and [Vekllei logographs](/utopia/vekllei/culture/language/#3-topet). During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
 
 ![img](/images/shrine-minded.jpg)
 {{< hint caption >}}
@@ -75,7 +77,11 @@ Life in coastal boroughs like [Santes](/utopia/vekllei/landscape/boroughs/santes
 
 During Vekllei's Middle Period, the country was struck by civil unrest that escalated into civil war, which installed the Aismo Desimou as the first King of Vekllei. The monarchy succeeded until Vekllei's colonial Late Period, which fell to a navy coup d'etat that installed a military junta in government, which rapidly expanded Vekllei's colonial holdings. This practice would continue well into the 20th Century, and would spark the Africa Wars and Vekllei's atomic bombing by the United Kingdom in 2005, which collapsed the existing regime and ushered in British occupation of the country.
 
-Since independence in 2015, Vekllei's Floral Period has transformed the country, and has been marked by a period of tremendous stability and economic growth. Vekllei does not use money domestically, with most internal trade dependent on social exchange, barter and state service, but operates twin currencies (the *Government* and *Vekllei* Crown) in its trade internationally. Vekllei is a great power and has the world's fifth highest military expenditure. The country is highly developed and has exceptional liveability, and is placed highly in key social indicators: education, healthcare, quality of life, personal safety and housing, with a home-ownership rate of nearly 96%. It is a member of the United Nations' Non-Aligned Concern League. Since independence, Vekllei has maintained a strong position of armed neutrality, and is home to many international organisations, including the new United Nations Office, the International Federation of Journalists and the Universal Post Union. Immigrants account for 30% of the population, and multiracialism is enshrined in the constitution, and continues to shape national policies in education, housing, and politics. Vekllei has large foreign-born populations from Eastern and Southern Europe, North Africa, the British Isles, Hong Kong, and Latin America.
+Since independence in 2015, Vekllei's Floral Period has transformed the country, and has been marked by a period of tremendous stability and economic growth. Vekllei does not use money domestically, with most internal trade dependent on social exchange, barter and state service, but operates twin currencies (the *Government* and *Vekllei* Crown) in its trade internationally.
+
+Vekllei is a great power and has the world's fifth highest military expenditure. The country is highly developed and has exceptional liveability, and is placed highly in key social indicators: education, healthcare, quality of life, personal safety and housing, with a home-ownership rate of nearly 96%. It is a member of the United Nations' Non-Aligned Concern League.
+
+Since independence, Vekllei has maintained a strong position of armed neutrality, and is home to many international organisations, including the new United Nations Office, the International Federation of Journalists and the Universal Post Union. Immigrants account for 30% of the population, and multiracialism is enshrined in the constitution, and continues to shape national policies in education, housing, and politics. Vekllei has large foreign-born populations from Eastern and Southern Europe, North Africa, the British Isles, Hong Kong, and Latin America.
 
 ### Introduction
 
@@ -84,7 +90,9 @@ Since independence in 2015, Vekllei's Floral Period has transformed the country,
 A tourist map of Vekllei, showing the natural features of the Home Islands.
 {{</hint>}}
 
-*Vekllei*, officially the *Vekllei Commonwealth*, is a society blossoming with contradictions and anachronisms, which reflect and fold into each other to produce new forms of living. The country advocates *laissez-faire* market participation and soviet-style central planning simultaneously; it is the site of a healthy new democracy utterly divorced by public apathy, and a place of midcentury science-worship and automation used to bolster backwardness and agrarian living. This idea carries on and on, cascading throughout all levels of society. This is a nation bound constitutionally to secularism and religious freedoms, described in a document only legible through indigenous spiritualism. This is a culture intent on abolishing commodity-forms through the worship of products. To foreigners, **Vekllei** is a wonderland of contradictions that in conventional imagination would collapse in on each other, yet Vekllei has flourished in postwar independence, quickly rising up amongst the most developed and livable countries in the world.
+*Vekllei*, officially the *Vekllei Commonwealth*, is a society blossoming with contradictions and anachronisms, which reflect and fold into each other to produce new forms of living. The country advocates *laissez-faire* market participation and soviet-style central planning simultaneously; it is the site of a healthy new democracy utterly divorced by public apathy, and a place of midcentury science-worship and automation used to bolster backwardness and agrarian living. This idea carries on and on, cascading throughout all levels of society.
+
+This is a nation bound constitutionally to secularism and religious freedoms, described in a document only legible through indigenous spiritualism. This is a culture intent on abolishing commodity-forms through the worship of products. To foreigners, **Vekllei** is a wonderland of contradictions that in conventional imagination would collapse in on each other, yet Vekllei has flourished in postwar independence, quickly rising up amongst the most developed and livable countries in the world.
 
 Such a country deserves observation, then. This document and its subarticles are dedicated to the country of Vekllei and the facts of its utopian dimensions, and hope to illustrate a definitive and contemporary understanding of Vekllei's *Epoch of Rest* (what they call their 'floral period'). This is an illustration of how the beating systems in Vekllei look, the abstract data laid bare. Vekllei has an absurd multidimensionality about it, since it is a country in which all things are singularly perfect in their purity and good-heartedness while applying this qualifier to multiple ideas at the same time. In some ways, Vekllei thrives *because of* rather than *in spite of* these contradictions. This document is a good place to start.
 
@@ -151,12 +159,12 @@ A map showing Vekllei's overseas territories, including claims in the Lesser Ant
 
 Although Vekllei is unitary politically and considers itself a city-state, the Home Islands are divided geographically between 100 boroughs (as part of the *borough system*). Each borough is proportional to the land-sovereign's natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being [Bakur](/utopia/vekllei/boroughs/bakur), in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
 
-Each borough elects a **Senator** and two **House Members**. Overseas **Crown Lakes** territories vote in ministerial elections but do not vote for legislative members, and semiautonomous territories maintain their own parliaments.
+Each borough elects a **Senator** and two **House Members**. Overseas **Crown Lakes** territories vote in ministerial elections but do not vote for legislative members, and autonomous territories maintain their own parliaments.
 
 1. **Crown Lakes**, or *Kronaislagaisdelfia*, are governmental territories of human concern, analogous to public land or federal territory overseas.
 2. **Crown Land**, or *Kronaismioudelfia*, are nongovernmental territories of natural reservation. Although similar in some ways to nature reserves or national parks, their legal status in Vekllei is somewhat more complex; although *de facto* part of the country, the government does not recognise human sovereignty over these regions, a feature inherited from [Upen](/utopia/vekllei/religion).
 3. **Boroughs**, or *Baras*, are administrative regions in Vekllei named for their largest population centres. They form the basic subdivision of Vekllei territory and also constitute voting regions in the electoral system.
-4. **Provinces**, or *Piousvincinia*, are the territories in Vekllei's possession outside of the Home Islands. Most notably these include *Kala* (Greenland), the *Aismious Islands* (Faroe Islands), the *Kalina Isles* and the *Azores*. As inhabited provinces, both *Kala* and the *Azores* are considered semiautonomous territories, under purview of the *Kala People's Assembly* and the *Azores Holiday Government* respectively. The *Aismious* province and various other territories are considered *Crown Lakes*. Vekllei also retains over a hundred satellite islands and islets, most as *Crown Lands*.
+4. **Provinces**, or *Piousvincinia*, are the territories in Vekllei's possession outside of the Home Islands. Most notably these include *Kala* (Greenland), the *Aismious Islands* (Faroe Islands), the *Kalina Isles* and the *Azores*. As inhabited provinces, both *Kala* and the *Azores* are considered autonomous territories, under purview of the *Kala People's Assembly* and the *Azores Holiday Government* respectively. The *Aismious* province and various other territories are considered *Crown Lakes*. Vekllei also retains over a hundred satellite islands and islets, most as *Crown Lands*.
 
 In total, Vekllei's various possessions, provinces and administrative systems can be argued for as a type of federalism, though in practice more closely resembles a canton system or disparate republic.
 
@@ -314,10 +322,10 @@ Vekllei maintains a stable fertility rate of about 1.8 children per woman, indic
 ### Language
 
 {{< hint red >}}
-❖ Main article: *[Language in Vekllei](/utopia/vekllei/language/)*
+❖ Main article: *[Language in Vekllei](/utopia/vekllei/culture/language/)*
 {{< /hint >}}
 
-Modern Vekllei language (referred to simply as ***Vekllei***) is the national language of the country and spoken universally within the Home Islands and Vekllei's various Atlantic possessions. It is notable for its varied sublanguages, which include a signed language called [*Upotenne*](/utopia/vekllei/language/#6-upotenne) and various extant utility scripts.
+Modern Vekllei language (referred to simply as ***Vekllei***) is the national language of the country and spoken universally within the Home Islands and Vekllei's various Atlantic possessions. It is notable for its varied sublanguages, which include a signed language called [*Upotenne*](/utopia/vekllei/culture//language/#6-upotenne) and various extant utility scripts.
 
 Vekllei is spoken by around 25 million people, and a further 800,000 people around the world. Its relative complexity and provinciality lend to Vekllei's cultural obscurity abroad, since few Vekllei people are English literate.
 
@@ -366,6 +374,10 @@ Most large infrastructure projects, including transport, education, health, mili
 
 ### Transport
 
+{{< hint vnr >}}
+❖ Read more: *[Railways in Vekllei](/utopia/vekllei/society/rail/)*
+{{< /hint >}}
+
 Most Vekllei people do not own private autos, though they are available. Only 6% of the population possesses a driver license, and so most Vekllei people are dependent on the free and comprehensive network of transit systems that link settlement in the island, including trains of various guages, maglevs, trams, trolley busses, ferries, canal steamers, helijets, jets and light aircraft.
 
 Vekllei has one of the highest density rail networks in the world, with some 14,000 kilometres of rail of various gauges. Trains vary from maglev hypertrains that connect Vekllei's Five Crown Cities to steam locomotives still in use for cultural reasons in the Home Island's rural interior. Vekllei's smallest rail gauge used in commercial service spans fifteen inches, and is commonly found in mountainous local service. Vekllei simultaneously has the oldest passenger locomotives in regular service in the world alongside some of the newest, including regular overhauls and innovations in maglev and bullet train types.
@@ -377,6 +389,18 @@ For most Vekllei people, automobiles are accessed via *autopools*, shared vehicl
 Vekllei has [five state air carriers](/posts/2019-11-19-stewards/), which constitute a government monopoly on all air travel in the country. The international flag carrier is **Vekllei Overseas Airways**, which serves air routes internationally with a fleet of various aircraft, including nuclear monowings and supersonic jets.
 
 ### Housing
+
+All real estate in Vekllei is negotiated, purchased and leased at a municipal level. Vekllei depends heavily on stewardship as a factor of ownership. Free homes are rented on an open market and are awarded via a complicated interview process rife with favouritism, mitigated by the mandatory circulation of real estate agents around Vekllei. The more time a landholder spends working a property, the larger their portion of ownership over it grows. If the children of a landholder continue to live in the house, they will continue to own it, and the stronger their proportion of ownership will become.
+
+>He who works and lives above the shop, owns the shop
+
+-- Welcome to Vekllei, *Handbook to the Atlantic*, 2023
+
+Unusually, in Vekllei land has rights and owns itself, and human ownership is more or less a contract with that land. The borough positions itself as an intermediary. All land is, at its foundation, owned by the Landscape Sovereign; -- in other words, the land itself through Upen metaphysics.
+
+In practice, land ownership is portioned between several different things depending on their relationship to that land. The borough has a monopoly, but most Vekllei people "own" their houses. All buildings are built by an architect with contracts from the municipality and the client. It would be nearly impossible for the Vekllei state to evict someone who has lived and worked land for generations, but a borough can intervene on the behalf of landscape or the structure if it's being damaged.
+
+Real estate is also used as compensation for difficult jobs. Doctors are usually housed close to their place of work in nice apartments built for that purpose. Most people who "rent" in Vekllei are in this situation, where their house depends on their work. Usually, after a certain amount of time, they naturally wrest ownership away from the company (although in common good faith the property is officially gifted). Another good example is submariners, who have good real estate near Vekllei's naval bases. This post mentions Ayn now owns her home from her work after a decade of service.
 
 Vekllei's borough municipalities maintain a monopoly on real estate purchase in the country, although the national government and high court retain the right of compulsory acquisition. Most neighbourhoods are planned by municipal architects, leading some to call Vekllei an 'architocracy'. Homes in planned neighbourhoods are often awarded via a lottery system in places of high demand, or are otherwise floated freely on the market. It is common for housing to be dependent on employment, especially in the Capital Region, and real estate often forms part of *viede compaszion*, or 'life compensation,' which is how most business in Vekllei rewards labour.
 
@@ -391,7 +415,7 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 [Tzipora](/utopia/characters/#2-tzipora-zelda-desmoisnes) races a [Royal Mail](/utopia/vekllei/society/mail/) rural [mail train](/utopia/vekllei/society/mail/#fleet) to its next stop. | *[Racing the Post Office to the Station](/posts/2021-02-05-mailtrain/)*
 {{</hint>}}
 
-{{< hint orange >}}
+{{< hint mail >}}
 ❖ Main article: *[Post in Vekllei](/utopia/vekllei/society/mail/)*
 {{< /hint >}}
 

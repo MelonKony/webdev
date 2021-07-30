@@ -22,6 +22,9 @@ color: var(--color-red);
 .markdown a:visited {
 color: var(--color-red);
 }
+.markdown .book-tabs input[type="radio"]:checked + label {
+    border-bottom: 1px solid var(--color-red);
+}
 </style>
 
 <div id="headerbox">
@@ -103,7 +106,7 @@ Spoken Vekllei draws from two glossaries, called *Oa* and *Loh*. These glossarie
 - ##### Loh (*lit.* Moon)
   *Loh* is considered to have 'cyclical' traits. Loh words are largely derived from Old Vekllei (including *Icelandic/Islandi*), and so its glossary is considerably less defined and dependent on older linguistic artefacts. *Loh* words incorporate sounds and grammatical artefacts from extinct languages within Vekllei's ancient history, and so it is often associated with traditional or formal speech. It is commonly gendered as feminine, and is associated with winter and autumn.
 
- In modernity, this binary produces bizarre psycholinguistic quirks. For example, a sailing vessel (*Siv*) is derived from the *Oa*, historically because the *Oa* glossary was favoured for machines between the 10th and 16th Centuries. This genders all modern oceangoing vessels as male figures to this day, and due to *Siv*'s linguistic derivatives, ties ships permanently to the lumber and woodlands critical to wooden shipbuilding. From the 20th century onwards, however, most vehicles are regarded impermanent through *Loh*, and so all cars in Vekllei are conceptually female.  
+ In modernity, this binary produces bizarre psycholinguistic quirks. For example, a sailing vessel (*Siv*) is derived from the *Oa*, historically because the *Oa* glossary was favoured for machines between the 10th and 16th Centuries. This genders all modern oceangoing vessels as male figures to this day, and due to *Siv*'s linguistic derivatives, ties ships permanently to the lumber and woodlands critical to wooden shipbuilding. From the 20th century onwards, however, most vehicles are regarded impermanent through *Loh*, and so all cars in Vekllei are conceptually female.
 
 ### Phonology
 
@@ -116,7 +119,7 @@ Pure vowels in Vekllei are characterised by their lax, non-rhotic sound, and the
 {{< details title="Pure Vowels" open=true >}}
 |               | Front |      |                | Central |      | Back  |      |
 |---------------|-------|------|----------------|---------|------|-------|------|
-|               | Short | Long | Long (rounded) | Short   | Long | Short | Long |
+|               | Short | Long | Long (round) | Short   | Long | Short | Long |
 | **Close**     | ɪ     | iː   | y              |         | ʉː   | ʊ     |      |
 | **Close-Mid** |       |      | ø              |         |      |       |      |
 | **Mid**       | e     | eː   |                | ə       | ɜː   | ɔ     | oː   |
@@ -131,13 +134,13 @@ From foundational monophthongs, gliding or diphthong vowels are often determined
 {{< details title="Diphthongs" open=true >}}
 {{< tabs "diphthongs" >}}
 {{< tab "Ocean Vowels" >}}
-|               | **Vowel**          |
+|               |     Vowel          |
 |---------------|--------------------|
 | **Closing**   | æɪ, ɑɪ, oɪ, æɔ, əʉ |
 | **Centering** | ɪə                 |
 {{< /tab >}}
 {{< tab "Floral Vowels" >}}
-| **Vowel** | Onset glide | Onset glide | Onset glide |
+|   Vowel   | Onset glide | Onset glide | Onset glide |
 |-----------|-------------|-------------|-------------|
 | **Vowel** | **/j/**     | **/ɥ/**     | **/w/**     |
 | **/a/**   | /ja/        | /ɥa/        | /wa/        |
