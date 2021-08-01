@@ -10,7 +10,7 @@ bookSearchExclude: true
 </div>
 
 {{< hint info >}}
-**❖ Note from the Editor**  
+**❖ Note from the Editor**
 I occasionally publish letters to followers and patrons of the project to keep them informed on what's going on.
 {{< /hint >}}
 
@@ -28,4 +28,5 @@ Listed below are copies of the letters distributed to patrons. **If you would li
 {{< button relref="/newsdesk/patreon/letters/2021/jan.md" >}}Jan{{< /button >}}
 {{< button relref="/newsdesk/patreon/letters/2021/feb.md" >}}Feb{{< /button >}}
 {{< button relref="/newsdesk/patreon/letters/2021/may.md" >}}May{{< /button >}}
+{{< button relref="/newsdesk/patreon/letters/2021/july.md" >}}July{{< /button >}}
 <br>
