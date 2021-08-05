@@ -20,4 +20,4 @@ jobs:
           extended: true
 
       - name: Run Hugo
-        run: hugo --themesDir ../..
+        run: hugo --themesDir ../
