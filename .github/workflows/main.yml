@@ -21,4 +21,4 @@ jobs:
 
       - name: Run Hugo
         working-directory: webdev
-        run: hugo
+        run: hugo --theme=book
