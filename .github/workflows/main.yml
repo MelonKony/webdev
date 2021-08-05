@@ -21,4 +21,4 @@ jobs:
 
       - name: Run Hugo
         working-directory: webdev
-        run: hugo --minify
+        run: hugo
