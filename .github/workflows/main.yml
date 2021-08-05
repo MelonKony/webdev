@@ -20,5 +20,4 @@ jobs:
           extended: true
 
       - name: Run Hugo
-        working-directory: webdev
-        run: hugo --theme=hugo-book
+        run: hugo --themesDir ../..
